@@ -1,0 +1,554 @@
+31 Patch Control
+
+0
+0
+1
+:\Users\christj\Desktop\Everything\Class\Labs\121Elements\ManualXML\121-Lab-Manual.xml
+181
+9
+8
+
+:\Users\christj\Desktop\Everything\Work\OnlineBook\ABIP\src\part-introMFE.ptx
+DATA
+5243122 1 38 101 38 136 182 182 1868 716 1 0 1153 646 617 374 1 2 69 1338 1338 52 1 0 136 38  0 0 0
+vitae.tex
+TeX
+1060859 1 -1 2329 -1 2672 104 104 1790 638 0 1 41 425 -1 -1 0 0 -1 -1 -1 -1 1 0 2672 -1  0 -1 0
+Makefile
+DATA:UNIX
+5341426 1 87 3 87 78 78 78 1764 612 1 0 737 1428 -1 -1 0 0 -1 -1 -1 -1 1 0 78 87  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\user\mathbook-prof-html.xsl
+DATA
+5243122 0 2 1 3 1 52 52 1738 567 1 0 73 51 -1 -1 0 0 -1 -1 -1 -1 1 0 1 3  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\user\mathbook-prof-latex.xsl
+DATA
+5243122 0 11 38 11 39 26 26 1712 560 1 0 377 187 -1 -1 0 0 -1 -1 -1 -1 1 0 39 11  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\user\mathbook-abip-latex.xsl
+DATA
+5243122 0 0 1 0 1 0 0 1686 534 1 0 73 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+:\Users\christj\Desktop\Everything\Class\Labs\220Anything\220PTXManual\src\220-Lab-Manual.ptx
+HTML
+17926139 0 -1 1735 -1 0 52 52 1738 586 0 1 43 0 -1 -1 0 0 -1 -1 -1 -1 1 0 0 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\Labs\121Elements\ManualXML\121-Lab-Manual.xml
+HTML:UNIX
+17926139 1 -1 28089 -1 29261 0 0 1158 259 0 1 156 594 1098 216 0 1 165 348 -1 19571 1 0 29261 -1  0 -1 0
+:\Users\christj\Desktop\Everything\mathbook\schema\pretext.xml
+DATA
+273678578 0 324 493 325 1 208 208 1894 742 1 0 73 -578 -1 -1 0 0 -1 -1 -1 -1 1 0 1 325  0 0 0
+PROF.xml
+HTML
+286361595 0 -1 8827 -1 8851 26 26 1712 560 0 1 353 288 73 558 1 0 28065 -1 -1 28054 1 0 8851 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\Labs\LabSetup\TMC-lab-setup.tex
+TeX:UNIX
+269594619 0 -1 0 -1 0 156 156 1842 690 0 1 41 0 -1 -1 0 0 -1 -1 -1 -1 1 0 0 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Work\OnlineBook\ABIP\ABIP.xml
+HTML:UNIX
+286361595 0 -1 4700 -1 4700 150 150 1766 775 0 1 43 738 -1 -1 0 0 38 -1 -1 38 1 0 4700 -1  0 0 0
+src\backmatterPROF.ptx
+DATA
+273678578 1 2 1 43 1 26 26 1712 560 1 0 73 731 -1 -1 0 0 -1 -1 -1 -1 1 0 1 43  0 0 0
+src\part-Teaching.ptx
+DATA
+5243122 0 0 1 0 1 0 0 1686 534 1 0 73 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+src\part-Service.ptx
+DATA
+5243122 0 0 1 0 1 234 234 1920 768 1 0 73 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+src\part-Scholarship.ptx
+DATA
+273678578 1 93 70 93 134 208 208 1894 742 1 0 1137 306 -1 -1 0 0 -1 -1 -1 -1 1 0 134 93  0 0 0
+src\part-Appendix.ptx
+DATA
+273678578 0 0 1 0 1 182 182 1868 716 1 0 73 -197 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+src\frontmatterPROF.ptx
+DATA
+273678578 0 98 1 62 45 156 156 1842 690 1 0 425 122 -1 -1 0 0 -1 -1 -1 -1 1 0 45 62  0 0 0
+src\docinfoPROF.ptx
+DATA
+273678578 1 84 1 2 1 130 130 1816 664 1 0 73 -643 -1 -1 0 0 -1 -1 -1 -1 1 0 1 2  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\user\mathbook-abip-html.xsl
+DATA
+273678578 0 0 1 0 1 234 234 1920 768 1 0 73 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\user\mathbook-setup-latex.xsl
+DATA
+273678578 1 11 1 13 1 208 208 1894 742 1 0 73 221 -1 -1 0 0 -1 -1 -1 -1 1 0 1 13  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\user\mathbook-setup-html.xsl
+DATA
+5243122 1 18 1 19 1 182 182 1868 716 1 0 73 323 -1 -1 0 0 -1 -1 -1 -1 1 0 1 19  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\user\mathbook-lab-latex.xsl
+DATA
+5243122 0 0 1 0 1 156 156 1842 690 1 0 73 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\user\mathbook-lab-html.xsl
+DATA
+273678578 1 0 1 22 1 130 130 1816 664 1 0 73 374 -1 -1 0 0 -1 -1 -1 -1 1 0 1 22  0 0 0
+:\Users\christj\Desktop\Everything\Work\OnlineBook\ABIP\ABIPincluded.sed
+DATA
+273678578 0 0 1 0 1 104 104 1790 638 1 0 73 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+:\Users\christj\Desktop\Everything\Work\OnlineBook\ABIP\ABIP.sed
+DATA
+273678578 0 0 1 2 52 78 78 1764 612 1 0 481 34 -1 -1 0 0 -1 -1 -1 -1 1 0 52 2  0 0 0
+:\Users\christj\Desktop\Everything\Work\OnlineBook\ABIP\src\docinfoABIP.ptx
+DATA
+273678578 0 0 1 0 1 104 104 1790 638 1 0 73 -4488 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+:\Users\christj\Desktop\Everything\Class\Labs\121Elements\ManualXML\fall-lab-manual.tex
+TeX:UNIX:UTF-8
+17936379 1 -1 37526 -1 37483 100 100 1258 359 0 1 49 340 -1 -1 0 0 40 -1 -1 40 1 0 37483 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\Labs\121Elements\ManualXML\fall-lab-manual.toc
+TeX:AUX
+1060850 0 27 40 27 107 234 234 1920 762 0 0 873 425 -1 -1 0 0 33 0 0 33 1 0 107 27  0 0 0
+:\Users\christj\Desktop\Everything\Class\Labs\121Elements\121out.tex
+TeX:UNIX
+1159163 0 -1 186405 -1 186468 26 26 1712 554 0 1 41 136 -1 -1 0 0 37 -1 -1 37 1 0 186468 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\Labs\121Elements\ManualXML\121-Lab-Manual.tex
+TeX
+1060859 1 -1 167865 -1 178434 0 0 1158 259 0 1 41 340 401 374 0 0 189667 -1 -1 178586 1 0 178434 -1  0 -1 0
+:\Users\christj\Desktop\Everything\mathbook\examples\sample-article\sample-article.xml
+HTML
+17827835 1 -1 2701 -1 2811 25 25 1183 284 0 1 262 378 313 527 1 0 222110 -1 -1 211446 1 0 2811 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\Labs\121Elements\ManualXML\hmwk.sty
+TeX:STY
+1060850 1 66 1 67 1 50 50 1208 309 0 0 25 272 -1 -1 0 0 59 0 0 59 1 0 1 67  0 0 0
+:\Users\christj\Desktop\Everything\Class\Labs\121Elements\ManualXML\scripttolistbyname
+DATA:UNIX
+5341426 0 0 1 0 1 0 0 1686 528 1 0 73 0 -1 -1 0 0 10 0 0 10 1 0 1 0  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\xsl\mathbook-html.xsl
+DATA
+5243122 1 5874 52 5874 56 125 125 1233 517 1 0 513 221 -1 -1 0 0 43 0 0 43 1 0 56 5874  0 0 0
+:\Users\christj\Desktop\Everything\Class\Labs\121Elements\ManualXML\minimal-exercise-wrap.ptx
+HTML
+17827835 0 -1 5621 -1 12527 78 78 1764 606 0 1 317 432 -1 -1 0 0 39 -1 -1 39 1 0 12527 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Calendar\term\TermTaskS18.tex
+TeX
+269496315 0 -1 0 -1 0 130 130 1366 450 0 1 41 0 -1 -1 0 0 -1 -1 -1 -1 1 0 0 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\Labs\121Elements\ManualXML\Makefile
+DATA
+273678578 0 0 1 0 1 26 26 1712 554 1 0 73 -1805 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+:\Users\christj\Desktop\Everything\Class\Labs\121Elements\ManualXML\minimal-mag.ptx
+HTML
+286263291 0 -1 43 -1 2005 78 78 1764 606 0 1 106 720 -1 -1 0 0 39 -1 -1 39 1 0 2005 -1  0 0 0
+:\Users\christj\Downloads\minimal-mag.ptx
+DATA
+273678578 0 0 1 0 1 52 52 1738 580 1 0 73 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+:\Users\christj\Desktop\Everything\Class\Labs\121Elements\121-Lab-Manual-holder.xml
+DATA
+273678578 1 0 17 6 69 52 52 1738 580 1 0 617 102 -1 -1 0 0 -1 -1 -1 -1 1 0 69 6  0 0 0
+:\Users\christj\Desktop\Everything\Class\Labs\121Elements\121-Lab-Manual.tex
+TeX
+269496315 0 -1 378987 -1 378120 0 0 1686 528 0 1 401 459 -1 -1 0 0 -1 -1 -1 -1 1 0 378120 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\Labs\122Elements\122-Lab-ManualS16.tex
+TeX
+269496315 2 -1 150117 -1 150121 182 182 1868 710 0 1 481 374 -1 -1 0 0 -1 -1 -1 -1 1 0 150121 -1  0 -1 0
+:\Users\christj\Desktop\Everything\mathbook\examples\sample-book\sample-book.xml
+DATA
+273678578 1 40 21 40 52 100 100 1258 359 1 0 481 17 -1 -1 0 0 39 0 0 39 1 0 52 40  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\examples\sample-book\cyclic.xml
+DATA
+273678578 0 319 123 395 1 125 125 1283 384 1 0 73 102 -1 -1 0 0 40 0 0 40 1 0 1 395  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\examples\sample-book\backmatter.xml
+DATA
+273678578 0 30 1 38 15 150 150 1258 542 1 0 185 221 -1 -1 0 0 40 0 0 40 1 0 15 38  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\examples\sample-book\frontmatter.xml
+DATA
+273678578 0 130 1237 130 1 50 50 1208 309 1 0 73 544 -1 -1 0 0 40 0 0 40 1 0 1 130  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\xsl\mathbook-units.xsl
+DATA
+273678578 0 0 1 0 1 50 50 1233 315 1 0 73 0 -1 -1 0 0 40 0 0 40 1 0 1 0  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\examples\webwork\minimal\mini.xml
+DATA
+273678578 0 0 1 17 31 75 75 1183 467 1 0 313 289 -1 -1 0 0 -1 -1 -1 -1 1 0 31 17  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\examples\webwork\README.md
+DATA
+273678578 1 2 66 2 89 100 100 1208 492 1 0 777 34 -1 -1 0 0 -1 -1 -1 -1 1 0 89 2  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\examples\minimal\minimal.xml
+DATA
+273678578 0 44 1 26 43 125 125 1283 384 1 0 409 442 -1 -1 0 0 40 0 0 40 1 0 43 26  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\examples\letter\sample-letter.xml
+DATA
+273678578 0 0 1 0 1 0 0 1108 392 1 0 73 -1286 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\examples\letter\README.md
+DATA
+273678578 0 0 1 3 1 25 25 1133 417 1 0 73 51 -1 -1 0 0 -1 -1 -1 -1 1 0 1 3  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\examples\humanities\poetry.xml
+DATA
+5243122 0 2638 35 2638 35 150 150 1258 542 1 0 345 30317 -1 -1 0 0 -1 -1 -1 -1 1 0 35 2638  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\examples\humanities\music.xml
+DATA
+5243122 1 102 1 112 1 125 125 1233 517 1 0 73 442 -1 -1 0 0 -1 -1 -1 -1 1 0 1 112  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\examples\humanities\hia.xml
+DATA
+5243122 0 0 1 0 1 100 100 1208 492 1 0 73 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\examples\hello-world\hello-world.xml
+DATA
+273678578 0 0 1 0 1 75 75 1183 467 1 0 73 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\examples\fonts\fonts-and-characters.xml
+DATA
+5243122 0 0 1 0 1 50 50 1158 442 1 0 73 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\examples\epub\epub-sampler.xml
+DATA
+5243122 0 39 1 33 1 25 25 1133 417 1 0 73 204 -1 -1 0 0 -1 -1 -1 -1 1 0 1 33  0 0 0
+:\Users\christj\Desktop\Everything\Work\Online Book\Prep-work\Cengage\Christensen Cengage Linked Book Proposal.tex
+TeX
+1060859 0 -1 0 -1 0 50 50 1287 363 0 1 41 0 -1 -1 0 0 41 -1 -1 41 1 0 0 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Work\Online Book\Prep-work\Pearson\Christensen Pearson Linked Book Proposal.tex
+TeX
+1060859 0 -1 0 -1 10776 25 25 1262 338 0 1 217 187 -1 -1 0 0 41 -1 -1 41 1 0 10776 -1  0 -1 0
+:\Users\christj\Desktop\Everything\mathbook\examples\sample-book\bookinfo.xml
+DATA
+5243122 1 58 1 64 1 25 25 1183 284 1 0 73 357 -1 -1 0 0 40 0 0 40 1 0 1 64  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\examples\sample-book\sets.xml
+DATA
+273678578 0 78 1 679 53 75 75 1233 334 1 0 489 340 -1 -1 0 0 40 0 0 40 1 0 53 679  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\examples\minimal\minimal.tex
+TeX:UNIX:UTF-8
+286371835 0 -1 0 -1 378 75 75 1233 372 0 1 521 136 -1 -1 0 0 40 -1 -1 40 1 0 378 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Work\Online Book\MathBook XML\quickstart.xml
+DATA
+273678578 0 3 1 6 1 25 25 1262 338 1 0 73 102 -1 -1 0 0 39 0 0 39 1 0 1 6  0 0 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Giordano Homework\hmwk16D.tex
+TeX:UNIX
+269594619 0 -1 11058 -1 0 25 25 1262 338 0 1 41 0 -1 -1 0 0 29 -1 -1 29 1 0 0 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 142 General Physics\test.sty
+TeX:STY
+1060850 0 53 1 250 1 75 75 1312 388 0 0 25 408 -1 -1 0 0 29 0 0 29 1 0 1 250  0 0 0
+:\Users\christj\Desktop\Everything\Work\Online Book\Processing.html
+HTML:UNIX
+269584379 0 -1 0 -1 861 50 50 1287 363 0 1 128 -3264 -1 -1 0 0 -1 -1 -1 -1 1 0 861 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\F16SyllabusP121Christensen.tex
+TeX
+269496315 1 -1 344 -1 407 75 75 1312 388 0 1 1097 136 -1 -1 0 0 24 -1 -1 24 1 0 407 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk05E.tex
+TeX:UNIX
+1159163 0 -1 7914 -1 7914 75 75 1312 388 0 1 41 187 -1 -1 0 0 29 -1 -1 29 1 0 7914 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk05A.tex
+TeX:UNIX
+1159163 0 -1 13262 -1 13829 100 100 1337 413 0 1 41 238 -1 -1 0 0 29 -1 -1 29 1 0 13829 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk05D.tex
+TeX:UNIX
+1159163 1 -1 6501 -1 6546 125 125 1362 438 0 1 433 255 -1 -1 0 0 29 -1 -1 29 1 0 6546 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk06E.tex
+TeX:UNIX
+1159163 0 -1 1961 -1 0 50 50 1287 363 0 1 41 0 -1 -1 0 0 29 -1 -1 29 1 0 0 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk06A.tex
+TeX:UNIX
+1159163 0 -1 19960 -1 19960 0 0 1237 313 0 1 897 272 -1 -1 0 0 29 -1 -1 29 1 0 19960 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk06D.tex
+TeX:UNIX
+1159163 0 -1 15859 -1 499 25 25 1262 338 0 1 49 238 -1 -1 0 0 29 -1 -1 29 1 0 499 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk07E.tex
+TeX:UNIX
+1159163 0 -1 2876 -1 2876 50 50 1287 344 0 1 337 51 -1 -1 0 0 29 -1 -1 29 1 0 2876 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk07A.tex
+TeX:UNIX
+1159163 1 -1 2995 -1 5028 0 0 1237 313 0 1 41 306 -1 -1 0 0 29 -1 -1 29 1 0 5028 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk07D.tex
+TeX:UNIX
+1159163 1 -1 110 -1 177 25 25 1262 338 0 1 41 119 -1 -1 0 0 29 -1 -1 29 1 0 177 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk08E.tex
+TeX:UNIX
+1159163 1 -1 3757 -1 4827 50 50 1287 344 0 1 41 391 -1 -1 0 0 29 -1 -1 29 1 0 4827 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk08A.tex
+TeX:UNIX
+1159163 0 -1 12240 -1 646 0 0 1237 294 0 1 41 255 -1 -1 0 0 29 -1 -1 29 1 0 646 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\Previous Years\PHY 121 F09\121 Elements\test2-09.tex
+TeX
+1060859 0 -1 3011 -1 0 0 0 1237 313 0 1 41 0 -1 -1 0 0 29 -1 -1 29 1 0 0 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\test1-16.tex
+TeX:UNIX
+1159163 1 -1 10735 -1 15181 75 75 1312 388 0 1 41 357 -1 -1 0 0 29 -1 -1 29 1 0 15181 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\final16.tex
+TeX
+17838075 0 -1 2372 -1 2372 125 125 1362 438 0 1 129 204 -1 -1 0 0 39 -1 -1 39 1 0 2372 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\test2-16.tex
+TeX:UNIX
+1159163 1 -1 17682 -1 23609 125 125 1362 438 0 1 41 391 -1 -1 0 0 29 -1 -1 29 1 0 23609 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\EQN-2-16.tex
+TeX
+1060859 1 -1 6647 -1 569 125 125 1362 438 0 1 41 136 -1 -1 0 0 39 -1 -1 39 1 0 569 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk08D.tex
+TeX:UNIX
+1159163 1 -1 246 -1 499 25 25 1262 319 0 1 41 187 -1 -1 0 0 29 -1 -1 29 1 0 499 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\PHY121 homework.tex
+TeX
+1060859 0 -1 1754 -1 1755 25 25 1262 338 0 1 161 255 -1 -1 0 0 29 -1 -1 29 1 0 1755 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\Previous Years\PHY 121 F15\final15.tex
+TeX
+269496315 2 -1 95907 -1 95917 100 100 1337 413 0 1 153 404 -1 -1 0 0 -1 -1 -1 -1 1 0 95917 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Quiz and Tests\test1s12.tex
+TeX:UNIX
+269594619 0 -1 2182 -1 944 25 25 1262 338 0 1 41 238 -1 -1 0 0 29 -1 -1 29 1 0 944 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk04E.tex
+TeX:UNIX
+1159163 0 -1 10133 -1 5608 0 0 1237 294 0 1 41 204 -1 -1 0 0 29 -1 -1 29 1 0 5608 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk04A.tex
+TeX:UNIX
+1159163 0 -1 15143 -1 21059 125 125 1362 419 0 1 41 408 -1 -1 0 0 29 -1 -1 29 1 0 21059 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk04D.tex
+TeX:UNIX
+1159163 0 -1 3034 -1 3177 100 100 1337 394 0 1 241 272 -1 -1 0 0 29 -1 -1 29 1 0 3177 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\test1-15.tex
+TeX:UNIX
+286371835 0 -1 16587 -1 1653 50 50 1287 344 0 1 41 187 -1 -1 0 0 29 -1 -1 29 1 0 1653 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk02D.tex
+TeX:UNIX
+269594619 1 -1 8517 -1 8581 25 25 1262 338 0 1 41 408 -1 -1 0 0 29 -1 -1 29 1 0 8581 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\quiz1-16.tex
+TeX:UNIX
+1159163 0 -1 3635 -1 0 25 25 1262 338 0 1 41 0 -1 -1 0 0 23 -1 -1 23 1 0 0 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\MAT 310\MAT 310 F13\hmwk03D.tex
+TeX:UNIX
+1159163 0 -1 0 -1 0 75 75 1312 388 0 1 41 0 -1 -1 0 0 29 -1 -1 29 1 0 0 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\test.cls
+TeX:STY
+1060850 0 0 1 0 1 125 125 1362 438 0 0 25 0 -1 -1 0 0 51 0 0 51 1 0 1 0  0 0 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\test1-13.tex
+TeX:UNIX
+1159163 1 -1 9670 -1 9739 25 25 1262 319 0 1 41 119 -1 -1 0 0 29 -1 -1 29 1 0 9739 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\EQN1.tex
+TeX:UNIX
+1159163 0 -1 1522 -1 1522 100 100 1337 413 0 1 41 34 -1 -1 0 0 29 -1 -1 29 1 0 1522 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Calendar\weekly-sched\Faculty committee schedules.tex
+TeX
+269496315 0 -1 1144 -1 848 25 25 1262 338 0 1 353 170 -1 -1 0 0 28 -1 -1 28 1 0 848 -1  0 -1 0
+:\Users\christj\Desktop\Everything\TMC\Promotion Tenure\Tenure Documents\vitae.tex
+TeX
+269496315 0 -1 17079 -1 17291 50 50 1287 363 0 1 249 272 -1 -1 0 0 -1 -1 -1 -1 1 0 17291 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Calendar\weekly-sched\blank-week.tex
+TeX
+269496315 0 -1 771 -1 771 25 25 1262 338 0 1 273 153 -1 -1 0 0 -1 -1 -1 -1 1 0 771 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk03D.tex
+TeX:UNIX
+1159163 1 -1 2105 -1 3464 0 0 1237 313 0 1 41 391 -1 -1 0 0 29 -1 -1 29 1 0 3464 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk03A.tex
+TeX:UNIX
+1159163 0 -1 17897 -1 15489 50 50 1287 363 0 1 41 170 -1 -1 0 0 29 -1 -1 29 1 0 15489 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk03E.tex
+TeX:UNIX
+1159163 0 -1 38470 -1 41633 75 75 1312 369 0 1 41 204 -1 -1 0 0 29 -1 -1 29 1 0 41633 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk02A.tex
+TeX:UNIX
+1159163 0 -1 19396 -1 19397 0 0 1237 313 0 1 41 238 -1 -1 0 0 29 -1 -1 29 1 0 19397 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk02E.tex
+TeX:UNIX
+1159163 0 -1 13866 -1 13867 50 50 1287 363 0 1 41 272 -1 -1 0 0 29 -1 -1 29 1 0 13867 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk01A.tex
+TeX:UNIX
+1159163 0 -1 6560 -1 6622 50 50 1287 363 0 1 41 255 -1 -1 0 0 29 -1 -1 29 1 0 6622 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk01D.tex
+TeX:UNIX
+1159163 0 -1 13680 -1 431 75 75 1312 388 0 1 41 255 -1 -1 0 0 29 -1 -1 29 1 0 431 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk01E.tex
+TeX:UNIX
+1159163 0 -1 3180 -1 6703 50 50 1287 363 0 1 41 255 -1 -1 0 0 29 -1 -1 29 1 0 6703 -1  0 -1 0
+:\Users\christj\Desktop\Everything\AJP Review\29142 Average Velocity as a Function of Distance\ref_report.tex
+TeX:UNIX
+269594619 0 -1 6340 -1 6341 0 0 1237 294 0 1 193 391 -1 -1 0 0 36 -1 -1 36 1 0 6341 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\syllabus.cls
+TeX:STY
+1060850 2 30 14 30 19 0 0 1237 313 0 0 169 204 -1 -1 0 0 60 0 0 60 1 0 19 30  0 0 0
+:\Users\christj\Desktop\Everything\Calendar\weekly-sched\F16Sched.tex
+TeX
+269496315 0 -1 2574 -1 3070 100 100 1337 413 0 1 49 289 -1 -1 0 0 -1 -1 -1 -1 1 0 3070 -1  0 -1 0
+:\Users\christj\Desktop\Top Drawer\Tenure Documents\vitae.tex
+TeX
+286273531 0 -1 6198 -1 6112 50 50 1287 363 0 1 41 204 -1 -1 0 0 73 -1 -1 73 1 0 6112 -1  0 -1 0
+:\Users\christj\Desktop\Everything\TMC\QEP\Meetings\CT Definition\CT Defns.tex
+TeX
+269561851 0 -1 0 -1 0 50 50 1287 363 0 1 41 0 -1 -1 0 0 29 -1 -1 29 1 0 0 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Quiz and Tests\Final S16.tex
+TeX
+269496315 0 -1 31078 -1 2014 0 0 1237 313 0 1 41 408 -1 -1 0 0 29 -1 -1 29 1 0 2014 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Quiz and Tests\test4s14.tex
+TeX:UNIX
+1159163 1 -1 8012 -1 5160 75 75 1312 388 0 1 41 51 -1 -1 0 0 29 -1 -1 29 1 0 5160 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Quiz and Tests\test3s13.tex
+TeX:UNIX
+1159163 1 -1 13230 -1 15445 50 50 1287 363 0 1 41 408 -1 -1 0 0 29 -1 -1 29 1 0 15445 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Quiz and Tests\test3s16.tex
+TeX:UNIX
+1159163 1 -1 13085 -1 15221 75 75 1312 388 0 1 41 408 -1 -1 0 0 29 -1 -1 29 1 0 15221 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Quiz and Tests\test2s16.tex
+TeX
+1060859 1 -1 20271 -1 20320 75 75 1312 388 0 1 41 289 -1 -1 0 0 29 -1 -1 29 1 0 20320 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Quiz and Tests\test1s16.tex
+TeX:UNIX
+1159163 1 -1 1569 -1 1758 100 100 1337 413 0 1 41 323 -1 -1 0 0 29 -1 -1 29 1 0 1758 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Quiz and Tests\FinalEqn.tex
+TeX
+1060859 0 -1 909 -1 0 25 25 1262 338 0 1 41 0 -1 -1 0 0 29 -1 -1 29 1 0 0 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Giordano Homework\Efield.tex
+TeX:UNIX
+1159163 0 -1 4494 -1 4495 125 125 1362 438 0 1 161 306 -1 -1 0 0 29 -1 -1 29 1 0 4495 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Giordano Homework\lenses.tex
+TeX:UNIX
+1159163 0 -1 5090 -1 5093 125 125 1362 419 0 1 201 187 -1 -1 0 0 29 -1 -1 29 2 0 5093 -1 5 2442 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Giordano Homework\hmwk24D.tex
+TeX:UNIX
+17936379 1 -1 275 -1 301 125 125 1362 419 0 1 41 153 -1 -1 0 0 29 -1 -1 29 2 0 301 -1 5 9086 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Giordano Homework\hmwk24A.tex
+TeX:UNIX
+1159163 0 -1 17729 -1 17728 0 0 1237 294 0 1 193 374 -1 -1 0 0 29 -1 -1 29 1 0 17728 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Quiz and Tests\test.sty
+TeX:STY
+1060850 1 240 1 241 1 25 25 1403 555 0 0 25 462 -1 -1 0 0 27 0 0 27 1 0 1 241  0 0 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\PHY 122 homework.tex
+TeX
+1060859 0 -1 1703 -1 1705 75 75 1312 388 0 1 353 255 -1 -1 0 0 29 -1 -1 29 1 0 1705 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\PHY122SyllabusChristensenS16.tex
+TeX
+17838075 1 -1 11990 -1 12479 100 100 1337 413 0 1 289 102 -1 -1 0 0 24 -1 -1 24 1 0 12479 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 142 General Physics\Finals14.tex
+TeX
+269496315 1 -1 19420 -1 21013 125 125 1362 438 0 1 41 323 -1 -1 0 0 29 -1 -1 29 1 0 21013 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Quiz and Tests\test312.tex
+TeX
+269496315 0 -1 0 -1 19935 25 25 1262 338 0 1 41 408 -1 -1 0 0 -1 -1 -1 -1 1 0 19935 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Quiz and Tests\test310.tex
+TeX
+269496315 0 -1 0 -1 18612 0 0 1237 313 0 1 41 408 -1 -1 0 0 -1 -1 -1 -1 1 0 18612 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Giordano Homework\hmwk19D.tex
+TeX:UNIX
+1159163 0 -1 4514 -1 3981 0 0 1378 530 0 1 185 221 -1 -1 0 0 29 -1 -1 29 1 0 3981 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Giordano Homework\hmwk23D.tex
+TeX:UNIX
+1159163 0 -1 5567 -1 5579 100 100 1478 630 0 1 1121 407 -1 -1 0 0 29 -1 -1 29 1 0 5579 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Giordano Homework\hmwk23A.tex
+TeX:UNIX
+1159163 1 -1 4395 -1 4495 125 125 1503 655 0 1 881 237 -1 -1 0 0 29 -1 -1 29 1 0 4495 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Giordano Homework\hmwk20D.tex
+TeX:UNIX
+1159163 0 299 153 -1 9461 50 50 1428 580 0 1 449 373 -1 -1 0 0 29 -1 -1 29 1 0 9461 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Giordano Homework\hmwk20A.tex
+TeX:UNIX
+1159163 1 -1 1550 -1 6032 75 75 1453 605 0 1 41 462 -1 -1 0 0 29 -1 -1 29 1 0 6032 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Giordano Homework\hmwk16E.tex
+TeX:UNIX
+1159163 0 -1 1685 -1 1685 50 50 1287 363 0 1 633 204 -1 -1 0 0 29 -1 -1 29 1 0 1685 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Giordano Homework\dave.tex
+TeX
+269496315 0 -1 365 -1 29 75 75 1312 388 0 1 273 0 -1 -1 0 0 29 -1 -1 29 1 0 29 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Quiz and Tests\test2Eqn.tex
+TeX
+1060859 0 -1 1741 -1 1850 50 50 1287 363 0 1 89 136 -1 -1 0 0 29 -1 -1 29 1 0 1850 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Quiz and Tests\Final S15.tex
+TeX
+1060859 0 -1 30305 -1 32855 125 125 1362 438 0 1 329 408 -1 -1 0 0 29 -1 -1 29 1 0 32855 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\test.sty
+TeX:STY
+1060850 0 249 26 0 1 75 75 1312 369 0 0 25 0 -1 -1 0 0 29 0 0 29 1 0 1 0  0 0 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Giordano Homework\hmwk19A.tex
+TeX:UNIX
+1159163 0 -1 1847 -1 1847 250 250 1916 780 0 1 41 459 -1 -1 0 0 -1 -1 -1 -1 1 0 1847 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Giordano Homework\hmwk16A.tex
+TeX:UNIX
+1159163 1 -1 6560 -1 7522 0 0 1237 313 0 1 41 629 -1 -1 0 0 29 -1 -1 29 1 0 7522 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Giordano Homework\hmwk12A.tex
+TeX:UNIX
+1159163 0 -1 1091 -1 1086 75 75 1312 388 0 1 489 272 -1 -1 0 0 29 -1 -1 29 1 0 1086 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Giordano Homework\hmwk12D.tex
+TeX:UNIX
+269594619 0 -1 1743 -1 1745 50 50 1287 363 0 1 177 255 -1 -1 0 0 29 -1 -1 29 1 0 1745 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Quiz and Tests\test2s15.tex
+TeX
+269496315 0 -1 0 -1 0 75 75 1312 388 0 1 41 0 -1 -1 0 0 -1 -1 -1 -1 1 0 0 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\Labs\122 Elements\122-Lab-ManualS16.tex
+TeX
+1060859 0 -1 46607 -1 46439 50 50 1287 363 0 1 41 102 -1 -1 0 0 37 -1 -1 37 1 0 46439 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Giordano Homework\hmwk10E.tex
+TeX:UNIX
+17936379 0 -1 1646 -1 2794 125 125 1362 438 0 1 233 204 -1 -1 0 0 29 -1 -1 29 1 0 2794 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Giordano Homework\hmwk10D.tex
+TeX:UNIX
+1159163 0 -1 10954 -1 175 100 100 1337 413 0 1 321 85 -1 -1 0 0 29 -1 -1 29 1 0 175 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Giordano Homework\hmwk10A.tex
+TeX:UNIX
+1159163 0 -1 5044 -1 3766 0 0 1237 313 0 1 49 391 -1 -1 0 0 29 -1 -1 29 1 0 3766 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Quiz and Tests\test1Eqn.tex
+TeX:UNIX
+269594619 1 -1 801 -1 3271 75 75 1312 388 0 1 41 357 -1 -1 0 0 29 -1 -1 29 1 0 3271 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Quiz and Tests\EQN2s12.tex
+TeX:UNIX
+269594619 1 -1 1181 -1 1604 100 100 1337 413 0 1 41 289 -1 -1 0 0 -1 -1 -1 -1 1 0 1604 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk09D.tex
+TeX:UNIX
+286371835 1 -1 806 -1 857 100 100 1337 394 0 1 41 340 -1 -1 0 0 29 -1 -1 29 1 0 857 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 122 Elements\Giordano Homework\Chap 11 text.tex
+TeX
+269496315 0 -1 0 -1 0 25 25 1262 338 0 1 41 0 -1 -1 0 0 -1 -1 -1 -1 1 0 0 -1  0 0 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\F15SyllabusP121Christensen.tex
+TeX
+269496315 1 -1 19060 -1 19134 0 0 1187 398 0 1 41 204 -1 -1 0 0 24 -1 -1 24 1 0 19134 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\test2-15.tex
+TeX:UNIX
+1159163 1 -1 5130 -1 5790 75 75 1312 388 0 1 41 306 -1 -1 0 0 29 -1 -1 29 1 0 5790 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\test3-15.tex
+TeX:UNIX
+17936379 1 -1 16557 -1 19540 100 100 1337 413 0 1 41 408 -1 -1 0 0 29 -1 -1 29 1 0 19540 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Calendar\weekly-sched\S15Sched.tex
+TeX
+1060859 0 -1 1531 -1 1532 75 75 1312 388 0 1 329 102 -1 -1 0 0 28 -1 -1 28 1 0 1532 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\final15.tex
+TeX
+17838075 0 -1 34391 -1 34398 100 100 1337 413 0 1 425 306 -1 -1 0 0 39 -1 -1 39 1 0 34398 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Calendar\term\p1420.tex
+TeX
+269496315 0 -1 0 -1 0 0 0 1237 313 0 1 41 0 -1 -1 0 0 48 -1 -1 48 1 0 0 -1  0 0 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\EQN3-15.tex
+TeX:UNIX
+1159163 0 -1 3722 -1 3722 100 100 1337 413 0 1 41 408 -1 -1 0 0 29 -1 -1 29 1 0 3722 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk09E.tex
+TeX:UNIX
+1159163 0 -1 2162 -1 6800 125 125 1362 419 0 1 41 391 -1 -1 0 0 29 -1 -1 29 1 0 6800 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\hmwk09A.tex
+TeX:UNIX
+1159163 0 -1 8205 -1 8850 75 75 1312 369 0 1 49 170 -1 -1 0 0 29 -1 -1 29 1 0 8850 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\quiz03-15.tex
+TeX:UNIX
+286371835 0 -1 4070 -1 4069 75 75 1312 388 0 1 873 204 -1 -1 0 0 29 -1 -1 29 1 0 4069 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\Previous Years\PHY 121 F11\quiz2-09.tex
+TeX:UNIX
+1159163 0 -1 0 -1 0 50 50 1287 363 0 1 41 0 -1 -1 0 0 29 -1 -1 29 1 0 0 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\Previous Years\PHY 121 F13\quiz2.tex
+TeX:UNIX
+1159163 0 -1 0 -1 0 25 25 1262 338 0 1 41 0 -1 -1 0 0 23 -1 -1 23 1 0 0 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\Previous Years\PHY 121 F09\121 Elements\quiz03.tex
+TeX:UNIX
+269594619 0 -1 0 -1 0 75 75 1312 388 0 1 41 -561 -1 -1 0 0 -1 -1 -1 -1 1 0 0 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\test3-14.tex
+TeX:UNIX
+269594619 0 -1 0 -1 19951 100 100 1337 413 0 1 41 408 -1 -1 0 0 -1 -1 -1 -1 1 0 19951 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\Previous Years\PHY 121 F11\test2-10.tex
+TeX
+269496315 2 -1 4414 -1 4420 25 25 1262 319 0 1 265 204 -1 -1 0 0 29 -1 -1 29 1 0 4420 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\Previous Years\PHY 121 F11\test2-11.tex
+TeX
+269496315 1 -1 14745 -1 17390 0 0 1237 294 0 1 41 391 -1 -1 0 0 29 -1 -1 29 1 0 17390 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\Previous Years\PHY 121 F12\test2-12.tex
+TeX:UNIX
+269594619 0 -1 0 -1 0 125 125 1362 419 0 1 41 0 -1 -1 0 0 29 -1 -1 29 1 0 0 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\Previous Years\PHY 121 F13\test2-13.tex
+TeX:UNIX
+269594619 0 -1 0 -1 0 100 100 1337 394 0 1 41 0 -1 -1 0 0 29 -1 -1 29 1 0 0 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\Previous Years\PHY 121 F11\test2-EQ-sheet.tex
+TeX
+269496315 1 -1 7673 -1 8240 50 50 1287 363 0 1 41 391 -1 -1 0 0 29 -1 -1 29 1 0 8240 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\wksht1-15.tex
+TeX:UNIX
+286371835 0 -1 2260 -1 2333 75 75 1312 388 0 1 41 170 -1 -1 0 0 29 -1 -1 29 1 0 2333 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\quiz2-15.tex
+TeX:UNIX
+1159163 0 -1 2565 -1 2916 100 100 1337 413 0 1 57 340 -1 -1 0 0 23 -1 -1 23 1 0 2916 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Calendar\term\termcalF15.tex
+TeX
+1060859 0 -1 0 -1 0 125 125 1362 419 0 1 41 0 -1 -1 0 0 22 -1 -1 22 1 0 0 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\quiz2-14.tex
+TeX:UNIX
+269594619 0 -1 0 -1 0 100 100 1337 413 0 1 41 0 -1 -1 0 0 23 -1 -1 23 1 0 0 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\test1-14.tex
+TeX:UNIX
+1159163 1 -1 2750 -1 7511 125 125 1362 438 0 1 41 119 -1 -1 0 0 29 -1 -1 29 1 0 7511 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\quiz1-15.tex
+TeX:UNIX
+1159163 0 -1 1116 -1 1178 75 75 1312 388 0 1 49 255 -1 -1 0 0 23 -1 -1 23 1 0 1178 -1  0 -1 0
+:\Users\christj\Desktop\Everything\Class\PHY 121 Elements\quiz1.tex
+TeX:UNIX
+269594619 0 -1 0 -1 0 75 75 1312 388 0 1 41 0 -1 -1 0 0 -1 -1 -1 -1 1 0 0 -1  0 -1 0
+
