@@ -4,67 +4,46 @@
 0
 1
 :\Users\christj\Desktop\Everything\Class\Labs\121Elements\ManualXML\121-Lab-Manual.xml
-181
-9
-8
+174
+10
+0
 
+PROF.ptx
+HTML
+286263291 0 -1 21402 -1 22031 234 234 958 759 0 1 506 468 191 306 0 4 649 -1 -1 650 1 0 22031 -1  0 -1 0
 :\Users\christj\Desktop\Everything\Work\OnlineBook\ABIP\src\part-introMFE.ptx
 DATA
 5243122 1 38 101 38 136 182 182 1868 716 1 0 1153 646 617 374 1 2 69 1338 1338 52 1 0 136 38  0 0 0
 vitae.tex
 TeX
-1060859 1 -1 2329 -1 2672 104 104 1790 638 0 1 41 425 -1 -1 0 0 -1 -1 -1 -1 1 0 2672 -1  0 -1 0
+1060859 1 -1 2329 -1 2672 104 104 1790 638 0 1 41 425 -1 -1 0 0 73 -1 -1 73 1 0 2672 -1  0 -1 0
 Makefile
 DATA:UNIX
-5341426 1 87 3 87 78 78 78 1764 612 1 0 737 1428 -1 -1 0 0 -1 -1 -1 -1 1 0 78 87  0 0 0
+5341426 1 87 3 87 78 78 78 1764 612 1 0 737 731 -1 -1 0 0 7 0 0 7 1 0 78 87  0 0 0
 :\Users\christj\Desktop\Everything\mathbook\user\mathbook-prof-html.xsl
 DATA
-5243122 0 2 1 3 1 52 52 1738 567 1 0 73 51 -1 -1 0 0 -1 -1 -1 -1 1 0 1 3  0 0 0
+5243122 0 2 1 3 1 52 52 1738 567 1 0 73 51 -1 -1 0 0 43 0 0 43 1 0 1 3  0 0 0
 :\Users\christj\Desktop\Everything\mathbook\user\mathbook-prof-latex.xsl
 DATA
-5243122 0 11 38 11 39 26 26 1712 560 1 0 377 187 -1 -1 0 0 -1 -1 -1 -1 1 0 39 11  0 0 0
+5243122 0 11 38 11 39 26 26 1712 560 1 0 377 187 -1 -1 0 0 43 0 0 43 1 0 39 11  0 0 0
 :\Users\christj\Desktop\Everything\mathbook\user\mathbook-abip-latex.xsl
 DATA
-5243122 0 0 1 0 1 0 0 1686 534 1 0 73 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+5243122 0 0 1 0 1 0 0 1686 534 1 0 73 0 -1 -1 0 0 43 0 0 43 1 0 1 0  0 0 0
 :\Users\christj\Desktop\Everything\Class\Labs\220Anything\220PTXManual\src\220-Lab-Manual.ptx
-HTML
-17926139 0 -1 1735 -1 0 52 52 1738 586 0 1 43 0 -1 -1 0 0 -1 -1 -1 -1 1 0 0 -1  0 -1 0
+HTML:UNIX
+17926139 0 -1 1735 -1 701 52 52 1738 586 0 1 321 324 -1 -1 0 0 38 -1 -1 38 1 0 701 -1  0 -1 0
 :\Users\christj\Desktop\Everything\Class\Labs\121Elements\ManualXML\121-Lab-Manual.xml
 HTML:UNIX
 17926139 1 -1 28089 -1 29261 0 0 1158 259 0 1 156 594 1098 216 0 1 165 348 -1 19571 1 0 29261 -1  0 -1 0
 :\Users\christj\Desktop\Everything\mathbook\schema\pretext.xml
 DATA
-273678578 0 324 493 325 1 208 208 1894 742 1 0 73 -578 -1 -1 0 0 -1 -1 -1 -1 1 0 1 325  0 0 0
-PROF.xml
-HTML
-286361595 0 -1 8827 -1 8851 26 26 1712 560 0 1 353 288 73 558 1 0 28065 -1 -1 28054 1 0 8851 -1  0 -1 0
+5243122 0 324 493 325 1 208 208 1894 742 1 0 73 374 -1 -1 0 0 40 0 0 40 1 0 1 325  0 0 0
 :\Users\christj\Desktop\Everything\Class\Labs\LabSetup\TMC-lab-setup.tex
 TeX:UNIX
 269594619 0 -1 0 -1 0 156 156 1842 690 0 1 41 0 -1 -1 0 0 -1 -1 -1 -1 1 0 0 -1  0 -1 0
 :\Users\christj\Desktop\Everything\Work\OnlineBook\ABIP\ABIP.xml
 HTML:UNIX
 286361595 0 -1 4700 -1 4700 150 150 1766 775 0 1 43 738 -1 -1 0 0 38 -1 -1 38 1 0 4700 -1  0 0 0
-src\backmatterPROF.ptx
-DATA
-273678578 1 2 1 43 1 26 26 1712 560 1 0 73 731 -1 -1 0 0 -1 -1 -1 -1 1 0 1 43  0 0 0
-src\part-Teaching.ptx
-DATA
-5243122 0 0 1 0 1 0 0 1686 534 1 0 73 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
-src\part-Service.ptx
-DATA
-5243122 0 0 1 0 1 234 234 1920 768 1 0 73 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
-src\part-Scholarship.ptx
-DATA
-273678578 1 93 70 93 134 208 208 1894 742 1 0 1137 306 -1 -1 0 0 -1 -1 -1 -1 1 0 134 93  0 0 0
-src\part-Appendix.ptx
-DATA
-273678578 0 0 1 0 1 182 182 1868 716 1 0 73 -197 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
-src\frontmatterPROF.ptx
-DATA
-273678578 0 98 1 62 45 156 156 1842 690 1 0 425 122 -1 -1 0 0 -1 -1 -1 -1 1 0 45 62  0 0 0
-src\docinfoPROF.ptx
-DATA
-273678578 1 84 1 2 1 130 130 1816 664 1 0 73 -643 -1 -1 0 0 -1 -1 -1 -1 1 0 1 2  0 0 0
 :\Users\christj\Desktop\Everything\mathbook\user\mathbook-abip-html.xsl
 DATA
 273678578 0 0 1 0 1 234 234 1920 768 1 0 73 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0

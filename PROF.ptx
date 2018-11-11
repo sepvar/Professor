@@ -96,7 +96,7 @@
  -->
 
         <cross-references text="global" />
-        
+
     </docinfo>
 <!-- ********************************************************************************************** -->
 
@@ -267,7 +267,28 @@
 <chapter xml:id="prof-teach"><title>Teaching</title>
 
 <section xml:id="teach-narrative"><title>Narrative</title>
-<p>.</p>
+<introduction><p>In order to gauge my effectiveness, I will look to several sources of anecdotal evidence and hope that this will indicate the level of reflection, of innovation, and of effectiveness that I bring to my courses.</p></introduction>
+
+<subsection xml:id="ss-effective"><title>Teaching Effectiveness</title>
+<p>To begin with, I try to maintain a sufficient standard of rigor that balances covering the material at a pace that does allows as many students as possible to move forward without holding back the top students.  My approach is to move at a middle pace while reaching out to the slower students and occasionally tossing treats out to the faster students.  While I have never been able to go so fast that my best students are satisfied, I also cannot spend sufficient time for all of my students to understand everything.  Typically I try to maintain a pace that (1) keeps 27 of 30 students from dropping the course and that (2) allows students who stick with it and work hard to at least not fail the course.  After receiving a small but noticeable number of student evaluations early in my career that indicated that students thought I was arrogant in my grading, I spent a good deal of effort in subsequent years working to see comments in the student evaluations that indicates that students recognized that they got the grades they had either earned or deserved.  They felt that the grading was fair, that their grades reflected expectations, and that they had sufficient opportunity to get help.</p>
+
+<p>The approach that works for me is to emphasize that the classroom is a dialog.  There has to be communication back and forth and it needs to come in multiple forms.  While there is undoubtedly a more concise way to express this idea, the analogy in my head is with email versus voice versus face-to-face communication.  Email only has the words you say.  Your voice is better specifically because it adds a dimension of modulation and emphasis.  Face-to-face communication is better because it adds yet another layer of body language.  The <q>email version</q> of classroom communication is when the student gets their information by passively listening to the lecture without interacting.  This is still a two-way dialog because (presumably) the student still turns in homework, which is communicating their knowledge (or lack thereof), and the faculty is still grading the homework, which confirms (or indicates) the level of understanding the student has according to the perspective of the more-experienced faculty member.  My first order of business is to make this channel of communication as explicit as possible.  This didn't make it into my syllabus until 2010 (c.f., the <url href="Syllabi/MP301SyllabusChristensenF10.pdf">Goals of MAT/PHY 301</url>, discussed in <xref ref="ss-syllabi" text="text-global">Section</xref>).</p>
+
+<p>The <q>voice version</q> of classroom communication is when the lecture is interactive and the student is being called on and answering questions that the faculty member asks.  That is to say, students are able to recognize and respond to relevant questions according to what the instructor has (usually recently) introduced.  This is much better than the communication through homework because it is immediate feedback.  Both parties are currently engaged in processing the material and can modify the communication on the fly during the dialog.  I engage in this level of communication with my students by actively calling on individual students during every class.  I learned very quickly that students are uncomfortable with this approach, but I have not been able to find a better approach.  I tried small-group work and the learning curve for my implementation was too steep for my patience.  I tried think-pair-share and struggled to find that to be effective.  Instead, I found that students will accept being called on individually if I agree to give them an <q>out</q> when they are having a bad day.  Every student gets one (sometimes two) <q>pass</q> per class period for which they do not have to answer a specific question with no consequence.  The consequence if they continue to pass multiple times, is my sorrowful disappointment.  Usually that is sufficient to enable me to convince them to think through the problem out loud with me and the rest of the class.</p>
+
+<p>The <q>face-to-face version</q> of classroom communication is when students and faculty collaborate to aim the direction of the dialog.  Obviously the faculty member has to maintain an awareness of the big-picture overview of the course and especially how the content of the single class period fits into that context.  What I mean is that the student has to feel comfortable enough with the classroom environment that they are willing to say, <q>Wait! I don't know how to fit that in my head yet.</q>  I engage in this level of communication with my students by first telling them that I have a hearing impairment (which has the benefit of being true) and that, as a result, I need to be looking at them when they ask a question so that I can see their lips moving.  Once I started doing this, the door it opened is that, if they are too uncomfortable to speak up about their confusion (usually for fear of being the only one) I can ask them to make a face or shake their head or somehow convey their confusion with a clear body language.  The advantage of this is that it communicates to me that they are not understanding.  If I see a couple of people doing this, then I <em>explicitly</em> indicate to them that I can see some faces and that they are not alone.  I tell them that I would like to try explaining it in a different way and ask if anybody can help direct my explanation by asking a question.  If they ask, then we can work together to come to an understanding.  If nobody asks a question, then I explicitly change my description and ask for faces again.  We then repeat the process.</p>
+
+<p>Ultimately, the message I am trying to convey to them is that it is less about what I say and more about what they hear.  If they aren't hearing me, then it doesn't do me any good to keep talking.  The dialog that I try to achieve in the classroom is about how we can work together to get the information to fit in their ear.</p>
+
+<p>The anecdotal evidence of classroom interactions indicates to me that if I can convince them that my primary goal is their understanding and their success, then I find that they are much more willing to open up and risk revealing their confusion so that together we can fix it.  That these anecdotes indicate that I am an effective teacher is reinforced by the <xref ref="teach-support">thank you notes in Section</xref> and by the patterns in my <xref ref="teach-evals" text="text-global">student evaluations in Section</xref>.  In the next section I will describe my development as a faculty member through the various innovations I have tried in a variety of courses.  Most of these a direct applications of the approach I attempt to implement as expressed above.  I also provide syllabi of the courses to show the pattern of development and the form of the implementation.</p>
+</subsection>
+
+<subsection xml:id="ss-syllabi"><title>Innovations in Teaching</title>
+<p>As a tutor of undergraduates when I was in graduate school, I learned that (what I now recognize as) the <q>curse of knowledge</q> makes it feel to the knowledgable as though the best explanation is to start by providing context and a view of the forrest and then gradually working in to the example of the various trees that, together, make up the forrest.  On the other hand, students are often asked example-level questions and only feel like they understand when they can be successful at doing the examples.</p>
+
+<p>The standard conundrum: Do you need the examples to understand the big picture or do you need the big picture to understand the examples.</p>
+</subsection>
+
 </section>
 
 <section xml:id="teach-evals"><title>Student Evaluations</title>
@@ -408,24 +429,26 @@
 </li>
 
 <li><title>Conference Proceedings (1997-2003)</title>
-<p><q>Magnetic Polarizability of Hadrons from Lattice QCD</q> L. Zhou, F. Lee, W. Wilcox, and J. Christensen, Nucl. Phys. B (Proc. Suppl.) 119 (2003) 272-274.
-</p><!--
-https://doi.org/10.1016/S0920-5632(03)01524-X
-(https://arxiv.org/abs/hep-lat/0209128)</p>
-<p><q>Electric Polarizability of Hadrons</q> J. Christensen, W. Wilcox, F. Lee, and L. Zhou, Nucl. Phys. B (Proc. Suppl.) 119 (2003) 269-271.
-https://doi.org/10.1016/S0920-5632(03)01523-8
-(https://arxiv.org/abs/hep-lat/0209043)</p>
+<p><q>Magnetic Polarizability of Hadrons from Lattice QCD</q>
+        L. Zhou, F. Lee, W. Wilcox, and J. Christensen, <url href="https://doi.org/10.1016/S0920-5632(03)01524-X">Nucl. Phys. B (Proc. Suppl.) 119 (2003) 272-274</url>.
+        [<url href="https://arxiv.org/abs/hep-lat/0209128">preprint link</url>]
+        [<url href="Publications/hep-lat 0209128.pdf">downloaded pdf</url>]</p>
+<p><q>Electric Polarizability of Hadrons</q>
+        J. Christensen, W. Wilcox, F. Lee, and L. Zhou, <url href="https://doi.org/10.1016/S0920-5632(03)01523-8">Nucl. Phys. B (Proc. Suppl.) 119 (2003) 269-271</url>.
+        [<url href="https://arxiv.org/abs/hep-lat/0209043">preprint link</url>]
+        [<url href="Publications/hep-lat 0209043.pdf">downloaded pdf</url>]</p>
 <p><q>Lattice HQET Calculation of the Isgur-Wise Function</q>
-J. Christensen, T. Draper, and C. McNeile, Nucl. Phys. B (Proc. Suppl.) 63 (1998) 377. https://doi.org/10.1016/S0920-5632(97)00775-5
-(https://arxiv.org/abs/hep-lat/9710025)</p>
+        J. Christensen, T. Draper, and C. McNeile, <url href="https://doi.org/10.1016/S0920-5632(97)00775-5">Nucl. Phys. B (Proc. Suppl.) 63 (1998) 377</url>.
+        [<url href="https://arxiv.org/abs/hep-lat/9710025">preprint link</url>]
+        [<url href="Publications/hep-lat 9710025.pdf">downloaded pdf</url>]</p>
 <p><q>A Study of the Static-Light B Parameter</q>
-J. Christensen, T. Draper, and C. McNeile, Nucl. Phys. B (Proc. Suppl.) 53 (1997) 378.
-https://doi.org/10.1016/S0920-5632(96)00664-0
-(https://arxiv.org/abs/hep-lat/9608005)</p>
+        J. Christensen, T. Draper, and C. McNeile, <url href="https://doi.org/10.1016/S0920-5632(96)00664-0">Nucl. Phys. B (Proc. Suppl.) 53 (1997) 378</url>.
+        [<url href="https://arxiv.org/abs/hep-lat/9608005">preprint link</url>]
+        [<url href="Publications/hep-lat 9608005.pdf">downloaded pdf</url>]</p>
 </li>
 
 <li><title>Self-Published (in progress)</title>
-<p>Physics Textbook, <q><url href="http://physics.thomasmore.edu/ConnectedPhysics/">Connected Physics</url></q>, self-published, available online, but only two chapters are posted as of January 2018.</p>
+<p>Physics Textbook, <q><url href="http://physics.thomasmore.edu/ConnectedPhysics/">Connected Physics</url></q>, self-published, <url href="http://physics.thomasmore.edu/ConnectedPhysics/" />. (Only two chapters are posted as of January 2018).</p>
 <p>Physics Labs (adapted to online format from paper, with original modifications), originally posted August 2017 and updated through May 2018.
              <url href="http://physics.thomasmore.edu/Labs/TMC-lab-setup.html" />
              <url href="http://physics.thomasmore.edu/Labs/121/" />
@@ -434,17 +457,17 @@ https://doi.org/10.1016/S0920-5632(96)00664-0
 </p>
 </li>
 
-<li><title>Unpublished Internet-Available Evidence of Conference Presentations</title>
+<li><title>Conference Presentations with unpublished, internet-available evidence</title>
 <p><q>Using PreTeXt to produce a better online text (or lab manual)</q>
-J. Christensen, APS April Meeting 2018, abstract id.U10.007
-http://meetings.aps.org/Meeting/APR18/Session/U10.7</p>
+        J. Christensen, APS April Meeting 2018,
+        <url href="http://meetings.aps.org/Meeting/APR18/Session/U10.7">abstract id.U10.007</url>
+        [<url href="Publications/APS PreTeXt (2018).pptx">downloaded power-point</url>]</p>
 </li>
 
 <li><title>Contributions to Conference Presentations</title>
 <p><q>Tests of Electric Polarizability on the Lattice</q>
-V. Guerrero, W. Wilcox, J. Christensen, Presented at 26th International Symposium on Lattice Field Theory, Williamsburg, VA, USA, 14-19 Jul 2008
-(https://arxiv.org/abs/0901.3296)</p>
--->
+        V. Guerrero, W. Wilcox, J. Christensen, <url href="https://arxiv.org/abs/0901.3296">Presented at 26th International Symposium on Lattice Field Theory, Williamsburg, VA, USA, 14-19 Jul 2008</url>
+        [<url href="Publications/hep-lat 0901.3296.pdf">downloaded pdf</url>]</p>
 </li>
 </dl>
 </p>
@@ -510,7 +533,7 @@ V. Guerrero, W. Wilcox, J. Christensen, Presented at 26th International Symposiu
         <title>Recommendations</title>
         <!-- <introduction> -->
         <p>Please find attached the following recommendations.  I have listed them alphabetically, listed their relevance to my career, and linked them to and from the relevant sections of my application.</p>
-        
+
         <p>
         <dl>
           <li xml:id="rec-dept"><title>Departmental Recommendation</title><p>The departmental letter of recommendation was written by <url href="https://www.thomasmore.edu/about/faculty.cfm?id=115">Dr. Robert Riehemann</url>
