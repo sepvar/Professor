@@ -4,40 +4,43 @@
 0
 1
 :\Users\christj\Desktop\Everything\Class\Labs\121Elements\ManualXML\121-Lab-Manual.xml
-174
-10
+175
+8
 0
 
 PROF.ptx
 HTML
-286263291 0 -1 21402 -1 22031 234 234 958 759 0 1 506 468 191 306 0 4 649 -1 -1 650 1 0 22031 -1  0 -1 0
+286263291 0 -1 27631 -1 27458 234 234 958 759 0 1 534 378 201 576 1 0 54772 -1 -1 51622 1 0 27458 -1  0 -1 0
 :\Users\christj\Desktop\Everything\Work\OnlineBook\ABIP\src\part-introMFE.ptx
 DATA
 5243122 1 38 101 38 136 182 182 1868 716 1 0 1153 646 617 374 1 2 69 1338 1338 52 1 0 136 38  0 0 0
 vitae.tex
 TeX
-1060859 1 -1 2329 -1 2672 104 104 1790 638 0 1 41 425 -1 -1 0 0 73 -1 -1 73 1 0 2672 -1  0 -1 0
+1060859 1 -1 2676 -1 4996 104 104 1790 638 0 1 41 476 -1 -1 0 0 73 -1 -1 73 1 0 4996 -1  0 -1 0
 Makefile
 DATA:UNIX
 5341426 1 87 3 87 78 78 78 1764 612 1 0 737 731 -1 -1 0 0 7 0 0 7 1 0 78 87  0 0 0
-:\Users\christj\Desktop\Everything\mathbook\user\mathbook-prof-html.xsl
-DATA
-5243122 0 2 1 3 1 52 52 1738 567 1 0 73 51 -1 -1 0 0 43 0 0 43 1 0 1 3  0 0 0
-:\Users\christj\Desktop\Everything\mathbook\user\mathbook-prof-latex.xsl
-DATA
-5243122 0 11 38 11 39 26 26 1712 560 1 0 377 187 -1 -1 0 0 43 0 0 43 1 0 39 11  0 0 0
-:\Users\christj\Desktop\Everything\mathbook\user\mathbook-abip-latex.xsl
-DATA
-5243122 0 0 1 0 1 0 0 1686 534 1 0 73 0 -1 -1 0 0 43 0 0 43 1 0 1 0  0 0 0
 :\Users\christj\Desktop\Everything\Class\Labs\220Anything\220PTXManual\src\220-Lab-Manual.ptx
 HTML:UNIX
-17926139 0 -1 1735 -1 701 52 52 1738 586 0 1 321 324 -1 -1 0 0 38 -1 -1 38 1 0 701 -1  0 -1 0
+17926139 0 -1 227509 -1 227518 52 52 1738 586 0 1 187 378 -1 -1 0 0 38 -1 -1 38 1 0 227518 -1  0 -1 0
+mathbook-prof-html.xsl
+DATA
+5243122 0 15 41 15 43 0 0 1686 534 1 0 409 255 -1 -1 0 0 -1 -1 -1 -1 1 0 43 15  0 0 0
 :\Users\christj\Desktop\Everything\Class\Labs\121Elements\ManualXML\121-Lab-Manual.xml
 HTML:UNIX
 17926139 1 -1 28089 -1 29261 0 0 1158 259 0 1 156 594 1098 216 0 1 165 348 -1 19571 1 0 29261 -1  0 -1 0
 :\Users\christj\Desktop\Everything\mathbook\schema\pretext.xml
 DATA
 5243122 0 324 493 325 1 208 208 1894 742 1 0 73 374 -1 -1 0 0 40 0 0 40 1 0 1 325  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\user\mathbook-abip-latex.xsl
+DATA
+273678578 0 0 1 0 1 0 0 1686 534 1 0 73 0 -1 -1 0 0 43 0 0 43 1 0 1 0  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\user\mathbook-prof-latex.xsl
+DATA
+273678578 0 11 38 11 39 26 26 1712 560 1 0 377 187 -1 -1 0 0 43 0 0 43 1 0 39 11  0 0 0
+:\Users\christj\Desktop\Everything\mathbook\user\mathbook-prof-html.xsl
+DATA
+273678578 0 2 1 16 39 52 52 1738 567 1 0 377 272 -1 -1 0 0 43 0 0 43 1 0 39 16  0 0 0
 :\Users\christj\Desktop\Everything\Class\Labs\LabSetup\TMC-lab-setup.tex
 TeX:UNIX
 269594619 0 -1 0 -1 0 156 156 1842 690 0 1 41 0 -1 -1 0 0 -1 -1 -1 -1 1 0 0 -1  0 -1 0

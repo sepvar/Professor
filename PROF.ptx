@@ -76,7 +76,7 @@
         <cross-references text="type-global" />
         -->
 
-        <rename element="chapter"        lang="en-US">Section</rename>
+        <rename element="chapter"        lang="en-US">Required Item</rename>
 
         <rename element="remark"        lang="en-US">Clarification</rename>
         <rename element="note"          lang="en-US">Interpretation</rename>
@@ -134,7 +134,7 @@
 
     </titlepage>
 
-    <colophon>
+    <colophon><title>License</title>
 
 <!--        <edition>Draft Edition 2017</edition>
 
@@ -197,7 +197,7 @@
         <blockquote>
          <p><q><ellipsis />an appointee to the rank of Professor must:
 			<ol label="a">
-			  <li><p>hold a <xref ref="prof-vitae" text="title">terminal degree</xref>,</p></li>
+			  <li><p>hold a <xref ref="CV-education" text="title">terminal degree</xref>,</p></li>
 			  <li><p>demonstrate <xref ref="prof-teach" text="title">superior teaching ability</xref>,</p></li>
 			  <li><p>show <xref ref="prof-scholarship" text="title">distinguished scholarship or exceptional creativity</xref> which is recognized by substantial professional contributions in the field of specialization, and</p></li>
 			  <li><p>have a <xref ref="prof-vitae" text="title">minimum of five (5) years in the rank of Associate Professor</xref>.</p></li>
@@ -219,14 +219,57 @@
         <p>The discussion of these topics, while linked above, are included in the body of the several sections of this application, which according to Section 1303 (Review Process for Promotion in Rank) includes <q>a current <xref ref="prof-vitae" text="title">curricula vitae</xref>, <xref ref="rec-dept" text="title">departmental endorsement</xref>, <xref ref="prof-recommendations" text="title">letters of support from colleagues</xref>, and evidence of <xref ref="prof-teach" text="title">teaching effectiveness</xref> and <xref ref="prof-scholarship" text="title">scholarly activity</xref></q>.  While I hope this application is sufficiently organized, I have also include the links from this section to those.
         </p>
 
-        <p>The rest of this application will be laid out according to the Faculty Policy Manual (FPM) Section 1701, General Criteria for Evaluation of a Faculty Member.  In particular, I will address the FPM Section 1701.1 (Educational and Professional Background) in my <xref ref="prof-vitae" text="title">curriculum vitae</xref>, the FPM Section 1701.2 (Effective Teaching) in <xref ref="prof-teach" text="text-global" />, the FPM Section 1701.3 (Creative, Scholarly, and Professional Development) in <xref ref="prof-scholarship" text="text-global" />, and the FPM Section 1701.4 (Contribution to College Community) in <xref ref="prof-service" text="text-global" />.</p>
+        <p>The rest of this application will be laid out according to the Faculty Policy Manual (FPM) Section 1701, General Criteria for Evaluation of a Faculty Member.  In particular, I will address the FPM Section 1701.1 (Educational and Professional Background) in my <xref ref="prof-vitae" text="title">curriculum vitae</xref>, the FPM Section 1701.2 (Effective Teaching) in <xref ref="prof-teach" text="text-global">Section</xref>, the FPM Section 1701.3 (Creative, Scholarly, and Professional Development) in <xref ref="prof-scholarship" text="text-global">Section</xref>, and the FPM Section 1701.4 (Contribution to College Community) in <xref ref="prof-service" text="text-global">Section</xref>.</p>
 
 
     </preface>
 
 
     <preface xml:id="anything-PDF"><title>Download the PDF here</title>
-    <p>A full PDF version of this document can be found at <url href="http://physics.thomasmore.edu/JChristensen.pdf">JChristensen.pdf (659 kB)</url></p>
+    <p>While this document has been created to be easily read online, PDFs of the relevant material are also available.  Each section has its own link to the PDF as appropriate and they are all inventoried here for your convenience.  I have included the sizes of documents so that you have a sense of the relative size before you open a document.</p>
+    <p>This entire document: <url href="http://physics.thomasmore.edu/JChristensen.pdf">JChristensen.pdf (659 kB)</url>
+    <ol>
+    <li><p>Application:
+        <ol>
+                <li>Teaching Effectiveness:</li>
+                <li>Scholarship: </li>
+                <li>Service: </li>
+        </ol></p></li>
+    <li>Cover letter: </li>
+    <li>CV: <url href="http://physics.thomasmore.edu/JChristensen/documents/JChristensen CV 2018 (prof).pdf">JChristensen CV 2018 (prof).pdf (128 kB)</url></li>
+    <li><p>Recommendations:
+        <ol>
+                <li>Departmental: <url href="http://physics.thomasmore.edu/JChristensen/recommendations/ChristensenProfessorFall2018.pdf">ChristensenProfessorFall2018.pdf (34 kB)</url></li>
+                <li>Dr. John Ernst: </li>
+                <li>Ms. Erin Garnick: </li>
+                <li>Dr. Kim Haverkos: </li>
+                <li>Dr. Jeremy Huber: </li>
+                <li>Dr. Jay Langguth: </li>
+                <li>Dr. Wes Ryle: </li>
+        </ol></p></li>
+    <li><p>Supporting Documents: 
+        <ol>
+                <li>Chair Evaluations: 
+                [<url href="http://physics.thomasmore.edu/JChristensen/documents/ChairEvalChristensen.pdf">all (343 kB)</url>],
+                [<url href="http://physics.thomasmore.edu/JChristensen/documents/ChairEvalChristensen0708.pdf">'07-'08 (207 kB)</url>],
+                [<url href="http://physics.thomasmore.edu/JChristensen/documents/ChairEvalChristensen0809.pdf">'08-'09 (134 kB)</url>],
+                [<url href="http://physics.thomasmore.edu/JChristensen/documents/ChairEvalChristensen0910.pdf">'09-'10 (27 kB)</url>]
+                </li>
+                <li>Student Evaluations: 
+                [<url href="http://physics.thomasmore.edu/JChristensen/evals/All Christensen (105 pages).PDF">All Evaluations (105 pg, 1 MB)</url>],
+                See also <xref ref="t-evals" text="title" /></li>
+                <li>Testimonials (images, not PDFs): 
+                [<xref ref="f-Bilbo" text="title">Tom Bilbo</xref>],
+                [<xref ref="f-Engel" text="title">Ellen (Gamel) Engel</xref>],
+                [<xref ref="f-Bokern" text="title">Mark Von Bokern</xref>],
+                [<xref ref="f-Plapp" text="title">Brianna Plapp</xref>],
+                [<xref ref="f-Tillery" text="title">Ryan Tillery</xref>],
+                [<xref ref="f-Rechtin" text="title">Maria Rechtin</xref>], and
+                [<xref ref="f-Stadtmiller" text="title">Abby Stadtmiller</xref>].
+                </li>
+        </ol></p></li>
+    </ol>
+    </p>
     </preface>
 
 </frontmatter>
@@ -236,172 +279,154 @@
 <!-- ********************************************************************************************** -->
 <!-- ********************************************************************************************** -->
 
-<chapter xml:id="prof-cover"><title>Cover Letter</title>
+<chapter xml:id="prof-app"><title>Application for Promotion</title>
 
+<!-- ********************************************************************************************** -->
 
-<!--    <conclusion> -->
-    <p>(Revised: Nov 8, 2018)</p> <!-- Created -->
-    <p>A PDF version might be found at <url href="http://physics.thomasmore.edu/JChristensen/cover.pdf">cover.pdf (308 kB)</url></p>
-<!--     </conclusion> -->
-</chapter>
+<introduction xml:id="application">
+<p><em>Application for Promotion or Tenure:</em> <underscore /><insert>Promotion</insert><underscore /></p>
+<p><em>Name of Applicant:</em> <underscore /><insert>Joseph Christensen</insert><underscore /></p>
+<p><em>Department:</em> <underscore /><insert>Department of Math and Physics</insert><underscore /></p>
+<p><em>Present Rank:</em> <underscore /><insert>Associate Professor</insert><underscore /></p>
+<p><em>Date of Appointment: </em> <underscore /><insert>2007 (when hired)</insert><underscore /></p>
+<p><em>Rank Applying For:</em> <underscore /><insert>Professor</insert><underscore /></p>
+<p><em>To Become Effective: </em> <underscore /><insert>2019</insert><underscore /></p>
+<p><em>If Applicant Holds Tenure, Date of Appointment:</em> <underscore /><insert>2011</insert><underscore /></p>
+</introduction>
 
 <!-- ********************************************************************************************** -->
 <!-- ********************************************************************************************** -->
 
-<chapter xml:id="prof-vitae"><title>Curriculum Vitae</title>
+<section xml:id="background"><title>Educational and Professional Background</title>
 
-<image xml:id="i-CV1" source="images/CV-1.jpg"><description>Page 1 (of 4) of my curriculum vitae</description></image>
-<image xml:id="i-CV2" source="images/CV-2.jpg"><description>Page 2 (of 4) of my curriculum vitae</description></image>
-<image xml:id="i-CV3" source="images/CV-3.jpg"><description>Page 3 (of 4) of my curriculum vitae</description></image>
-<image xml:id="i-CV4" source="images/CV-4.jpg"><description>Page 4 (of 4) of my curriculum vitae</description></image>
+<p>The following is a condensed version of my <xref ref="prof-vitae" text="title">curriculum vitae</xref> as it applies to my teaching experience.</p>
 
-<!--    <conclusion> -->
-    <p>(Revised: Nov 8, 2018)</p> <!-- Created -->
-    <p>A PDF version might be found at <url href="http://physics.thomasmore.edu/JChristensen/vitae.pdf">vitae.pdf (308 kB)</url></p>
-<!--     </conclusion> -->
-</chapter>
+<sidebyside>
+<tabular>
+<col width="15%" /><col width="10%" /><col width="20%" /><col width="20%" /><col width="15%" />
+<row><cell><alert>Education</alert></cell>
+        <cell>Ph.D.</cell><cell>University of Kentucky</cell><cell>(Lexington, KY)</cell><cell>1990<ndash />1998</cell></row>
+<row><cell /><cell /><cell colspan="2"><em>Numerical Quantum Chromodynamics; Lattice QCD</em></cell><cell /></row>
+<row><cell /><cell /><cell colspan="2"><em>(with 18 graduate credit hours Mathematics)</em></cell><cell /></row>
+<row><cell></cell>
+        <cell>B.S.</cell><cell>Bradley University </cell><cell>(Peoria, IL)</cell><cell>1986<ndash />1990</cell></row>
+<row><cell /><cell /><cell colspan="2"><em>Physics and Mathematics</em></cell><cell /></row>
+
+<row><cell><m>\hspace{.5cm}</m></cell></row>
+
+<row><cell><alert>Teaching</alert></cell>
+        <cell colspan="2">Associate Professor of Physics</cell><cell>(Thomas More College)</cell>
+        <cell>2007<ndash />Present</cell></row>
+<row><cell><alert>Experience</alert></cell>
+        <cell /><cell colspan="2">Tenured</cell><cell>Spring 2011</cell></row>
+<row><cell /><cell colspan="2">Associate Professor of Physics</cell><cell>(McMurry University)</cell>
+        <cell>2005<ndash />2007</cell></row>
+<row><cell /><cell colspan="2">Assistant Professor of Physics</cell><cell>(McMurry University)</cell>
+        <cell>1999<ndash />2005</cell></row>
+<row><cell /><cell /><cell colspan="2">Tenured</cell><cell>Spring 2004</cell></row>
+<row><cell /><cell colspan="2">Visiting Assistant Professor of Physics</cell><cell>(Centre College)</cell>
+        <cell>1998<ndash />1999</cell></row>
+
+<!-- 
+<row><cell><m>\hspace{.5cm}</m></cell></row>
+
+<row><cell><alert>Courses</alert></cell>
+        <cell colspan="4">Thomas More College: Electricity <ampersand /> Magnetism, Quantum Mechanics, </cell></row>
+<row><cell><alert>Taught</alert></cell>
+        <cell /><cell colspan="3">Introductory (Conceptual, Algebra-based, Calculus-based) Physics (<ampersand /> lab),</cell></row>
+<row><cell /><cell /><cell colspan="3">Mathematical Methods, Partial Differential Equations,</cell></row>
+<row><cell /><cell /><cell colspan="3">Numerical Methods, Senior Research (Proposal, Project),</cell></row>
+<row><cell /><cell /><cell colspan="3">Electronics, Nuclear <ampersand /> Particle Physics, Pre-Calculus,</cell></row>
+<row><cell /><cell /><cell colspan="3">College Mathematics, Remedial Math, First-Year Seminar </cell></row>
+-->
+</tabular>
+</sidebyside>
+<p><alert>Courses Taught at Thomas More</alert> in order of frequency (including other institutions):</p>
+<sidebyside>
+<tabular>
+<row><cell>PHY 121-122</cell><cell>Introductory Algebra-based Physics</cell><cell>(with labs)</cell></row>
+<row><cell>PHY 432</cell><cell>Electricity <ampersand /> Magnetism</cell><cell /></row>
+<row><cell>MAT/PHY 301-301</cell><cell>Mathematical Methods</cell><cell /></row>
+<row><cell>PHY 416</cell><cell>Quantum Mechanics</cell><cell /></row>
+<row><cell>PHY 142, PHY 241</cell><cell>Introductory Calculus-based Physics</cell><cell /></row>
+<row><cell>MAT 310</cell><cell>Partial Differential Equations</cell><cell /></row>
+<row><cell>PHY 251</cell><cell>Electronics</cell><cell>(with lab)</cell></row>
+<row><cell>NSC 220</cell><cell><q>Anything Physics</q>: Conceptual Physics</cell><cell>(with lab)</cell></row>
+<row><cell>PHY 490</cell><cell>Senior Research Proposal</cell><cell /></row>
+<row><cell>PHY 491</cell><cell>Senior Research Project</cell><cell /></row>
+<row><cell>PHY 411</cell><cell>Nuclear <ampersand /> Particle Physics</cell><cell /></row>
+<row><cell>MAT 115</cell><cell>Pre-Calculus</cell><cell /></row>
+<row><cell>MAT 303</cell><cell>Numerical Methods</cell><cell /></row>
+<row><cell>MAT 094, 096</cell><cell>Developmental Math</cell><cell /></row>
+<row><cell>FYS 150</cell><cell>First-Year Seminar</cell><cell /></row>
+<row><cell>MAT 123</cell><cell>College Mathematics</cell><cell /></row>
+</tabular></sidebyside>
+</section>
 
 <!-- ********************************************************************************************** -->
 <!-- ********************************************************************************************** -->
 
-<chapter xml:id="prof-teach"><title>Teaching</title>
+<section xml:id="prof-teach"><title>Teaching</title>
 
-<section xml:id="teach-narrative"><title>Narrative</title>
-<introduction><p>In order to gauge my effectiveness, I will look to several sources of anecdotal evidence and hope that this will indicate the level of reflection, of innovation, and of effectiveness that I bring to my courses.</p></introduction>
+<introduction><p>I have been teaching physics and math courses for about twenty years.  While half that time has been at Thomas More, only about a third of the courses have been.  This is because in my sixth year here, I took on some administrative duties that reduced my course load.  Much of my development happened in the first third of my career and as I innovated and found techniques that worked I gradually relied more and more heavily on those techniques.  I continue to reflect on my teaching and I have both sit in others' classes as well as asked others to sit in on my classes.  By far I get more out of sitting in somebody's class for an entire semester and have done that four and about a half<fn>The last time I tried this, I asked to sit in on a course in the biology department because I am teaching the biology majors.  I was only able to keep up with the information for the about half the term because I was not doing the homework or studying sufficiently to develop a reliable understanding.</fn> times.</p>
+
+<p>I am now in a place in my career where I am refining innovations and ideas from previous courses more than I am creating new ideas that are unrelated to the successes I have had in the past.  Nonetheless, I took the Director of the QEP role in part because I saw it as a mechanism for being exposed to entirely new ideas that could potentially revolutionize my teaching. It did not revolutionize my teaching, but it did help me reflect on what is important with a new and different light.</p>
+
+<p>In the first part of my career, my attention was swallowed up by how I could present the content in a new and different way that would make sense to the students.  I have come to realize that there is no best way.  It depends on who you are talking to and what their background is.  I now focus, instead, on how to build communication and work with the students to together find a way to fit the information into their ear.  While I think it might be useful to provide this context, it also seems distracting from the three sections asked for in the application.  So I created a section, <xref ref="teach-phil" text="title" />, in <xref ref="app-additional" text="text-global">Appendix</xref> to explain it.  It is not necessary to read that to understand the rest of this document.</p></introduction>
 
 <subsection xml:id="ss-effective"><title>Teaching Effectiveness</title>
-<p>To begin with, I try to maintain a sufficient standard of rigor that balances covering the material at a pace that does allows as many students as possible to move forward without holding back the top students.  My approach is to move at a middle pace while reaching out to the slower students and occasionally tossing treats out to the faster students.  While I have never been able to go so fast that my best students are satisfied, I also cannot spend sufficient time for all of my students to understand everything.  Typically I try to maintain a pace that (1) keeps 27 of 30 students from dropping the course and that (2) allows students who stick with it and work hard to at least not fail the course.  After receiving a small but noticeable number of student evaluations early in my career that indicated that students thought I was arrogant in my grading, I spent a good deal of effort in subsequent years working to see comments in the student evaluations that indicates that students recognized that they got the grades they had either earned or deserved.  They felt that the grading was fair, that their grades reflected expectations, and that they had sufficient opportunity to get help.</p>
-
-<p>The approach that works for me is to emphasize that the classroom is a dialog.  There has to be communication back and forth and it needs to come in multiple forms.  While there is undoubtedly a more concise way to express this idea, the analogy in my head is with email versus voice versus face-to-face communication.  Email only has the words you say.  Your voice is better specifically because it adds a dimension of modulation and emphasis.  Face-to-face communication is better because it adds yet another layer of body language.  The <q>email version</q> of classroom communication is when the student gets their information by passively listening to the lecture without interacting.  This is still a two-way dialog because (presumably) the student still turns in homework, which is communicating their knowledge (or lack thereof), and the faculty is still grading the homework, which confirms (or indicates) the level of understanding the student has according to the perspective of the more-experienced faculty member.  My first order of business is to make this channel of communication as explicit as possible.  This didn't make it into my syllabus until 2010 (c.f., the <url href="Syllabi/MP301SyllabusChristensenF10.pdf">Goals of MAT/PHY 301</url>, discussed in <xref ref="ss-syllabi" text="text-global">Section</xref>).</p>
-
-<p>The <q>voice version</q> of classroom communication is when the lecture is interactive and the student is being called on and answering questions that the faculty member asks.  That is to say, students are able to recognize and respond to relevant questions according to what the instructor has (usually recently) introduced.  This is much better than the communication through homework because it is immediate feedback.  Both parties are currently engaged in processing the material and can modify the communication on the fly during the dialog.  I engage in this level of communication with my students by actively calling on individual students during every class.  I learned very quickly that students are uncomfortable with this approach, but I have not been able to find a better approach.  I tried small-group work and the learning curve for my implementation was too steep for my patience.  I tried think-pair-share and struggled to find that to be effective.  Instead, I found that students will accept being called on individually if I agree to give them an <q>out</q> when they are having a bad day.  Every student gets one (sometimes two) <q>pass</q> per class period for which they do not have to answer a specific question with no consequence.  The consequence if they continue to pass multiple times, is my sorrowful disappointment.  Usually that is sufficient to enable me to convince them to think through the problem out loud with me and the rest of the class.</p>
-
-<p>The <q>face-to-face version</q> of classroom communication is when students and faculty collaborate to aim the direction of the dialog.  Obviously the faculty member has to maintain an awareness of the big-picture overview of the course and especially how the content of the single class period fits into that context.  What I mean is that the student has to feel comfortable enough with the classroom environment that they are willing to say, <q>Wait! I don't know how to fit that in my head yet.</q>  I engage in this level of communication with my students by first telling them that I have a hearing impairment (which has the benefit of being true) and that, as a result, I need to be looking at them when they ask a question so that I can see their lips moving.  Once I started doing this, the door it opened is that, if they are too uncomfortable to speak up about their confusion (usually for fear of being the only one) I can ask them to make a face or shake their head or somehow convey their confusion with a clear body language.  The advantage of this is that it communicates to me that they are not understanding.  If I see a couple of people doing this, then I <em>explicitly</em> indicate to them that I can see some faces and that they are not alone.  I tell them that I would like to try explaining it in a different way and ask if anybody can help direct my explanation by asking a question.  If they ask, then we can work together to come to an understanding.  If nobody asks a question, then I explicitly change my description and ask for faces again.  We then repeat the process.</p>
-
 <p>Ultimately, the message I am trying to convey to them is that it is less about what I say and more about what they hear.  If they aren't hearing me, then it doesn't do me any good to keep talking.  The dialog that I try to achieve in the classroom is about how we can work together to get the information to fit in their ear.</p>
 
 <p>The anecdotal evidence of classroom interactions indicates to me that if I can convince them that my primary goal is their understanding and their success, then I find that they are much more willing to open up and risk revealing their confusion so that together we can fix it.  That these anecdotes indicate that I am an effective teacher is reinforced by the <xref ref="teach-support">thank you notes in Section</xref> and by the patterns in my <xref ref="teach-evals" text="text-global">student evaluations in Section</xref>.  In the next section I will describe my development as a faculty member through the various innovations I have tried in a variety of courses.  Most of these a direct applications of the approach I attempt to implement as expressed above.  I also provide syllabi of the courses to show the pattern of development and the form of the implementation.</p>
+
+<p>Despite the small number of courses that I have taught over the past seven years since applying for tenure, I believe I can show a history of effective teaching. Regarding my classroom performance, I have been rated highly fairly consistently in <xref ref="teach-evals" text="text-global">my student evaluations</xref>.  On the 4-point scale, my average tends to be between 2.8 (70<percent />) and 3.4 (85<percent />).  On the 5-point scale (implemented in Fall 2013), all of my scores tend to be above a 4.0 (80<percent />).  The comments (<xref ref="t-descriptors" text="title" />) are fairly consistent and positive.  The most common comments are about my passion and knowledge-base.  The overall trend that I would like to draw to your attention is that there is a thread throughout about my interest and willingness to explain in a variety of ways and to make sure people are understanding the material at some reasonable level.  Frankly, I believe (granted without evidence) that this is the point that leads to the smattering of comments indicating that some (small) fraction of my students claim that I am either their favorite teacher or the best teacher they have had either this term or even through their entire time at Thomas More.</p>
+
+<p>Another trend that I think emerges from the student evaluations is that while the positive comments tend to be about my ability to connect and inspire the students to put in the time and effort it takes to learn what can often be an esoteric or daunting topic (math and physics), the negative comments tend to be about classroom management.  While these comments exist throughout, they do not appear as frequently as the positive comments and on balance, based on the overall scores the student rank me, the good outweighs the bad by a significant amount.  To some extent, I think these time-management issues are due to the amount of time I have spent doing administrative work (See <xref ref="prof-service" text="title" /> for details).  Once I step back to being full-time faculty, I do not expect these comments to continue.  As evidence that students recognize the value added by my classes, I have compiled images of several <xref ref="teach-support" text="title">thank you cards</xref> that students have sent me.  These are not usually delivered at the end of the class, but rather at the end of a subsequent year when the student is graduating.  This tells me that I have made a lasting impression in their lives.</p>
 </subsection>
 
 <subsection xml:id="ss-syllabi"><title>Innovations in Teaching</title>
 <p>As a tutor of undergraduates when I was in graduate school, I learned that (what I now recognize as) the <q>curse of knowledge</q> makes it feel to the knowledgable as though the best explanation is to start by providing context and a view of the forrest and then gradually working in to the example of the various trees that, together, make up the forrest.  On the other hand, students are often asked example-level questions and only feel like they understand when they can be successful at doing the examples.</p>
 
 <p>The standard conundrum: Do you need the examples to understand the big picture or do you need the big picture to understand the examples.</p>
+
+<p>I tried small-group work and the learning curve for my implementation was too steep for my patience.  I tried think-pair-share and struggled to find that to be effective.</p>
+
 </subsection>
 
-</section>
+<subsection xml:id="ss-design"><title>Course Design</title>
+<p>As a tutor of undergraduates when I was in graduate school, I learned that (what I now recognize as) the <q>curse of knowledge</q> makes it feel to the knowledgable as though the best explanation is to start by providing context and a view of the forrest and then gradually working in to the example of the various trees that, together, make up the forrest.  On the other hand, students are often asked example-level questions and only feel like they understand when they can be successful at doing the examples.</p>
 
-<section xml:id="teach-evals"><title>Student Evaluations</title>
-<p>.</p>
-</section>
-
-<section xml:id="teach-support"><title>Testimonials</title>
-
-<introduction>
-<p>I am including some <q>Thank you</q> notes I have received over the years.  These are a reflection of the relationships I have been able to build with the students.  Some were due to extra effort on my part (such as <xref ref="f-Bokern" text="title">Mark</xref>, <xref ref="f-Rechtin" text="title">Maria</xref>, and <xref ref="f-Plapp" text="title">Bree</xref>) and others were a surprise (such as <xref ref="f-Bilbo" text="title">Tom</xref>, <xref ref="f-Tillery" text="title">Ryan</xref>, and <xref ref="f-Stadtmiller" text="title">Abby</xref>) since I did not think I was doing anything peculiar for that individual student.  While I am including all of these in the section on Teaching, some notes (such as <xref ref="f-Bokern" text="title">Mark</xref> and <xref ref="f-Rechtin" text="title">Maria</xref>) also reflect on service and will be linked from there.</p>
-
-<p>The notes are sorted chronologically, starting with
-        <xref ref="f-Bilbo" text="title">Tom Bilbo</xref> who took a physics class from me in 2012-2013.
-        <xref ref="f-Engel" text="title">Ellen (Gamel) Engel</xref> was a math and physics double major from 2010-2014.
-        <xref ref="f-Bokern" text="title">Mark Von Bokern</xref> requested some help to review material for a bypass exam during the summer of 2015.
-        <xref ref="f-Plapp" text="title">Brianna Plapp</xref> and <xref ref="f-Tillery" text="title">Ryan Tillery</xref> were two students who struggled in my 2016-2017 physics class.  Bree often came to office hours and both passed the course and graduated in 2018.
-        <xref ref="f-Rechtin" text="title">Maria Rechtin</xref> was an honors student who took the physics series from me in 2016-2017 and was the student representative on the Thomas More Board of Trustees during 2017-2018 while I served as the faculty representative.
-        <xref ref="f-Stadtmiller" text="title">Abby Stadtmiller</xref> is a math-education major who expects to graduate this December.
-</p>
-</introduction>
-
-<subsection><title>Thank you notes</title>
-<figure xml:id="f-Bilbo">
-        <caption>During the 2012-2013 academic year, <url href="https://www.linkedin.com/in/tombilbo/">Tom Bilbo</url>, the son of TMU's Becky Bilbo, took some supplemental courses at Thomas More as he prepared for a graduate program.  One set of courses was PHY 121 and PHY 122, the algebra-based physics course I often teach for the biology majors.  Tom was very curious and asked great questions.  We have also had several interesting conversations about physics and science in general. Tom has since gone on to graduate school in entomology and is a Ph.D. candidate at Clemson University.</caption>
-        <sidebyside widths="30% 60%">
-                <image xml:id="i-Bilbo-o" source="images/Bilbo-out.jpg"><description>Cover of Bilbo's thank you card</description></image>
-                <image xml:id="i-Bilbo-i" source="images/Bilbo-in.jpg"><description>Text of Bilbo's thank you card</description></image>
-        </sidebyside>
-</figure>
-
-<figure xml:id="f-Engel">
-        <caption>From 2010-2014, <url href="https://www.linkedin.com/in/ellen-engel-695254b5/">Ellen (Gamel) Engel</url> ('14) was a math and physics double major.  This is a significant course load and Ellen worked very hard to be at the top of the class throughout her time.  She connected with everybody in the department and went on to a graduate program at UC.  She is now working at Advanced Testing Laboratories.</caption>
-        <sidebyside widths="30% 60%">
-                <image xml:id="i-Engel-o" source="images/Engel-out.jpg"><description>Cover of Engel's thank you card</description></image>
-                <image xml:id="i-Engel-i" source="images/Engel-in.jpg"><description>Text of Engel's thank you card</description></image>
-        </sidebyside>
-</figure>
-
-<figure xml:id="f-Bokern">
-        <caption>In 2015, <url href="https://www.linkedin.com/in/mark-von-bokern-3681027/">Mark Von Bokern</url> enrolled in our MAT program for graduate students who were interested in teaching high school.  He did not have credit for one of the junior physics courses necessary to enroll and asked to take a <q>by-pass</q> exam to show competency for the material.  During the summer of 2015, I loaned him my textbook and met with him for a few hours each week to assign specific homework problems, review questions about the relevant chapters, and work through solutions to select problems.  I separately reviewed his homework solutions, which were often clever and always indicative of dedicated attention to detail.  At the end, he passed the exam and the credit necessary was waived for his enrollment.</caption>
-        <sidebyside widths="30% 60%">
-                <image xml:id="i-Bokern-o" source="images/Bokern-out.jpg"><description>Cover of Von Bokern's thank you card</description></image>
-                <image xml:id="i-Bokern-i" source="images/Bokern-in.jpg"><description>Text of Von Bokern's thank you card</description></image>
-        </sidebyside>
-</figure>
-
-<figure xml:id="f-Plapp">
-        <caption>During the 2016-2017 academic year, Brianna (Bree) Plapp took my PHY 121 and PHY 122 courses, the algebra-based physics sequence I often teach for the biology majors.  Bree was not a strong student and struggled with the math necessary for the course.  I encouraged her to come to office hours and helped her focus her attention.  She started the fall term very anxious about the material and her first few grades reinforced her self-image of being incapable of learning the material.  We worked on both the physics concepts and the frame of mind that allows one to be successful.  She always had a ready smile and I am very proud of the effort she put and the result she earned.</caption>
-        <sidebyside widths="30% 60%">
-                <image xml:id="i-Plapp-o" source="images/Plapp-out.jpg"><description>Cover of Plapp's thank you card</description></image>
-                <image xml:id="i-Plapp-i" source="images/Plapp-in.jpg"><description>Text of Plapp's thank you card</description></image>
-        </sidebyside>
-</figure>
-
-<figure xml:id="f-Tillery">
-        <caption>During the 2016-2017 academic year, Ryan Tillery took my PHY 121 and PHY 122 courses, the algebra-based physics sequence I often teach for the biology majors.  Ryan and <xref ref="f-Plapp" text="title">Bree</xref> were in the same class and connected over their common struggle.  They often came to office hours together.  While she comments on her internal attitude towards physics, I personally never really saw that expressed.  She was always willing to answer questions and put herself <q>out there</q> when I asked the class to join in the dialog about the material.</caption>
-        <sidebyside widths="30% 60%">
-                <image xml:id="i-Tillery-o" source="images/Tillery-out.jpg"><description>Cover of Tillery's thank you card</description></image>
-                <image xml:id="i-Tillery-i" source="images/Tillery-in.jpg"><description>Text of Tillery's thank you card</description></image>
-        </sidebyside>
-</figure>
-
-<figure xml:id="f-Rechtin">
-        <caption><url href="https://www.linkedin.com/in/maria-rechtin-4274a2a4/">Maria Rechtin</url> and I crossed paths in multiple ways from 2016 through her graduation in 2018.  During the 2016-2017 academic year, she took my PHY 121 and PHY 122 courses, the algebra-based physics sequence I often teach for the biology majors.  During the 2017-2018 academic year, Maria was the President of the Student Government Association (SGA) and, as such, she was the student representative on the Thomas More Board of Trustees.  It was both of our first time being board members and, since we knew each other from the physics course, we were able to have some conversations about how to handle various topics and situations that arose during the board meetings.  The other reference in her note refers to her duties as SGA President.  I happened to be on the Core Assessment Committee during this time and asked to speak to the SGA members about the opinion of the students regarding the Core Curriculum.  Maria helped me gather information and provided a context for understand the broader opinion of students.</caption>
-        <sidebyside>
-                <image xml:id="i-Rechtin-i" source="images/Rechtin-in1.jpg"><description>Additional text on the back of Rechtin's thank you card</description></image>
-        </sidebyside>
-        <sidebyside widths="45% 45%">
-                <image xml:id="i-Rechtin-o" source="images/Rechtin-out.jpg"><description>Cover of Rechtin's thank you card</description></image>
-                <image xml:id="i-Rechtin-i2" source="images/Rechtin-in2.jpg"><description>Text of Rechtin's thank you card</description></image>
-        </sidebyside>
-</figure>
-
-<figure xml:id="f-Stadtmiller">
-        <caption>During the spring of 2018, Abby Stadtmiller, a junior math-education major, took my PHY 141 course, the calculus-based introduction to electricity and magnetism that physics majors take in their first-year of college.  This course is required for math majors and Abby was not particularly excited to be in the course. We had some good-natured back-and-forth during class about the differences between mathematicians and physicists and her humor and laughter really helped me engage the other students, who were first-year physics majors and a sophomore chemistry major.  As an education major, Abby also had some insight into how to teach well and, while we did not discuss it often or in detail, it did provide me with an opportunity to reflect onmy teaching and to initiate conversations with the Education Department.  (See also the letter of recommendation from Dr. Haverkos.)</caption>
-        <sidebyside widths="30% 60%">
-                <image xml:id="i-Stadtmiller-o" source="images/Stadtmiller-out.jpg"><description>Cover of Stadtmiller's thank you card</description></image>
-                <image xml:id="i-Stadtmiller-i" source="images/Stadtmiller-in.jpg"><description>Text of Stadtmiller's thank you card</description></image>
-        </sidebyside>
-</figure>
+<p>The standard conundrum: Do you need the examples to understand the big picture or do you need the big picture to understand the examples.</p>
 </subsection>
-
-</section>
 
     <conclusion>
-    <p>(Revised: Nov 8, 2018)</p> <!-- Created -->
-    <p>A PDF version might be found at <url href="http://physics.thomasmore.edu/JChristensen/teach.pdf">teach.pdf (308 kB)</url></p>
+    <p>A PDF version can be found at <url href="http://physics.thomasmore.edu/JChristensen/teach.pdf">teach.pdf (308 kB)</url></p>
     </conclusion>
-
-</chapter>
-
-<!-- ********************************************************************************************** -->
-<!-- ********************************************************************************************** -->
-
-<chapter xml:id="prof-scholarship"><title>Scholarship</title>
-
-<section xml:id="scholar-narrative"><title>Narrative</title>
-
-<subsection xml:id="ss-CT"><title>Critical Thinking and the Classroom</title>
-<p>.</p>
-</subsection>
-
-<subsection xml:id="ss-sabbatical"><title>Sabbatical</title>
-<p>.</p>
-</subsection>
-
-<subsection xml:id="ss-physics"><title>Physics Scholarship</title>
-<p>.</p>
-</subsection>
 
 </section>
 
-<section xml:id="scholar-publist"><title>Publication List</title>
+<!-- ********************************************************************************************** -->
+<!-- ********************************************************************************************** -->
+
+<section xml:id="prof-scholarship"><title>Scholarship</title>
+
+<subsection xml:id="scholar-narrative"><title>Narrative</title>
+
+<subsubsection xml:id="ss-CT"><title>Critical Thinking and the Classroom</title>
+<p>.</p>
+</subsubsection>
+
+<subsubsection xml:id="ss-sabbatical"><title>Sabbatical</title>
+<p>.</p>
+</subsubsection>
+
+<subsubsection xml:id="ss-physics"><title>Physics Scholarship</title>
+<p>.</p>
+</subsubsection>
+
+</subsection>
+
+<subsection xml:id="scholar-publist"><title>Publication List</title>
 <p>My <url href="https://www.scopus.com/authid/detail.uri?authorId=55425907700">SCOPUS list</url> includes the following refereed journals and conference proceedings.  I have linked to the DOI for all published works, but most of these require a subscription to access them.  Where relevant, I have also included a link to <url href="https://arxiv.org/">ar<m>\chi</m>ive</url>, which is a preprint archive that has the full pdf article.
 </p>
 <p>
@@ -471,51 +496,160 @@
 </li>
 </dl>
 </p>
-</section>
+</subsection>
 
     <conclusion>
-    <p>(Revised: Nov 8, 2018)</p> <!-- Created -->
-    <p>A PDF version might be found at <url href="http://physics.thomasmore.edu/JChristensen/scholarship.pdf">scholarship.pdf (308 kB)</url></p>
+    <p>A PDF version can be found at <url href="http://physics.thomasmore.edu/JChristensen/scholarship.pdf">scholarship.pdf (308 kB)</url></p>
     </conclusion>
 
-</chapter>
+</section>
 
 <!-- ********************************************************************************************** -->
 <!-- ********************************************************************************************** -->
 
-<chapter xml:id="prof-service"><title>Service</title>
+<section xml:id="prof-service"><title>Service</title>
 
-<section xml:id="service-narrative"><title>Narrative</title>
+<subsection xml:id="service-narrative"><title>Narrative</title>
 
 <introduction><p>.</p></introduction>
 
-<subsection xml:id="ss-AssD"><title>Assistant Dean and Associate Provost</title>
+<subsubsection xml:id="ss-AssD"><title>Assistant Dean and Associate Provost</title>
 <p>.</p>
-</subsection>
+</subsubsection>
 
-<subsection xml:id="ss-QEP"><title>Director of the Quality Enhancement Plan</title>
+<subsubsection xml:id="ss-QEP"><title>Director of the Quality Enhancement Plan</title>
 <p>.</p>
-</subsection>
+</subsubsection>
 
-<subsection xml:id="ss-committee"><title>Committee Work</title>
+<subsubsection xml:id="ss-committee"><title>Committee Work</title>
 <p>Core, Library, FCC, Academic Affairs</p>
 <p>FPM</p>
+</subsubsection>
+
 </subsection>
+
+    <conclusion>
+    <p>A PDF version might be found at <url href="http://physics.thomasmore.edu/JChristensen/service.pdf">service.pdf (308 kB)</url></p>
+    </conclusion>
 
 </section>
 
-    <conclusion>
-    <p>(Revised: Nov 8, 2018)</p> <!-- Created -->
-    <p>A PDF version might be found at <url href="http://physics.thomasmore.edu/JChristensen/service.pdf">service.pdf (308 kB)</url></p>
-    </conclusion>
+<!-- ********************************************************************************************** -->
+<!-- ********************************************************************************************** -->
 
 </chapter>
 
 <!-- ********************************************************************************************** -->
 <!-- ********************************************************************************************** -->
 
+<chapter xml:id="prof-cover"><title>Cover Letter</title>
+
+
+<!--    <conclusion> -->
+    <p>A PDF version might be found at <url href="http://physics.thomasmore.edu/JChristensen/cover.pdf">cover.pdf (308 kB)</url></p>
+<!--     </conclusion> -->
+</chapter>
+
 <!-- ********************************************************************************************** -->
 <!-- ********************************************************************************************** -->
+
+<chapter xml:id="prof-vitae"><title>Curriculum Vitae</title>
+
+<sidebyside>
+<tabular>
+<col width="15%" /><col width="10%" /><col width="20%" /><col width="20%" /><col width="15%" />
+<row><cell colspan="5"><me xml:id="CV-education">\hspace{.5cm}</me></cell></row>
+
+<row><cell><alert>Education</alert></cell>
+        <cell>Ph.D.</cell><cell>University of Kentucky</cell><cell>(Lexington, KY)</cell><cell>1990<ndash />1998</cell></row>
+<row><cell /><cell /><cell colspan="2"><em>Numerical Quantum Chromodynamics; Lattice QCD</em></cell><cell /></row>
+<row><cell /><cell /><cell colspan="2"><em>(with 18 graduate credit hours Mathematics)</em></cell><cell /></row>
+<row><cell></cell>
+        <cell>B.S.</cell><cell>Bradley University </cell><cell>(Peoria, IL)</cell><cell>1986<ndash />1990</cell></row>
+<row><cell /><cell /><cell colspan="2"><em>Physics and Mathematics</em></cell><cell /></row>
+
+<row><cell><m>\hspace{.5cm}</m></cell></row>
+
+<row><cell><alert>Experience</alert></cell>
+        <cell colspan="2">Associate Provost <m>\left[\frac{1}{2}\mbox{-time}\right]</m></cell>
+        <cell>(Thomas More University)</cell><cell>2018<ndash />Present</cell></row>
+<row><cell /><cell /><cell colspan="3"><em>Student academic issues</em></cell></row>
+<row><cell /><cell /><cell colspan="3"><em>Interface with Department Chairs</em></cell></row>
+<row><cell /><cell /><cell colspan="3"><em>Contribute to: 
+        Retention Efforts,  Policy Manual Revisions, Various Committees</em></cell></row>
+<row><cell /><cell colspan="2">Member, Board of Trustees</cell><cell>(Thomas More College)</cell>
+        <cell>2017<ndash />Present</cell></row>
+<row><cell /><cell colspan="2">Assistant Dean of the College <m>\left[\frac{1}{2}\mbox{-time}\right]</m></cell> 
+        <cell>(Thomas More College)</cell><cell>2014<ndash />2017</cell></row>
+<row><cell /><cell /><cell colspan="3"><em>Rafter overrun budget</em></cell></row>
+<row><cell /><cell /><cell colspan="3"><em>Student academic complaints</em></cell></row>
+<row><cell /><cell /><cell colspan="3"><em>Contribute to:
+        Replacing Rafter book distributors, Policy Manual Revisions</em></cell></row>
+<row><cell /><cell /><cell colspan="3"><m>\hspace{.5cm}</m><em>Core Curriculum Revision, Various Committees</em></cell></row>
+<row><cell /><cell /><cell colspan="3"><em>Aid the transition of Interim and New VPAAs</em></cell></row>
+<row><cell /><cell colspan="2">Director of the QEP <m>\left[\frac{1}{2}\mbox{-time}\right]</m></cell>
+        <cell>(Thomas More College)</cell><cell>2010<ndash />2016</cell></row>
+<row><cell /><cell /><cell colspan="3"><em>Oversee implementation of Quality Enhancement Plan</em></cell></row>
+<row><cell /><cell /><cell colspan="3"><m>\hspace{.5cm}</m><em>annual cohorts of 7-10 faculty members</em></cell></row>
+<row><cell /><cell /><cell colspan="3"><em>Guide transition from QEP to TLC</em></cell></row>
+<row><cell /><cell colspan="2">Associate Professor of Physics</cell><cell>(Thomas More College)</cell>
+        <cell>2007<ndash />Present</cell></row>
+<row><cell /><cell /><cell colspan="2">Department Chair</cell><cell>2017<ndash />Present</cell></row>
+<row><cell /><cell /><cell colspan="2">Department Chair</cell><cell>2012<ndash />2014</cell></row>
+<row><cell /><cell /><cell colspan="2">Tenured</cell><cell>Spring 2011</cell></row>
+<row><cell /><cell /><cell colspan="2">Engineering Advisor</cell><cell>2010<ndash />Present</cell></row>
+<row><cell /><cell colspan="2">Associate Professor of Physics</cell><cell>(McMurry University)</cell>
+        <cell>2005<ndash />2007</cell></row>
+<row><cell /><cell /><cell colspan="2">Chair of the Faculty</cell><cell>2006<ndash />2007</cell></row>
+<row><cell /><cell /><cell colspan="2">Department Chair</cell><cell>2005<ndash />2007</cell></row>
+<row><cell /><cell colspan="2">Assistant Professor of Physics</cell><cell>(McMurry University)</cell>
+        <cell>1999<ndash />2005</cell></row>
+<row><cell /><cell /><cell colspan="2">Tenured</cell><cell>Spring 2004</cell></row>
+<row><cell /><cell /><cell colspan="2">Acting Department Chair</cell><cell>Spring 2002</cell></row>
+<row><cell /><cell /><cell colspan="2">Engineering Advisor</cell><cell>2001<ndash />2007</cell></row>
+<row><cell /><cell /><cell colspan="2">Faculty Rep, Science and Math Advisory Board</cell>
+        <cell>2000<ndash />2006</cell></row>
+<row><cell /><cell colspan="2">Visiting Assistant Professor of Physics</cell><cell>(Centre College)</cell>
+        <cell>1998<ndash />1999</cell></row>
+
+<row><cell><m>\hspace{.5cm}</m></cell></row>
+
+<row><cell><alert>Teaching</alert></cell>
+        <cell colspan="4">Thomas More College: Electricity <ampersand /> Magnetism, Quantum Mechanics, </cell></row>
+<row><cell /><cell /><cell colspan="3">Introductory (Conceptual, Algebra-based, Calculus-based) Physics (<ampersand /> lab),</cell></row>
+<row><cell /><cell /><cell colspan="3">Mathematical Methods (Partial Differential Equations),</cell></row>
+<row><cell /><cell /><cell colspan="3">Numerical Methods, Senior Research (Proposal, Project),</cell></row>
+<row><cell /><cell /><cell colspan="3">Electronics, Nuclear <ampersand /> Particle Physics, Pre-Calculus,</cell></row>
+<row><cell /><cell /><cell colspan="3">College Mathematics, Remedial Math, First-Year Seminar </cell></row>
+<row><cell />
+        <cell colspan="4">McMurry University: Introductory Physics (Conceptual-, Algebraic-, </cell></row>
+<row><cell /><cell /><cell colspan="3">Calculus-based), Electricity <ampersand /> Magnetism, Quantum Mechanics,</cell></row>
+<row><cell /><cell /><cell colspan="3">Electronics, Modern Physics, Advanced Modern Physics, </cell></row>
+<row><cell /><cell /><cell colspan="3">Human Knowledge, Calculus II, Pre-Calculus, College Algebra </cell></row>
+<row><cell />
+        <cell colspan="4">Centre College: Introductory Algebra-based Physics (1-term version),</cell></row>
+<row><cell /><cell /><cell colspan="3">Classical Mechanics, Electronics, Interfacing (LabVIEW software)</cell></row>
+</tabular>
+</sidebyside>
+
+<sidebyside>
+<image xml:id="i-CV1" source="images/CV-1.jpg"><description>Page 1 (of 4) of my curriculum vitae</description></image>
+</sidebyside>
+<sidebyside>
+<image xml:id="i-CV2" source="images/CV-2.jpg"><description>Page 2 (of 4) of my curriculum vitae</description></image>
+</sidebyside>
+<sidebyside>
+<image xml:id="i-CV3" source="images/CV-3.jpg"><description>Page 3 (of 4) of my curriculum vitae</description></image>
+</sidebyside>
+<sidebyside>
+<image xml:id="i-CV4" source="images/CV-4.jpg"><description>Page 4 (of 4) of my curriculum vitae</description></image>
+</sidebyside>
+
+<!--    <conclusion> -->
+    <p>A PDF version can be found at <url href="http://physics.thomasmore.edu/JChristensen/documents/JChristensen CV 2018 (prof).pdf">JChristensen CV 2018 (prof).pdf (128 kB)</url></p>
+<!--     </conclusion> -->
+</chapter>
+
 
 <!-- ********************************************************************************************** -->
 <!-- ********************************************************************************************** -->
@@ -528,6 +662,147 @@
 <!-- ********************************************************************************************** -->
 <backmatter>
     <title>Back Matter</title> <!-- mostly for HTML sectioning -->
+
+        <appendix><title>Syllabi</title>
+        <p>.</p>
+        </appendix>
+
+<!-- ********************************************************************************************** -->
+<!-- ********************************************************************************************** -->
+
+        <appendix><title>Teaching Documentation</title>
+
+    <section xml:id="fac-evals"><title>Chair Evaluations</title>
+        <p>I came to Thomas More in 2007.  At that time, Dr. Riehemann was the Chair of the Department.  He provided supportive Department Chair reviews of my work during my first three years 
+                (<url href="documents/ChairEvalChristensen0708.pdf">'07-'08</url>, 
+                <url href="documents/ChairEvalChristensen0809.pdf">'08-'09</url>, 
+                <url href="documents/ChairEvalChristensen0910.pdf">'09-'10</url>).  
+        In my fourth year (2010-2011), I became half-time Director of the QEP and taught fewer courses for the department.  
+        That spring (2011), I was granted tenure and took that as a positive reflection on my contribution to the institution, including teaching. </p>
+        <p>In my sixth year (2012-2013), I took over the Department Chair duties.  After that time, I do not have a Department Chair review of my work.  I also do not have a Dean's evaluation of my contribution.</p>
+        </section>
+
+    <section xml:id="teach-evals"><title>Student Evaluations</title>
+        <p>I came to Thomas More in 2007, before we began using electronic student evaluations.  When we transitioned to the electronic version, there was a temporary drop off in the response rate.  Rather than provide documentation since my last promotion, I have gone back to Fall 2013, which is five years of recent documentation.  I have collected all of these evaluations into a single document so that you have the opportunity to randomly browse the comments.  Assuming this is not of interest to you, I have also provided several courses and several groupings of courses.
+        <table xml:id="t-evals"><title>Links to various collections of student evaluations</title>
+        <caption>On the left are some representative evaluations from courses that have more than 10 students. In order to get this level of enrollment, these do not include courses from the requirements for our major. On the right are some groupings of evaluations.  In particular, the <q>Recent Large Courses</q> are courses I taught from fall 2014 on that have more than 10 students. I've also provided a single file with all courses I have taught in the major.  These do not have high enrollment and have very few comments.  I included all of the PHY 121-122 evaluations because these are my highest enrolled courses and it gives a sense of the trajectory of my teaching.  I also grouped all the instances of the 301-302 series, which is dual listed as math and physics.  The MAT301 is listed separately from the PHY301, but they are the same class. This series was replaced with MAT310 when the curriculum was rearranged to increase the enrollment. </caption>
+        <tabular width="45% 45%">
+        <row><cell><alert>Representative high-enrollment courses</alert></cell>
+                <cell><alert>Grouped evaluations</alert></cell></row>
+        <row><cell><url href="evals/PHY121 F15.pdf">PHY121, Fall 2015 (38 kB)</url></cell>
+                <cell><url href="evals/All Christensen (105 pages).PDF">All Evals (105 pg, 1 MB)</url></cell></row>
+        <row><cell><url href="evals/PHY122 S16.pdf">PHY122, Spring 2016 (35 kB)</url></cell>
+                <cell><url href="evals/Most recent (since 2014-15) large courses (above 10 students).PDF">Recent Large Courses (215 kB)</url></cell></row>
+        <row><cell><url href="evals/PHY121 F16.pdf">PHY121, Fall 2016 (38 kB)</url></cell>
+                <cell><url href="evals/All Physics Major courses.PDF">All courses in the major (230 kB)</url></cell></row>
+        <row><cell><url href="evals/PHY122 S17.pdf">PHY122, Spring 2017 (36 kB)</url></cell>
+                <cell><url href="evals/All PHY121-122.PDF">All PHY121-122 (344 kB)</url></cell></row>
+        <row><cell><url href="evals/NSC220 S18.pdf">NSC220, Spring 2018 (38 kB)</url></cell>
+                <cell><url href="evals/All MAT301-302-310.PDF">All MAT301-302-310 (266 kB)</url></cell></row>
+        </tabular>
+        </table></p>
+        <p>There are limited courses available because I have had course reductions since 2010 when I started taking on administrative responsibilities.  Although I usually taught 2-3 courses per term, the courses for the major typically are low-enrollment.  I included a file with all of the electronic evaluations that I have access to.  This includes at least one class from each of the following semesters: F09, S12, F12-S13, F13-S14, F14-S15, F16-S17, and S18.</p>  
+        <p>In Fall 2013, we transitioned from scores out of 4 to scores out of 5.  On the 4-point scale, most of my scores are in the 2.8-3.5 range with one notable exception:  In Spring 2012, I taught a MAT 115 (precalculus) course and tried an innovation in the homework.  This is discussed above in <xref ref="prof-teach" text="global">Section</xref>.  On the 5-point scale, my scores are almost always above 4 and often above 4.5.  There is an occasional 3.8 for organization when my administrative duties have taken priority over my course-prep.  This is rare, but not vanishing.</p>
+        <p>The comments are fairly consistent throughout the years.  At my previous institution, I had a little trouble with comments like <q>arrogant</q> or <q>sarcastic</q>.  I made efforts there to remedy that and in all of these evaluations, there is only one instance of that comment.  The comments (good and bad) that seem to form a trend are listed in <xref ref="t-descriptors" text="global">Table</xref>.  
+        <table xml:id="t-descriptors"><title>Common Descriptors from Student Evaluations</title>
+        <caption>This table contains what I think are the most common descriptors from my student evaluations.  These are sorted in what I interpreted as most common to least common. The <q>nothing needs improvement</q> comment is about as common as the <q>humor / joking</q> comment.</caption>
+        <tabular width ="45% 45%">
+        <row><cell><alert>Does Well</alert></cell><cell><alert>Needs Improvement</alert></cell></row>
+        <row><cell>passionate</cell><cell>nothing</cell></row>
+        <row><cell>knowledgeable, clever</cell><cell>Returns graded work late</cell></row>
+        <row><cell>humor / joking</cell><cell>posting information to LMS</cell></row>
+        <row><cell>best / favorite teacher</cell><cell>Speed up / slow down</cell></row>
+        <row><cell>helpful / willing to help</cell><cell>insufficient time for exams</cell></row>
+        <row><cell>great job explaining / thorough</cell><cell>more examples</cell></row>
+        <row><cell>taught me how to think</cell><cell>shifting deadlines</cell></row>
+        </tabular>
+        </table>
+        </p>
+        <p>To my eye, there are significantly more favorable comments than negative comments in my evaluations.  All of these comments are reasonable descriptions.  The context for these comments is discussed further in <xref ref="prof-teach" text="global">Section</xref>.</p>
+        </section>
+
+<section xml:id="teach-support"><title>Testimonials</title>
+
+        <introduction>
+        <p>I am including some <q>Thank you</q> notes I have received over the years.  These are a reflection of the relationships I have been able to build with the students.  Some were due to extra effort on my part (such as <xref ref="f-Bokern" text="title">Mark</xref>, <xref ref="f-Rechtin" text="title">Maria</xref>, and <xref ref="f-Plapp" text="title">Bree</xref>) and others were a surprise (such as <xref ref="f-Bilbo" text="title">Tom</xref>, <xref ref="f-Tillery" text="title">Ryan</xref>, and <xref ref="f-Stadtmiller" text="title">Abby</xref>) since I did not think I was doing anything peculiar for that individual student.  While I am including all of these in the section on Teaching, some notes (such as <xref ref="f-Bokern" text="title">Mark</xref> and <xref ref="f-Rechtin" text="title">Maria</xref>) also reflect on service and will be linked from there.</p>
+
+        <p>The notes are sorted chronologically, starting with
+                <xref ref="f-Bilbo" text="title">Tom Bilbo</xref> who took a physics class from me in 2012-2013.
+                <xref ref="f-Engel" text="title">Ellen (Gamel) Engel</xref> was a math and physics double major from 2010-2014.
+                <xref ref="f-Bokern" text="title">Mark Von Bokern</xref> requested some help to review material for a bypass exam during the summer of 2015.
+                <xref ref="f-Plapp" text="title">Brianna Plapp</xref> and <xref ref="f-Tillery" text="title">Ryan Tillery</xref> were two students who struggled in my 2016-2017 physics class.  Bree often came to office hours and both passed the course and graduated in 2018.
+                <xref ref="f-Rechtin" text="title">Maria Rechtin</xref> was an honors student who took the physics series from me in 2016-2017 and was the student representative on the Thomas More Board of Trustees during 2017-2018 while I served as the faculty representative.
+                <xref ref="f-Stadtmiller" text="title">Abby Stadtmiller</xref> is a math-education major who expects to graduate this December.
+        </p>
+        </introduction>
+
+        <subsection><title>Thank you notes</title>
+        <figure xml:id="f-Bilbo">
+                <caption>During the 2012-2013 academic year, <url href="https://www.linkedin.com/in/tombilbo/">Tom Bilbo</url>, the son of TMU's Becky Bilbo, took some supplemental courses at Thomas More as he prepared for a graduate program.  One set of courses was PHY 121 and PHY 122, the algebra-based physics course I often teach for the biology majors.  Tom was very curious and asked great questions.  We have also had several interesting conversations about physics and science in general. Tom has since gone on to graduate school in entomology and is a Ph.D. candidate at Clemson University.</caption>
+                <sidebyside widths="30% 60%">
+                        <image xml:id="i-Bilbo-o" source="images/Bilbo-out.jpg"><description>Cover of Bilbo's thank you card</description></image>
+                        <image xml:id="i-Bilbo-i" source="images/Bilbo-in.jpg"><description>Text of Bilbo's thank you card</description></image>
+                </sidebyside>
+        </figure>
+
+        <figure xml:id="f-Engel">
+                <caption>From 2010-2014, <url href="https://www.linkedin.com/in/ellen-engel-695254b5/">Ellen (Gamel) Engel</url> ('14) was a math and physics double major.  This is a significant course load and Ellen worked very hard to be at the top of the class throughout her time.  She connected with everybody in the department and went on to a graduate program at UC.  She is now working at Advanced Testing Laboratories.</caption>
+                <sidebyside widths="30% 60%">
+                        <image xml:id="i-Engel-o" source="images/Engel-out.jpg"><description>Cover of Engel's thank you card</description></image>
+                        <image xml:id="i-Engel-i" source="images/Engel-in.jpg"><description>Text of Engel's thank you card</description></image>
+                </sidebyside>
+        </figure>
+
+        <figure xml:id="f-Bokern">
+                <caption>In 2015, <url href="https://www.linkedin.com/in/mark-von-bokern-3681027/">Mark Von Bokern</url> enrolled in our MAT program for graduate students who were interested in teaching high school.  He did not have credit for one of the junior physics courses necessary to enroll and asked to take a <q>by-pass</q> exam to show competency for the material.  During the summer of 2015, I loaned him my textbook and met with him for a few hours each week to assign specific homework problems, review questions about the relevant chapters, and work through solutions to select problems.  I separately reviewed his homework solutions, which were often clever and always indicative of dedicated attention to detail.  At the end, he passed the exam and the credit necessary was waived for his enrollment.</caption>
+                <sidebyside widths="30% 60%">
+                        <image xml:id="i-Bokern-o" source="images/Bokern-out.jpg"><description>Cover of Von Bokern's thank you card</description></image>
+                        <image xml:id="i-Bokern-i" source="images/Bokern-in.jpg"><description>Text of Von Bokern's thank you card</description></image>
+                </sidebyside>
+        </figure>
+
+        <figure xml:id="f-Plapp">
+                <caption>During the 2016-2017 academic year, Brianna (Bree) Plapp took my PHY 121 and PHY 122 courses, the algebra-based physics sequence I often teach for the biology majors.  Bree was not a strong student and struggled with the math necessary for the course.  I encouraged her to come to office hours and helped her focus her attention.  She started the fall term very anxious about the material and her first few grades reinforced her self-image of being incapable of learning the material.  We worked on both the physics concepts and the frame of mind that allows one to be successful.  She always had a ready smile and I am very proud of the effort she put and the result she earned.</caption>
+                <sidebyside widths="30% 60%">
+                        <image xml:id="i-Plapp-o" source="images/Plapp-out.jpg"><description>Cover of Plapp's thank you card</description></image>
+                        <image xml:id="i-Plapp-i" source="images/Plapp-in.jpg"><description>Text of Plapp's thank you card</description></image>
+                </sidebyside>
+        </figure>
+
+        <figure xml:id="f-Tillery">
+                <caption>During the 2016-2017 academic year, Ryan Tillery took my PHY 121 and PHY 122 courses, the algebra-based physics sequence I often teach for the biology majors.  Ryan and <xref ref="f-Plapp" text="title">Bree</xref> were in the same class and connected over their common struggle.  They often came to office hours together.  While she comments on her internal attitude towards physics, I personally never really saw that expressed.  She was always willing to answer questions and put herself <q>out there</q> when I asked the class to join in the dialog about the material.</caption>
+                <sidebyside widths="30% 60%">
+                        <image xml:id="i-Tillery-o" source="images/Tillery-out.jpg"><description>Cover of Tillery's thank you card</description></image>
+                        <image xml:id="i-Tillery-i" source="images/Tillery-in.jpg"><description>Text of Tillery's thank you card</description></image>
+                </sidebyside>
+        </figure>
+
+        <figure xml:id="f-Rechtin">
+                <caption><url href="https://www.linkedin.com/in/maria-rechtin-4274a2a4/">Maria Rechtin</url> and I crossed paths in multiple ways from 2016 through her graduation in 2018.  During the 2016-2017 academic year, she took my PHY 121 and PHY 122 courses, the algebra-based physics sequence I often teach for the biology majors.  During the 2017-2018 academic year, Maria was the President of the Student Government Association (SGA) and, as such, she was the student representative on the Thomas More Board of Trustees.  It was both of our first time being board members and, since we knew each other from the physics course, we were able to have some conversations about how to handle various topics and situations that arose during the board meetings.  The other reference in her note refers to her duties as SGA President.  I happened to be on the Core Assessment Committee during this time and asked to speak to the SGA members about the opinion of the students regarding the Core Curriculum.  Maria helped me gather information and provided a context for understand the broader opinion of students.</caption>
+                <sidebyside>
+                        <image xml:id="i-Rechtin-i" source="images/Rechtin-in1.jpg"><description>Additional text on the back of Rechtin's thank you card</description></image>
+                </sidebyside>
+                <sidebyside widths="45% 45%">
+                        <image xml:id="i-Rechtin-o" source="images/Rechtin-out.jpg"><description>Cover of Rechtin's thank you card</description></image>
+                        <image xml:id="i-Rechtin-i2" source="images/Rechtin-in2.jpg"><description>Text of Rechtin's thank you card</description></image>
+                </sidebyside>
+        </figure>
+
+        <figure xml:id="f-Stadtmiller">
+                <caption>During the spring of 2018, Abby Stadtmiller, a junior math-education major, took my PHY 141 course, the calculus-based introduction to electricity and magnetism that physics majors take in their first-year of college.  This course is required for math majors and Abby was not particularly excited to be in the course. We had some good-natured back-and-forth during class about the differences between mathematicians and physicists and her humor and laughter really helped me engage the other students, who were first-year physics majors and a sophomore chemistry major.  As an education major, Abby also had some insight into how to teach well and, while we did not discuss it often or in detail, it did provide me with an opportunity to reflect onmy teaching and to initiate conversations with the Education Department.  (See also the letter of recommendation from Dr. Haverkos.)</caption>
+                <sidebyside widths="30% 60%">
+                        <image xml:id="i-Stadtmiller-o" source="images/Stadtmiller-out.jpg"><description>Cover of Stadtmiller's thank you card</description></image>
+                        <image xml:id="i-Stadtmiller-i" source="images/Stadtmiller-in.jpg"><description>Text of Stadtmiller's thank you card</description></image>
+                </sidebyside>
+        </figure>
+        </subsection>
+
+</section>
+
+        </appendix>
+
+<!-- ********************************************************************************************** -->
+<!-- ********************************************************************************************** -->
 
     <appendix xml:id="prof-recommendations">
         <title>Recommendations</title>
@@ -567,11 +842,33 @@
         <!-- </introduction> -->
 
             <!-- <conclusion> -->
-    <p>(Revised: Nov 8, 2018)</p> <!-- Created -->
     <p>A PDF version of all of the letters collected together (in this order) can be found at <url href="http://physics.thomasmore.edu/JChristensen/references.pdf">references.pdf (308 kB)</url></p>
 <!--     </conclusion> -->
 
     </appendix>
+
+<!-- ********************************************************************************************** -->
+<!-- ********************************************************************************************** -->
+
+        <appendix xml:id="app-additional"><title>Additional Information</title>
+
+    <section xml:id="teach-phil"><title>Classroom Approach</title>
+        <p>In order to provide a context for my evaluation of my teaching effectiveness, I am providing here a description of my approach to the classroom.  This also gives some context to the comments in my student evaluations, the most common of which are summarized in <xref ref="t-descriptors" />.
+        </p>
+
+        <p>To begin with, I try to maintain a sufficient standard of rigor that balances covering the material at a pace that allows as many students as possible to move forward without holding back the top students.<fn>My student evaluations have a few requests to speed up the class because the top students a frustrated at how much help the slow students need.  I have more requests to slow down.  I think I am generally able to keep a reasonable balance.</fn>  My approach is to move at a middle pace while reaching out to the slower students and occasionally tossing treats out to the faster students.  While I have never been able to go so fast that my best students are satisfied, I also cannot spend sufficient time for all of my students to understand everything.  Typically I try to maintain a pace that (1) keeps fewer than 10<percent /> of students from dropping the course and that (2) allows students who stick with it and work hard to at least not fail the course.  After receiving a small but noticeable number of student evaluations early in my career that indicated that students thought I was arrogant in my grading, I spent a good deal of effort in subsequent years working to see comments in the student evaluations that indicates that students recognized that the grading was fair, that the material is interesting, and that they had sufficient opportunity to get help.</p>
+
+        <p>The approach that works for me is to emphasize that the classroom is a dialog.  There has to be communication back and forth and it needs to come in multiple forms.  While there is undoubtedly a more concise way to express this idea, the analogy in my head is with email versus voice versus face-to-face communication.  Email only has the words you say.  Your voice is better specifically because it adds a dimension of modulation and emphasis.  Face-to-face communication is better because it adds yet another layer of body language.  The <q>email version</q> of classroom communication is when the student gets their information by passively listening to the lecture with limited interaction.  This is still a two-way dialog because (presumably) the student still turns in homework, which is communicating their knowledge (or lack thereof), and the faculty is still grading the homework, which confirms (or at least indicates) the level of understanding the student has according to the perspective of the more-experienced faculty member.  My first order of business is to make as explicit as possible that this is a channel of communication.  This didn't make it into my syllabus until 2010 (c.f., the <url href="Syllabi/MP301SyllabusChristensenF10.pdf">Goals of MAT/PHY 301</url>, discussed in <xref ref="ss-syllabi" text="text-global">Section</xref>).</p>
+
+        <p>The <q>voice version</q> of classroom communication is when the lecture is interactive and the student is being called on and answering the questions that the faculty member asks.  That is to say, students are able to recognize and respond to relevant questions according to what the instructor has (usually recently) introduced.  This is much better than the communication through homework because it is immediate feedback.  Both parties are currently engaged in processing the material and can modify the communication on the fly during the dialog.  I engage in this level of communication with my students by actively calling on individual students during every class.<fn>Comments about this show up throughout my evaluations and can most easily be found by reviewing almost any PHY 121-122 course evaluation.</fn>  I learned very quickly that students are uncomfortable with this approach, but I have not been able to find a better approach.  Some of my attempts will be discussed in <xref ref="ss-syllabi" text="title" />.  I found that students will accept being called on individually if I agree to give them an <q>out</q> when they are having a bad day.  Every student gets one (sometimes two) <q>pass</q> per class period for which they do not have to answer a specific question with no consequence.  The consequence if they continue to pass multiple times, is my dispirited disappointment.  Usually that is sufficient to enable me to convince them to think through the problem out loud with me and the rest of the class.</p>
+
+        <p>The <q>face-to-face version</q> of classroom communication is when students and faculty collaborate to aim the direction of the dialog.  Obviously the faculty member has to maintain an awareness of the big-picture overview of the course and especially how the content of the single class period fits into that context.  What I mean is that the student has to feel comfortable enough with the classroom environment that they are willing to say, <q>Wait! I don't know how to fit that in my head yet.</q>  I try to plan my curriculum to make room for at least two of these per class period.  I engage in this level of communication with my students by first telling them that I have a hearing impairment (which has the benefit of being true) and that, as a result, I need to be looking at them when they ask a question so that I can see their lips moving.  Once I started doing this, the door it opened is that, if they are too uncomfortable to speak up about their confusion (usually for fear of being the only one) I can ask them to make a face or shake their head or somehow convey their confusion with a clear body language.  The advantage of this is that it communicates to me that they are not understanding.  If I see a couple of people doing this, then I <em>explicitly</em> indicate to them that I can see some faces and that they are not alone.  I tell them that I would like to try explaining it in a different way and ask if anybody can help direct my explanation by asking a question.  If they ask, then we can work together to come to an understanding.  If nobody asks a question, then I explicitly change my description of the topic (so that they come to understand that I am willing to explain topics in multiple ways) and ask for faces again.  We then repeat the process.</p>
+
+        <p>Ultimately, the message I am trying to convey to them is that the class is less about what I say and more about what they hear.  If they aren't hearing me, then it doesn't do me any good to keep talking.  The dialog that I try to achieve in the classroom is about how we can work together to get the information to fit in their ear.</p>
+
+        </section>
+
+</appendix>
 
     <colophon>
         <p>This article was authored in the <url href="http://mathbook.pugetsound.edu/">MathBookXML / <pretext /></url> format.</p>
