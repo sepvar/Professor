@@ -10,28 +10,6 @@
         <macros>
         \newcommand{\deq}{\displaystyle}
 
-        % make use of thmbox package
-        % \newtheorem[size]{environment name}[counter]{Actual title}
-        %TheoremLike (Theorem, corollary, claim, fact, identity, lemma, algorithm)
-        \newtheorem[S]{proposition}[theorem]{Connection}
-        %RemarkLike
-        \newtheorem[S]{insight}[theorem]{Insight}
-        \newtheorem[S]{warning}[theorem]{Warning}
-        \newtheorem[S]{observation}[theorem]{Observation}
-        \newtheorem[S]{note}[theorem]{Interpretation}
-        \newtheorem[M]{remark}[theorem]{Clarification}
-        \newtheorem[M]{convention}[theorem]{Convention}
-        %ExampleLike (problem, question)
-        \newtheorem[L]{example}[theorem]{Example}
-        %
-        \newtheorem[L]{exercise}[theorem]{Exercise}
-        %AxiomLike
-        \newtheorem[L]{heuristic}[theorem]{Translation}
-        %ProjectLike
-        \newtheorem[L]{exploration}[theorem]{Exploration}
-        \newtheorem[L]{investigation}[theorem]{Investigation}
-        \newtheorem[L]{activity}[theorem]{Activity}
-
 \definecolor{brown}{rgb}{0.65,0.16,0.16}
 \definecolor{gray}{gray}{0.5}
 \definecolor{lightgray}{gray}{0.75}
@@ -86,7 +64,7 @@
         <rename element="objectives" 	lang="en-US">Student Outcomes</rename>
 
         <feedback>
-                <url>mailto:christj@thomasmore.edu</url>
+                <url>mailto:ChristJ@ThomasMore.edu</url>
         </feedback>
 
 <!--
@@ -189,7 +167,7 @@
 
     </acknowledgement>
 
-    <preface><title>Preface: Reference to FPM</title>
+    <preface><title>Preface: Organization of this Document</title>
 
         <p>This document is intended to show that I not only meet the qualifications to apply for the rank of Professor at Thomas More University, but also meet or exceed the criteria in the areas of promotion criteria set forth in the Faculty Policy Manual as of the 2018-2019 academic year.</p>
 
@@ -197,10 +175,10 @@
         <blockquote>
          <p><q><ellipsis />an appointee to the rank of Professor must:
 			<ol label="a">
-			  <li><p>hold a <xref ref="CV-education" text="title">terminal degree</xref>,</p></li>
+			  <li><p>hold a <xref ref="background" text="title">terminal degree</xref>,</p></li>
 			  <li><p>demonstrate <xref ref="prof-teach" text="title">superior teaching ability</xref>,</p></li>
 			  <li><p>show <xref ref="prof-scholarship" text="title">distinguished scholarship or exceptional creativity</xref> which is recognized by substantial professional contributions in the field of specialization, and</p></li>
-			  <li><p>have a <xref ref="prof-vitae" text="title">minimum of five (5) years in the rank of Associate Professor</xref>.</p></li>
+			  <li><p>have a <xref ref="background" text="title">minimum of five (5) years in the rank of Associate Professor</xref>.</p></li>
 			</ol>
 		There are no exceptions to these criteria.</q>
         </p>
@@ -220,6 +198,12 @@
         </p>
 
         <p>The rest of this application will be laid out according to the Faculty Policy Manual (FPM) Section 1701, General Criteria for Evaluation of a Faculty Member.  In particular, I will address the FPM Section 1701.1 (Educational and Professional Background) in my <xref ref="prof-vitae" text="title">curriculum vitae</xref>, the FPM Section 1701.2 (Effective Teaching) in <xref ref="prof-teach" text="text-global">Section</xref>, the FPM Section 1701.3 (Creative, Scholarly, and Professional Development) in <xref ref="prof-scholarship" text="text-global">Section</xref>, and the FPM Section 1701.4 (Contribution to College Community) in <xref ref="prof-service" text="text-global">Section</xref>.</p>
+        
+        <p>Throughout this document, I have tried to make the Appendices be <q>data</q> sections in which I do not analyze or interpret the items listed there.  The analysis and evaluation is done in the Application section.  The final Appendix is intended to be additional information that is tangentially relevant.  That section can be safely skipped without losing the thread of the document.</p>
+        
+        <p>Please note that the online version uses the same software that I am using to create my online textbook.  I am hoping that this format lends an ease-of-use that helps you read through the document.  You may note that some links are colored and others have a dashed underline.  Clicking on the former sends you to that location.  Clicking on the latter opens a box at the end of that paragraph that pulls the relevant information to you, rather than sending you to it.  You should be able to navigate with the [<lt /> Prev] and [Next <gt />] keys in the upper right.  Please also note that your browser's [Back] button will also do what you expect.  Please also note that this software makes it easy to read on a computer, a tablet, or even your phone.  If you view it on your phone, please be aware that, when viewing my CV, you might need to turn your phone to landscape mode.</p>
+        
+        <p>I have also tried to make PDFs available for all portions of the document.</p>
 
 
     </preface>
@@ -227,12 +211,15 @@
 
     <preface xml:id="anything-PDF"><title>Download the PDF here</title>
     <p>While this document has been created to be easily read online, PDFs of the relevant material are also available.  Each section has its own link to the PDF as appropriate and they are all inventoried here for your convenience.  I have included the sizes of documents so that you have a sense of the relative size before you open a document.</p>
-    <p>This entire document: <url href="http://physics.thomasmore.edu/JChristensen.pdf">JChristensen.pdf (659 kB)</url>
+    <p>This entire document: <url href="http://physics.thomasmore.edu/JChristensen/JChristensen.pdf">JChristensen.pdf (659 kB)</url>
     <ol>
     <li><p>Application:
         <ol>
                 <li>Teaching Effectiveness:</li>
-                <li>Scholarship: </li>
+                <li><p>Scholarship:
+                        <ol>
+                          <li>Publication List: <url href="http://physics.thomasmore.edu/JChristensen/Publications/JCpublist.pdf">JCpublist.pdf (280 kB)</url>.  (Individual publications are linked to in <xref ref="scholar-publist" text="text-global" />.)</li>
+                        </ol></p></li>
                 <li>Service: </li>
         </ol></p></li>
     <li>Cover letter: </li>
@@ -240,12 +227,12 @@
     <li><p>Recommendations:
         <ol>
                 <li>Departmental: <url href="http://physics.thomasmore.edu/JChristensen/recommendations/ChristensenProfessorFall2018.pdf">ChristensenProfessorFall2018.pdf (34 kB)</url></li>
-                <li>Dr. John Ernst: </li>
-                <li>Ms. Erin Garnick: </li>
+                <li>Dr. John Ernst: <url href="http://physics.thomasmore.edu/JChristensen/recommendations/Ernst_for_Christensen.pdf">Ernst_for_Christensen.pdf (491 kB)</url></li>
+                <li>Ms. Erin Garnick: <url href="http://physics.thomasmore.edu/JChristensen/recommendations/Garnick_for_Christensen.pdf">Garnick_for_Christensen.pdf (181 kB)</url></li>
                 <li>Dr. Kim Haverkos: <url href="http://physics.thomasmore.edu/JChristensen/recommendations/Haverkos_for_Christensen.pdf">Haverkos_for_Christensen.pdf (156 kB)</url></li>
-                <li>Dr. Jeremy Huber: <url href="http://physics.thomasmore.edu/JChristensen/recommendations/christensen_letter_huber.pdf">christensen_letter_huber.pdf (105 kB)</url></li>
+                <li>Dr. Jeremy Huber: <url href="http://physics.thomasmore.edu/JChristensen/recommendations/Huber_for_Christensen.pdf">Huber_for_Christensen.pdf (105 kB)</url></li>
                 <li>Dr. Jay Langguth: </li>
-                <li>Dr. Wes Ryle: </li>
+                <li>Dr. Wes Ryle: <url href="http://physics.thomasmore.edu/JChristensen/recommendations/Ryle_for_Christensen.pdf">Ryle_for_Christensen.pdf (139 kB)</url></li>
         </ol></p></li>
     <li><p>Supporting Documents:
         <ol>
@@ -361,6 +348,41 @@
 <row><cell>FYS 150</cell><cell>First-Year Seminar</cell><cell /></row>
 <row><cell>MAT 123</cell><cell>College Mathematics</cell><cell /></row>
 </tabular></sidebyside>
+
+
+<p><dl>
+<li><title>Education</title>
+<sidebyside>
+<tabular>
+<col width="10%" /><col width="20%" /><col width="20%" /><col width="15%" />
+<row><cell>Ph.D.</cell><cell>University of Kentucky</cell><cell>(Lexington, KY)</cell><cell>1990<ndash />1998</cell></row>
+<row><cell /><cell colspan="2"><em>Numerical Quantum Chromodynamics; Lattice QCD</em></cell><cell /></row>
+<row><cell /><cell colspan="2"><em>(with 18 graduate credit hours Mathematics)</em></cell><cell /></row>
+<row><cell>B.S.</cell><cell>Bradley University </cell><cell>(Peoria, IL)</cell><cell>1986<ndash />1990</cell></row>
+<row><cell /><cell colspan="2"><em>Physics and Mathematics</em></cell><cell /></row>
+</tabular>
+</sidebyside>
+</li>
+<li><title>Teaching Experience</title>
+<sidebyside>
+<tabular>
+<col width="10%" /><col width="20%" /><col width="20%" /><col width="15%" />
+<row><cell colspan="2">Assoc. Prof. of Physics</cell><cell>(Thomas More College)</cell>
+        <cell>2007<ndash />Present</cell></row>
+<row><cell /><cell colspan="2">Tenured</cell><cell>Spring 2011</cell></row>
+<row><cell colspan="2">Assoc. Prof. of Physics</cell><cell>(McMurry University)</cell>
+        <cell>2005<ndash />2007</cell></row>
+<row><cell colspan="2">Asst. Prof. of Physics</cell><cell>(McMurry University)</cell>
+        <cell>1999<ndash />2005</cell></row>
+<row><cell /><cell colspan="2">Tenured</cell><cell>Spring 2004</cell></row>
+<row><cell colspan="2">Visiting Asst. Prof. of Physics</cell><cell>(Centre College)</cell>
+        <cell>1998<ndash />1999</cell></row>
+</tabular>
+</sidebyside>
+</li>
+</dl>
+</p>
+
 </section>
 
 <!-- ********************************************************************************************** -->
@@ -368,20 +390,28 @@
 
 <section xml:id="prof-teach"><title>Teaching</title>
 
-<introduction><p>I have been teaching physics and math courses for about twenty years.  While half that time has been at Thomas More, only about a third of the courses have been.  This is because in my sixth year here, I took on some administrative duties that reduced my course load.  Much of my development happened in the first third of my career and as I innovated and found techniques that worked I gradually relied more and more heavily on those techniques.  I continue to reflect on my teaching and I have both sit in others' classes as well as asked others to sit in on my classes.  By far I get more out of sitting in somebody's class for an entire semester and have done that four and about a half<fn>The last time I tried this, I asked to sit in on a course in the biology department because I am teaching the biology majors.  I was only able to keep up with the information for the about half the term because I was not doing the homework or studying sufficiently to develop a reliable understanding.</fn> times.</p>
+<introduction><p>I have been teaching physics and math courses for about twenty years.  While half that time has been at Thomas More, only about a third of the courses have been.  This is because in my third year here, I took on some administrative duties that reduced my course load.  Much of my development happened in the first third of my career and as I innovated and found techniques that worked I gradually relied more and more heavily on those techniques.  I continue to reflect on my teaching and I have both sat in others' classes as well as asked others to sit in on my classes<fn>See, for example, the recommendation by <xref ref="rec-haverkos" text="title">Dr. Haverkos</xref>.</fn>.  By far I get more out of sitting in somebody's class for an entire semester and have done that four and about a half<fn>The last time I tried this, I asked to sit in on a course in the biology department because I am teaching the biology majors.  I was only able to keep up with the information for the about half the term because I was not doing the homework or studying sufficiently to develop a reliable understanding.</fn> times.</p>
 
-<p>I am now in a place in my career where I am refining innovations and ideas from previous courses more than I am creating new ideas that are unrelated to the successes I have had in the past.  Nonetheless, I took the Director of the QEP role in part because I saw it as a mechanism for being exposed to entirely new ideas that could potentially revolutionize my teaching. It did not revolutionize my teaching, but it did help me reflect on what is important with a new and different light.</p>
+<p>I am now in a place in my career where I am refining innovations and ideas from previous courses more than I am creating new ideas that are unrelated to the successes I have had in the past.  Nonetheless, I took the Director of the QEP role in part because I saw it as a mechanism for being exposed to entirely new ideas that could potentially revolutionize my teaching. It did not revolutionize my teaching, but it provided a new language that continues to help me reflect on important aspects of my teaching with a new mechanism for framing the reflection.</p>
 
-<p>In the first part of my career, my attention was swallowed up by how I could present the content in a new and different way that would make sense to the students.  I have come to realize that there is no best way.  It depends on who you are talking to and what their background is.  I now focus, instead, on how to build communication and work with the students to together find a way to fit the information into their ear.  While I think it might be useful to provide this context, it also seems distracting from the three sections asked for in the application.  So I created a section, <xref ref="teach-phil" text="title" />, in <xref ref="app-additional" text="text-global">Appendix</xref> to explain it.  It is not necessary to read that to understand the rest of this document.</p></introduction>
+<p>In the first part of my career, my attention was swallowed up by how I could present the content in a new and better way that would make sense to the students.  I have come to realize that there is no best way (although there are many bad ways, which should be avoided!).  The <q>best</q> way depends on who you are talking to and what their background is, which not only changes from year to year, but isn't even uniform in a single classroom.  I now focus, instead, on how to build communication and I try to work with the students to <em>together</em> find a way to fit the information into their ear.  While I think it might be useful to describe my approach to the classroom in a little more detail, it also seems distracting from the three sections asked for in the application.  So I created a section, <xref ref="teach-phil" text="title" />, in <xref ref="app-additional" text="text-global">Appendix</xref> to explain it.  It is not necessary to read that to understand the rest of this document.</p></introduction>
 
 <subsection xml:id="ss-effective"><title>Teaching Effectiveness</title>
 <p>Ultimately, the message I am trying to convey to them is that it is less about what I say and more about what they hear.  If they aren't hearing me, then it doesn't do me any good to keep talking.  The dialog that I try to achieve in the classroom is about how we can work together to get the information to fit in their ear.</p>
 
-<p>The anecdotal evidence of classroom interactions indicates to me that if I can convince them that my primary goal is their understanding and their success, then I find that they are much more willing to open up and risk revealing their confusion so that together we can fix it.  That these anecdotes indicate that I am an effective teacher is reinforced by the <xref ref="teach-support">thank you notes in Section</xref> and by the patterns in my <xref ref="teach-evals" text="text-global">student evaluations in Section</xref>.  In the next section I will describe my development as a faculty member through the various innovations I have tried in a variety of courses.  Most of these a direct applications of the approach I attempt to implement as expressed above.  I also provide syllabi of the courses to show the pattern of development and the form of the implementation.</p>
+<p>The anecdotal evidence of classroom interactions indicates to me that if I can convince them that my primary goal is their understanding and their success, then I find that they are much more willing to open up and risk revealing their confusion so that we can work together to fix it.  That these anecdotes indicate that I am an effective teacher is reinforced by the <xref ref="teach-support">thank you notes in Section</xref> and by the patterns in my <xref ref="teach-evals" text="text-global">student evaluations in Section</xref>.  In the next section I will describe my development as a faculty member through the various innovations I have tried in a variety of courses.  Most of these a direct applications of the approach I attempt to implement as expressed above.  I also provide syllabi of the courses to show the pattern of development and the form of the implementation.</p>
 
 <p>Despite the small number of courses that I have taught over the past seven years since applying for tenure, I believe I can show a history of effective teaching. Regarding my classroom performance, I have been rated highly fairly consistently in <xref ref="teach-evals" text="text-global">my student evaluations</xref>.  On the 4-point scale, my average tends to be between 2.8 (70<percent />) and 3.4 (85<percent />).  On the 5-point scale (implemented in Fall 2013), all of my scores tend to be above a 4.0 (80<percent />).  The comments (<xref ref="t-descriptors" text="title" />) are fairly consistent and positive.  The most common comments are about my passion and knowledge-base.  The overall trend that I would like to draw to your attention is that there is a thread throughout about my interest and willingness to explain in a variety of ways and to make sure people are understanding the material at some reasonable level.  Frankly, I believe (granted without evidence) that this is the point that leads to the smattering of comments indicating that some (small) fraction of my students claim that I am either their favorite teacher or the best teacher they have had either this term or even through their entire time at Thomas More.</p>
 
 <p>Another trend that I think emerges from the student evaluations is that while the positive comments tend to be about my ability to connect and inspire the students to put in the time and effort it takes to learn what can often be an esoteric or daunting topic (math and physics), the negative comments tend to be about classroom management.  While these comments exist throughout, they do not appear as frequently as the positive comments and on balance, based on the overall scores the student rank me, the good outweighs the bad by a significant amount.  To some extent, I think these time-management issues are due to the amount of time I have spent doing administrative work (See <xref ref="prof-service" text="title" /> for details).  Once I step back to being full-time faculty, I do not expect these comments to continue.  As evidence that students recognize the value added by my classes, I have compiled images of several <xref ref="teach-support" text="title">thank you cards</xref> that students have sent me.  These are not usually delivered at the end of the class, but rather at the end of a subsequent year when the student is graduating.  This tells me that I have made a lasting impression in their lives.</p>
+
+<p>To address my classroom organization, <xref ref="app-syllabi" text="text-global">Appendix</xref>: <xref ref="app-syllabi" text="title" /> catalogs a selection of syllabi for the courses I have taught at Thomas More College. These are fairly representative, but I can provide more, if you like.  In addition to providing the relative weight of coursework in the grade, expectations, and policies, you will note that they include a schedule of topics. I am typically able to stay within about a week of the schedule, although I prefer to maintain a level of understanding at the expense of the schedule if I feel that the class does not generally understand it sufficiently. In the courses where the student complain about the organization, it is because I have fallen behind the schedule listed in the syllabus and have to adjust the due dates.  Nonetheless, the topics are still in the right order so that I can start my classes by asking the students what we did last time and what we are supposed to do today. Some of them will have their syllabus out already. Some of them will have checked their notes to be ready with a quick review.</p>
+
+<p>It happens that I do not have many <xref ref="fac-evals" text="title" />, but Drs. <xref ref="rec-haverkos" text="title">Haverkos</xref> and <xref ref="rec-ryle" text="title">Ryle</xref> both have comments about my teaching.  Dr. Haverkos is in the Education Department and has sat in on some of my classes.  I also sat in on her Science Education course for one semester to better understand how pedagogy is applied.  It was during that course that I offer them the use of the video I took of my class.  The video was because there were a significant number of student who needed to miss class for an event and I had scheduled an example that I have found very helpful for students to work through.  The education students gave me some good feedback that helped me reflect on my teaching style.  Dr. Ryle, on the other hand, is in the Physics Department and was Chair for several years.  He has sat in my courses in his role as Chair and was kind enough to address both reference to our conversations about the classroom and reference to my classroom performance.  Some of his knowledge is from his direct observations and some is from the math and physics majors.  Dr. Ryle is one of the more popular faculty in the department and the students tend to gravitate towards him.  Some of our conversations have been about student comments about everybody in the department and that has also provided me with fodder for reflection on my own courses.</p>
+
+<p>Finally, regarding effectiveness, I will add that being the Director of the <xref ref="ss-QEP" text="title">QEP</xref> has also opened my eyes to the research on critical thinking. The more I learn about the difficulty of information transfer between courses, the more I realize how important it is to be explicit about how students can connect the current information to future-unknown information by discussing the surrounding context from each course that uses that information.  Furthermore, I have been able to pick up some few techniques that allow me to help the students develop a thought process around the material that enables them to <q>think like a [physicist]...</q> (You may feel free to substitute your own discipline in the square brackets.)</p>
+
+
 </subsection>
 
 <subsection xml:id="ss-syllabi"><title>Innovations in Teaching</title>
@@ -394,6 +424,64 @@
 <p>Reference the work from the QEP (<xref ref="ss-QEP" text="title" />).  Central Question and F<ampersand />PC, in particular.  Elements, Standards, and Traits in general.  Also connect with <xref ref="ss-CT" text="title" />.</p>
 
 <p>Note: MAT115 homework.  (Not popular, but does help their grade.)</p>
+
+
+I believe that different students need to be taught differently. I therefore distinguish the
+organization for upper-level majors, from lower-level majors, from the non-physics sciencemajors,
+from the non-science majors. These different categories of student come to the class
+with different motivations. Respectively, they are (expressed in the overly general terms of a
+stereotype) preparing themselves to be a professional, finding their feet in a new discipline,
+academically mature but interested elsewhere, and casually curious with trepidation. This
+general belief has led me to different styles and grading emphasis in different courses. For
+example, non-physics science majors and lower-level physics majors are asked questions with
+multiple parts that address each aspect of the problem whereas the upper-level courses ask for
+a final result and the students are expected to recognize what is relevant and to know that there
+are multiple steps to finding the answer. To this end, I have included a CD of various
+documents including my pdf exams and solutions. Taking these student-categories in reverse
+order, I will give a sample of the innovations that have resulted from my perspective on the
+expectations and motivations that these different students bring to the classroom.
+For the non-science majors, I have two examples to relay. The first is in the GEC course I
+taught at Thomas More. (See Appendix A.2, “Christensen GEC093-F07 Syllabus.pdf”.) These
+students are usually very uncomfortable with the subject, self-conscious about being in the
+remedial course, and expecting to have difficulty and fail. None of these are usually conducive
+to learning. It is my understanding, based on discussions with a friend who is trained in the field
+of Cognitive Learning, that students do best when given only enough homework to gain
+proficiency. Unfortunately, this varies from student to student, especially in a GEC course. My
+solution was to not assign homework and, instead, to inform them of the section(s) to be
+covered during the next class period and then to start every class in the following way: (1) Are
+there any questions from the section that will cover today’s section that you would like to ask
+about? [Answer whatever questions they have, generalizing their questions to relevant issues.]
+(2) When they feel they understand it (as expressed by not having more questions), then I give
+them a quiz that takes the role of what would usually be the homework grade. The catch (their
+incentive) is that if they ask enough questions to fill the lecture time, then there is no quiz. At
+the end of each chapter, there is a test that covers all of the topics, even if they haven’t been
+quizzed. The point is that they need to see that they can figure it out; I am only guiding their
+attention. My saying it does not count as them understanding it. In this way, they all work as
+many problems as they need to in order to understand it. If they can’t understand the problems,
+they can ask until they do; but they have to ask questions if they want to hold off the quiz.
+My second example for the non-science majors is a course I successfully taught at my previous
+institution and which has not yet taken hold here because, the one time I had room in my
+schedule to offer it, I did a poor job of promoting it among both faculty and students. (See
+Appendix A.2, “PHYS1400F03.pdf”.) This course would be an NSC-physics course at Thomas
+More. It requires minimal algebra and touches on student interest. We spend half of the term
+covering basic physics concepts such as motion, force, and energy – these might be called the
+Fundamental and Powerful Concepts in the language of Nosich’s critical thinking teaching
+techniques – and then, having established a common language and a specific skill set in
+problem solving, we cover whatever the students in the class decide is of interest. I tell them
+that it is open to their every whim, so long as they can ask it with physics-language. Examples
+of topics that course has explored are: “How do traffic police figure out who is at fault in a traffic
+accident?” (I brought in an Accident Reconstructionist and he independently explained the
+technique using the same methods we had already learned.), black holes, relativity, nuclear
+bombs versus TNT, the motion of the stars and planets, the phases of the moon, the function of
+various household appliances, and weather and climate models. These are all student-selected
+topics. It usually takes the students a week or two to realize that they have this measure of control over the course and in one instance the course turned into “stump the professor” in a good-natured competition that included the reciprocal game of “bluff the student”, requiring research on their part as well.
+
+Innovations at the level of non-physics science majors and lower-level physics majors are comparable to each other and involve making the lecture more dynamic and interactive, using common everyday objects that students have access to outside of class or lab (such as my Lizardman action figure, softballs, baseballs, tennis balls, a racquetball racquet, a McDonald’s Happy-meal Halloween bucket, a pen, a white-board erasure, a guitar, or a book). (See Appendix A.2, “Christensen PHY122-S10 Syllabus.pdf”.) My primary goal is for them to recognize physics in everything they do outside of class. They should be able to recognize it in the stairs, the elevator, tension in tying their shoes, the parabolic fall of water in the shower, friction when driving on ice, centripetal force as they drive around corners, jack-rabbit driving, the thermodynamics of keeping a hot lunch warm, etc. My companion goal is to get them to be able to solve the mathematics that accompanies these observations.
+
+For the upper-level physics majors, the motivation is generally already present and the innovations here have been primarily in terms of developing techniques that enable the students to develop insight and deepen their skill set. (See Appendix A.2, “Christensen P-M302-S10 Syllabus.pdf”.) To this end, I have altered the usual homework assignment technique of assigning the problems at the end of the chapter to be due at the time we finish discussing material for the chapter, usually about a two-week period. In fact, the technique mentioned above for the GEC course is an extreme version of my approach with the upper-level majors. Before I cover any material in a new chapter, I assign a set of sample problems that I think the students can figure out entirely on their own. These are due the day I start the chapter. Then they are given a second assignment set that involves difficult problems that require an awareness of some subtlety, which is due by the time we finish discussing the chapter.
+
+Some of the innovations that I developed at my previous institution and brought with me to Thomas More are in lab-design. (See Appendix A.2, “121-Lab-Manual.pdf”.) I developed a grading rubric to focus both my attention while grading and to focus the students’ attention when writing lab reports. I like to have one of the labs be “double-blind peer-review,” where during the first week students do one of two lab exercises and then the following week, they trade lab reports and submit to me – as journal editor – a letter recommending that the report be accepted for publication or denied publication for explicitly specific reasons. The anonymous recommendations are then returned to the original author as is normally done in the publication review process. The students are surprisingly skilled at finding errors in other students’ report, even when they a blind to those errors in their own. This innovation certainly helps students learn how to read and evaluate their own reports.
+
 
 </subsection>
 
@@ -496,12 +584,15 @@
 </li>
 
 <li><title>Contributions to Conference Presentations</title>
+<p><q>Keeping the Campus Culture Engaged in Your QEP: Using an Innovative Third-Year Review</q>
+        J. Ernst, J. Christensen, Presented at Annual Meeting of SACSCOC, Nashville, TN, USA, 8 Dec 2014</p>
 <p><q>Tests of Electric Polarizability on the Lattice</q>
         V. Guerrero, W. Wilcox, J. Christensen, <url href="https://arxiv.org/abs/0901.3296">Presented at 26th International Symposium on Lattice Field Theory, Williamsburg, VA, USA, 14-19 Jul 2008</url>
         [<url href="Publications/hep-lat 0901.3296.pdf">downloaded pdf</url>]</p>
 </li>
 </dl>
 </p>
+    <p>A PDF version can be found at <url href="http://physics.thomasmore.edu/JChristensen/documents/JCpublist.pdf">JCpublist.pdf (281 kB)</url></p>
 </subsection>
 
     <conclusion>
@@ -698,8 +789,28 @@
 <backmatter>
     <title>Back Matter</title> <!-- mostly for HTML sectioning -->
 
-        <appendix><title>Syllabi</title>
-        <p>.</p>
+        <appendix xml:id="app-syllabi"><title>Syllabi</title>
+        <p>This section includes seven syllabi, five of which will be used to address innovations and development.  The last two will be to address new courses designed and revised.  I will list them chronologically and discuss the first five in <xref ref="ss-syllabi" text="title" /> and the last two in <xref ref="ss-design" text="title" />.
+        <dl>
+                <li><title>Fall 2010: MAT/PHY 301 (Math Methods for Physicists)</title>
+                        <p><url href="Syllabi/MP301SyllabusChristensenF10.pdf" text="title">MP301SyllabusChristensenF10.pdf (117 kB)</url>.</p>
+                        <p>In this upper-level course for physics majors, I list a detailed schedule so that student can prepare for class beforehand.  At this point, I was including the Department goals, but not the student learning outcomes.  This is the first semester I started including the language of <xref ref="teach-phil" text="title">being in dialog</xref> with the students.</p>
+                        <p>I am also including the homework assignments (<url href="Syllabi/MP301 homework.pdf" text="title">MP301 homework.pdf (31 kB)</url>) in order to highlight a <xref ref="ss-syllabi" text="title">teaching innovation</xref> in which I have <q>Due</q>, <q>Assigned</q>, and <q>Extra</q>, which some of my syllabi list as <q>collect</q>, <q>expect</q>, and <q>extra</q>.  A second innovation in this syllabus is having a homework <q>a</q> and <q>b</q>.  This innovation is explained in <xref ref="ss-syllabi" text="text-global" />.</p>
+                </li>
+                <li><title>Fall 2011: PHY 416 (Quantum Mechanics)</title>
+                        <p><url href="Syllabi/P416SyllabusChristensenF11.pdf" text="title">P416SyllabusChristensenF11.pdf (117 kB)</url>.</p>
+                        <p>In this upper-level course for physics majors, I list a detailed schedule so that student can prepare for class beforehand.  At this point, I had been the Director of the <xref ref="ss-QEP" text="title">QEP</xref>, learning some new concepts and interested in trying them in my classes.  In this class, you can see that I introduced the idea of a <term>Central Question (CQ)</term> and integrated the idea of <term>Fundamental and Powerful Concepts (F<ampersand />PC)</term>.  I continue to include the language of <xref ref="teach-phil" text="title">being in dialog</xref> with the students.</p>
+                </li>
+                <li><title>Fall 2013: PHY 432 (Electricity <ampersand /> Magnetism)</title>
+                        <p><url href="Syllabi/P432SyllabusChristensenF13.pdf" text="title">P416SyllabusChristensenF13.pdf (174 kB)</url>.</p>
+                        <p>At this point, I had been the Director of the <xref ref="ss-QEP" text="title">QEP</xref> for several years and I am making other modifications. In this upper-level course for physics majors, I still list a detailed schedule so that student can prepare for class beforehand.  I continue to include the language of <xref ref="teach-phil" text="title">being in dialog</xref> with the students; but added language about <em>recognizing</em> versus <em>understanding</em>.)  In addition I added (to Departmental Goals) the Goals of the Instructor, which include the F<ampsersand />PC.  I also added a section of the impact of these goals on my expectations of my student; these include the <term>student learning outcomes (SLO)</term>. I am also including a <term>Just in Time Teaching (JITT)</term> quiz.</p>
+                </li>
+                <li><title>Fall 2016: PHY 121 (Elements of Physics I)</title>
+                        <p><url href="Syllabi/P121SyllabusChristensenF16.pdf" text="title">P347SyllabusChristensenF16.pdf (174 kB)</url>.</p>
+                        <p>At this point, I am ending my term as the Director of the <xref ref="ss-QEP" text="title">QEP</xref>. This lower-level course is designed as a service course for the biology majors, I still list a detailed schedule so that student can prepare for class beforehand.  Here, almost all of the features from the 2013 syllabus continue to exist, but I have shifted the SLOs to their own subsection. In this semester, I bagged the JITT, but I did introduce a 10-minute quiz halfway between the exam.</p>
+                </li>
+        </dl>
+        </p>
         </appendix>
 
 <!-- ********************************************************************************************** -->
@@ -720,25 +831,25 @@
     <section xml:id="teach-evals"><title>Student Evaluations</title>
         <p>I came to Thomas More in 2007, before we began using electronic student evaluations.  When we transitioned to the electronic version, there was a temporary drop off in the response rate.  Rather than provide documentation since my last promotion, I have gone back to Fall 2013, which is five years of recent documentation.  I have collected all of these evaluations into a single document so that you have the opportunity to randomly browse the comments.  Assuming this is not of interest to you, I have also provided several courses and several groupings of courses.
         <table xml:id="t-evals"><title>Links to various collections of student evaluations</title>
-        <caption>On the left are some representative evaluations from courses that have more than 10 students. In order to get this level of enrollment, these do not include courses from the requirements for our major. On the right are some groupings of evaluations.  In particular, the <q>Recent Large Courses</q> are courses I taught from fall 2014 on that have more than 10 students. I've also provided a single file with all courses I have taught in the major.  These do not have high enrollment and have very few comments.  I included all of the PHY 121-122 evaluations because these are my highest enrolled courses and it gives a sense of the trajectory of my teaching.  I also grouped all the instances of the 301-302 series, which is dual listed as math and physics.  The MAT301 is listed separately from the PHY301, but they are the same class. This series was replaced with MAT310 when the curriculum was rearranged to increase the enrollment. </caption>
+        <caption>On the left are some representative evaluations from courses that have more than 10 students. In order to get this level of enrollment, these do not include courses from the requirements for our major. On the right are some groupings of evaluations.  In particular, the <q>Recent Large Courses</q> are courses I taught from fall 2014 forward that have more than 10 students. I've also provided a single file with all courses I have taught in the major.  These do not have high enrollment and have very few comments.  I included all of the PHY 121-122 evaluations because these are my highest enrolled courses and it gives a sense of the trajectory of my teaching.  I also grouped all the instances of the 301-302 series, which is dual listed as math and physics.  The MAT301 is listed separately from the PHY301, but they are the same class. This series was replaced with MAT310 when the curriculum was rearranged to increase the enrollment. </caption>
         <tabular width="45% 45%">
         <row><cell><alert>Representative high-enrollment courses</alert></cell>
                 <cell><alert>Grouped evaluations</alert></cell></row>
         <row><cell><url href="evals/PHY121 F15.pdf">PHY121, Fall 2015 (38 kB)</url></cell>
                 <cell><url href="evals/All Christensen (105 pages).PDF">All Evals (105 pg, 1 MB)</url></cell></row>
         <row><cell><url href="evals/PHY122 S16.pdf">PHY122, Spring 2016 (35 kB)</url></cell>
-                <cell><url href="evals/Most recent (since 2014-15) large courses (above 10 students).PDF">Recent Large Courses (215 kB)</url></cell></row>
+                <cell><url href="evals/Most recent (since 2014-15) large courses (above 10 students).PDF">Recent Large Courses (22 pg, 215 kB)</url></cell></row>
         <row><cell><url href="evals/PHY121 F16.pdf">PHY121, Fall 2016 (38 kB)</url></cell>
-                <cell><url href="evals/All Physics Major courses.PDF">All courses in the major (230 kB)</url></cell></row>
+                <cell><url href="evals/All Physics Major courses.PDF">All courses in the major (23 pg, 230 kB)</url></cell></row>
         <row><cell><url href="evals/PHY122 S17.pdf">PHY122, Spring 2017 (36 kB)</url></cell>
-                <cell><url href="evals/All PHY121-122.PDF">All PHY121-122 (344 kB)</url></cell></row>
+                <cell><url href="evals/All PHY121-122.PDF">All PHY121-122 (35 pg, 344 kB)</url></cell></row>
         <row><cell><url href="evals/NSC220 S18.pdf">NSC220, Spring 2018 (38 kB)</url></cell>
-                <cell><url href="evals/All MAT301-302-310.PDF">All MAT301-302-310 (266 kB)</url></cell></row>
+                <cell><url href="evals/All MAT301-302-310.PDF">All MAT301-302-310 (24 pg, 266 kB)</url></cell></row>
         </tabular>
         </table></p>
-        <p>There are limited courses available because I have had course reductions since 2010 when I started taking on administrative responsibilities.  Although I usually taught 2-3 courses per term, the courses for the major typically are low-enrollment.  I included a file with all of the electronic evaluations that I have access to.  This includes at least one class from each of the following semesters: F09, S12, F12-S13, F13-S14, F14-S15, F16-S17, and S18.</p>
-        <p>In Fall 2013, we transitioned from scores out of 4 to scores out of 5.  On the 4-point scale, most of my scores are in the 2.8-3.5 range with one notable exception:  In Spring 2012, I taught a MAT 115 (precalculus) course and tried an innovation in the homework.  This is discussed above in <xref ref="prof-teach" text="global">Section</xref>.  On the 5-point scale, my scores are almost always above 4 and often above 4.5.  There is an occasional 3.8 for organization when my administrative duties have taken priority over my course-prep.  This is rare, but not vanishing.</p>
-        <p>The comments are fairly consistent throughout the years.  At my previous institution, I had a little trouble with comments like <q>arrogant</q> or <q>sarcastic</q>.  I made efforts there to remedy that and in all of these evaluations, there is only one instance of that comment.  The comments (good and bad) that seem to form a trend are listed in <xref ref="t-descriptors" text="global">Table</xref>.
+        <p>There are limited courses available because I have had course reductions since 2010 when I started taking on administrative responsibilities.  Although I usually taught 2-3 courses per term, the courses for the major typically are low-enrollment.  I included a file with all of the electronic evaluations that I have access to.  This includes at least one class from each of the following semesters: F09, S12, F12-S13, F13-S14, F14-S15, F16-S17, and S18<fn>Note that in the Fall of 2017, I was on sabbatical and taught no courses.</fn>.</p>
+        <p>In Fall 2013, we transitioned from scores out of 4 to scores out of 5.  On the 4-point scale, most of my scores are in the 2.8-3.5 range with one notable exception:  In Spring 2012, I taught a MAT 115 (precalculus) course and tried an innovation in the homework.  This is discussed above in <xref ref="ss-syllabi" text="global">Section</xref>.  On the 5-point scale, my scores are almost always above 4 and often above 4.5.  There is an occasional 3.8 for organization when my administrative duties have taken priority over my course-prep.  This is rare, but not vanishing.</p>
+        <p>The comments are fairly consistent throughout the years.  At my previous institution, I had a little trouble with comments like <q>arrogant</q> or <q>sarcastic</q>.  I made efforts there to remedy that and in all of these evaluations, there is only one isolated instance of that comment.  The comments (good and bad) that seem to form a trend are listed in <xref ref="t-descriptors" text="global">Table</xref>.
         <table xml:id="t-descriptors"><title>Common Descriptors from Student Evaluations</title>
         <caption>This table contains what I think are the most common descriptors from my student evaluations.  These are sorted in what I interpreted as most common to least common. The <q>nothing needs improvement</q> comment is about as common as the <q>humor / joking</q> comment.</caption>
         <tabular width ="45% 45%">
@@ -753,7 +864,7 @@
         </tabular>
         </table>
         </p>
-        <p>To my eye, there are significantly more favorable comments than negative comments in my evaluations.  All of these comments are reasonable descriptions.  The context for these comments is discussed further in <xref ref="prof-teach" text="global">Section</xref>.</p>
+        <p>To my eye, there are significantly more favorable comments than negative comments in my evaluations.  All of these comments are reasonable descriptions.  The context for these comments is discussed further in <xref ref="ss-effective" text="global">Section</xref>.</p>
         </section>
 
 <section xml:id="teach-support"><title>Testimonials</title>
@@ -824,7 +935,7 @@
         </figure>
 
         <figure xml:id="f-Stadtmiller">
-                <caption>During the spring of 2018, Abby Stadtmiller, a junior math-education major, took my PHY 141 course, the calculus-based introduction to electricity and magnetism that physics majors take in their first-year of college.  This course is required for math majors and Abby was not particularly excited to be in the course. We had some good-natured back-and-forth during class about the differences between mathematicians and physicists and her humor and laughter really helped me engage the other students, who were first-year physics majors and a sophomore chemistry major.  As an education major, Abby also had some insight into how to teach well and, while we did not discuss it often or in detail, it did provide me with an opportunity to reflect onmy teaching and to initiate conversations with the Education Department.  (See also the letter of recommendation from Dr. Haverkos.)</caption>
+                <caption>During the spring of 2018, Abby Stadtmiller, a junior math-education major, took my PHY 141 course, the calculus-based introduction to electricity and magnetism that physics majors take in their first-year of college.  This course is required for math majors and Abby was not particularly excited to be in the course. We had some good-natured back-and-forth during class about the differences between mathematicians and physicists and her humor and laughter really helped me engage the other students, who were first-year physics majors and a sophomore chemistry major.  As an education major, Abby also had some insight into how to teach well and, while we did not discuss it often or in detail, it did provide me with an opportunity to reflect on my teaching and to initiate conversations with the Education Department.  (See also the letter of recommendation from <xref ref="rec-haverkos" text="title">Dr. Haverkos</xref>.)</caption>
                 <sidebyside widths="30% 60%">
                         <image xml:id="i-Stadtmiller-o" source="images/Stadtmiller-out.jpg"><description>Cover of Stadtmiller's thank you card</description></image>
                         <image xml:id="i-Stadtmiller-i" source="images/Stadtmiller-in.jpg"><description>Text of Stadtmiller's thank you card</description></image>
@@ -854,23 +965,23 @@
                         <url href="https://www.thomasmore.edu/about/faculty.cfm?id=131">Mr. Wells</url>.</p>
                 <p><url href="http://physics.thomasmore.edu/JChristensen/recommendations/ChristensenProfessorFall2018.pdf">ChristensenProfessorFall2018.pdf (34 kB)</url></p></li>
 
-          <li xml:id="rec-ernst"><title>Dr. John Ernst</title><p>I have known <url href="http://www.thomasmore.edu/academics/faculty_profile.cfm?id=401">Dr. Ernst</url> since 2010 when we began working together on the Quality Enhancement Plan (QEP).  I was the Director of the QEP and he was the Assessment Coordinator.  This made good use of his skills with statistics and his background as a Social Psychologist.  We worked together in service to the institution on the QEP through 2016.  (There is <xref ref="ss-QEP" text="text-global">more detail and context</xref> in <xref ref="ss-other" text="global">Section</xref>.)  Throughout this time, Dr. Ernst has been an adjunct faculty member in the Psychology Department.  After our work on the QEP, Dr. Ernst took a position as the Director of the <url href="http://www.thomasmore.edu/successcenter/">Thomas More Success Center (TSC)</url> and I have worked with him and the people he oversees in both my role as Assistant Dean, faculty member, and Associate Provost.  While I believe Dr. Ernst could address my contributions to service to the institution, I asked him to focus some extra attention on his perspective of my professional development with critical thinking (such as our work on the QEP and the related workshops and presentations).  Since we have both bridged the faculty-administration roles, I also invited him to address how I have developed as an administrator, if he sees it as relevant to my promotion in faculty rank.</p>
-                <p><url href="http://physics.thomasmore.edu/JChristensen/recommendations/Ernst.pdf">Ernst.pdf (308 kB)</url></p></li>
+          <li xml:id="rec-ernst"><title>Dr. John Ernst</title><p>I have known <url href="http://www.thomasmore.edu/academics/faculty_profile.cfm?id=401">Dr. Ernst</url> since 2010 when we began working together on the Quality Enhancement Plan (QEP).  I was the Director of the QEP and he was the Assessment Coordinator.  This made good use of his skills with statistics and his background as a Social Psychologist.  We worked together in service to the institution on the QEP through 2016.  (There is <xref ref="ss-QEP" text="text-global">more detail and context</xref> in <xref ref="ss-other" text="global">Section</xref>.)  Throughout this time, Dr. Ernst has been an adjunct faculty member in the Psychology Department.  After our work on the QEP, Dr. Ernst took a position as the Director of the <url href="http://www.thomasmore.edu/successcenter/">Thomas More Success Center (TSC)</url> and I have worked with him and the people he oversees in both my role as <xref ref="ss-AssD" text="title">Assistant Dean</xref>, faculty member, and <xref ref="ss-AssP" text="title">Associate Provost</xref>.  While I believe Dr. Ernst could address my contributions to service to the institution, I asked him to focus some extra attention on his perspective of my professional development and scholarship with critical thinking (such as our work on the QEP and the related workshops and presentations).  Since we have both bridged the faculty-administration roles, I also invited him to address how I have developed as an administrator, if he sees it as relevant to my promotion in faculty rank.</p>
+                <p><url href="http://physics.thomasmore.edu/JChristensen/recommendations/Ernst_for_Christensen.pdf">Ernst_for_Christensen.pdf (491 kB)</url></p></li>
 
           <li xml:id="rec-garnick"><title>Ms. Erin Garnick</title><p><url href="https://www.thomasmore.edu/about/faculty.cfm?id=684">Ms. Garnick</url> has worked at Thomas More managing the More Store since 2014.  At that time the institution decided to end our contract with Barnes and Noble and begin a book rental program through Rafter, Inc.  We now run the rental program through eCampus.  During the transition from book sales to book rentals, I was the Assistant Dean of the College and ended up working closely with Ms. Garnick on helping the faculty make good use of Rafter's book system.  I asked Erin to write a letter on my behalf because she has experienced first hand the situations that I have tried to managed in my role as Assistant Dean.  I believe this speaks not only to my contribution through service to the institution, but also to my professional development as a colleague, as a supervisor, and as a member of the community.</p>
-                <p><url href="http://physics.thomasmore.edu/JChristensen/recommendations/Garnick.pdf">Garnick.pdf (308 kB)</url></p></li>
+                <p><url href="http://physics.thomasmore.edu/JChristensen/recommendations/Garnick_for_Christensen.pdf">Garnick_for_Christensen.pdf (181 kB)</url></p></li>
 
           <li xml:id="rec-haverkos"><title>Dr. Kim Haverkos</title><p><url href="http://www.thomasmore.edu/academics/faculty_profile.cfm?id=630">Dr. Haverkos</url> has been at Thomas More since 2012.  She teaches undergraduate and graduate courses in the Department of Education and won the Outstanding Teacher of the Year in 2017.  She has also been active in committee work and service to the institution.  In 2018, Dr. Haverkos accepted the position of Dean of the College of Education and Health Science.  With her extensive experience in teaching, service, and administration, I thought she would have valuable insight in reflecting on my performance in all three areas of evaluation.  I asked Dr. Haverkos to address <xref ref="prof-service">service</xref>, <xref ref="prof-scholarship">scholarship</xref>, and <xref ref="prof-teach">teaching</xref> since our contributions to the institution have overlapping in all three of these areas.</p>
                 <p><url href="http://physics.thomasmore.edu/JChristensen/recommendations/Haverkos_for_Christensen.pdf">Haverkos_for_Christensen.pdf (156 kB)</url></p></li>
 
           <li xml:id="rec-huber"><title>Dr. Jeremy Huber</title><p><url href="https://www.linkedin.com/in/jeremy-huber-6b330746/">Dr. Huber</url> has held a short-term full-time position in our department from 2017-2019.  During the 2017-2018 academic year, he was a sabbatical replacement for me in the fall and for Dr. Ryle in the spring.  During the 2018-2019 academic year, he is covering our reduced faculty presence with my return to the role of Associate Provost and our ongoing need for adjuncts.  While Dr. Huber could speak to my interactions in the department, I asked to him to focus some attention on the usefulness and student reaction to having the lab manual online.  This is a direct reflection of my sabbatical work during the summer of 2017 when I was translating the lab manuals from paper documents to online documents (c.f., <url href="http://physics.thomasmore.edu/Labs/121/">PHY121L</url>, <url href="http://physics.thomasmore.edu/Labs/122/">PHY122L</url>, and <url href="http://physics.thomasmore.edu/Labs/220/">NSC220L</url>) to get up to speed on the software that would enable me to write <url href="http://physics.thomasmore.edu/ConnectedPhysics/">the book</url> I hoped to start during <xref ref="ss-sabbatical" text="title">my Fall 2017 sabbatical</xref>.  Please note that the format of this document is the same as that in order to showcase the flexibility of the software.</p>
-                <p><url href="http://physics.thomasmore.edu/JChristensen/recommendations/christensen_letter_huber.pdf">christensen_letter_huber.pdf (105 kB)</url></p></li>
+                <p><url href="http://physics.thomasmore.edu/JChristensen/recommendations/Huber_for_Christensen.pdf">Huber_for_Christensen.pdf (105 kB)</url></p></li>
 
-          <li xml:id="rec-langguth"><title>Dr. Jay Langguth</title><p><url href="https://www.thomasmore.edu/about/faculty.cfm?id=127">Dr. Langguth</url> is a faculty member in the Department of Philosophy, has been the Director of the First-Year Seminar Program (FYS), and has been the Chair of the Faculty since the Fall of 2017.  In this last role, he and I have worked together on a number of committees as well as the <xref ref="ss-committee" text="title">Faculty Policy Manual (FPM)</xref> project.  I have asked Dr. Langguth to focus his attention on my contributions to <xref ref="prof-service">service</xref> and to supplement this with whatever comments he feels are appropriate to my scholarship, especially in regards to my administrative development and my work in the <xref ref="ss-CT">QEP</xref>.</p>
+          <li xml:id="rec-langguth"><title>Dr. Jay Langguth</title><p><url href="https://www.thomasmore.edu/about/faculty.cfm?id=127">Dr. Langguth</url> is a faculty member in the Department of Philosophy, has been the Director of the First-Year Seminar Program (FYS), and has been the Chair of the Faculty since the Fall of 2017.  In this last role, he and I have worked together on a number of committees as well as the <xref ref="ss-committee" text="title">Faculty Policy Manual (FPM)</xref> project.  I have asked Dr. Langguth to focus his attention on my contributions to <xref ref="prof-service" text="title">service</xref> and to supplement this with whatever comments he feels are appropriate to my scholarship, especially in regards to my administrative development and my work in the <xref ref="ss-CT" text="title">QEP</xref>.</p>
                 <p><url href="http://physics.thomasmore.edu/JChristensen/recommendations/Langguth.pdf">Langguth.pdf (308 kB)</url>)</p></li>
 
           <li xml:id="rec-ryle"><title>Dr. Wes Ryle</title><p><url href="https://www.thomasmore.edu/about/faculty.cfm?id=543">Dr. Ryle</url> has been a full-time faculty member of the department since 2008 and has stepped in to be the Department Chair in my place while I took three years to be half-time Assistant Dean. Dr. Ryle offered to write his own letter of support addressing my contributions more broadly to the department and across campus, which he has witnessed through his personal experience and our casual conversations.</p>
-                <p><url href="http://physics.thomasmore.edu/JChristensen/recommendations/RYLE.pdf">RYLE.pdf (308 kB)</url></p></li>
+                <p><url href="http://physics.thomasmore.edu/JChristensen/recommendations/Ryle_for_Christensen.pdf">Ryle_for_Christensen.pdf (138 kB)</url></p></li>
 
         </dl>
 </p>
@@ -888,16 +999,16 @@
         <appendix xml:id="app-additional"><title>Additional Information</title>
 
     <section xml:id="teach-phil"><title>Classroom Approach</title>
-        <p>In order to provide a context for my evaluation of my teaching effectiveness, I am providing here a description of my approach to the classroom.  This also gives some context to the comments in my student evaluations, the most common of which are summarized in <xref ref="t-descriptors" />.
+        <p>In order to provide a context for my evaluation of my teaching effectiveness, I am providing here a description of my approach to the classroom.  This also gives some context to the comments in my student evaluations, the most common of which are summarized in <xref ref="t-descriptors" text="text-global">Table</xref>.
         </p>
 
-        <p>To begin with, I try to maintain a sufficient standard of rigor that balances covering the material at a pace that allows as many students as possible to move forward without holding back the top students.<fn>My student evaluations have a few requests to speed up the class because the top students a frustrated at how much help the slow students need.  I have more requests to slow down.  I think I am generally able to keep a reasonable balance.</fn>  My approach is to move at a middle pace while reaching out to the slower students and occasionally tossing treats out to the faster students.  While I have never been able to go so fast that my best students are satisfied, I also cannot spend sufficient time for all of my students to understand everything.  Typically I try to maintain a pace that (1) keeps fewer than 10<percent /> of students from dropping the course and that (2) allows students who stick with it and work hard to at least not fail the course.  After receiving a small but noticeable number of student evaluations early in my career that indicated that students thought I was arrogant in my grading, I spent a good deal of effort in subsequent years working to see comments in the student evaluations that indicates that students recognized that the grading was fair, that the material is interesting, and that they had sufficient opportunity to get help.</p>
+        <p>To begin with, I try to maintain a sufficient standard of rigor that balances covering the material at a pace that allows as many students as possible to move forward without holding back the top students.  My student evaluations have a few requests to speed up the class because the top students a frustrated at how much help the slow students need.  I have more requests to slow down.  I think I am generally able to keep a reasonable balance. </p>
 
         <p>The approach that works for me is to emphasize that the classroom is a dialog.  There has to be communication back and forth and it needs to come in multiple forms.  While there is undoubtedly a more concise way to express this idea, the analogy in my head is with email versus voice versus face-to-face communication.  Email only has the words you say.  Your voice is better specifically because it adds a dimension of modulation and emphasis.  Face-to-face communication is better because it adds yet another layer of body language.  The <q>email version</q> of classroom communication is when the student gets their information by passively listening to the lecture with limited interaction.  This is still a two-way dialog because (presumably) the student still turns in homework, which is communicating their knowledge (or lack thereof), and the faculty is still grading the homework, which confirms (or at least indicates) the level of understanding the student has according to the perspective of the more-experienced faculty member.  My first order of business is to make as explicit as possible that this is a channel of communication.  This didn't make it into my syllabus until 2010 (c.f., the <url href="Syllabi/MP301SyllabusChristensenF10.pdf">Goals of MAT/PHY 301</url>, discussed in <xref ref="ss-syllabi" text="text-global">Section</xref>).</p>
 
-        <p>The <q>voice version</q> of classroom communication is when the lecture is interactive and the student is being called on and answering the questions that the faculty member asks.  That is to say, students are able to recognize and respond to relevant questions according to what the instructor has (usually recently) introduced.  This is much better than the communication through homework because it is immediate feedback.  Both parties are currently engaged in processing the material and can modify the communication on the fly during the dialog.  I engage in this level of communication with my students by actively calling on individual students during every class.<fn>Comments about this show up throughout my evaluations and can most easily be found by reviewing almost any PHY 121-122 course evaluation.</fn>  I learned very quickly that students are uncomfortable with this approach, but I have not been able to find a better approach.  Some of my attempts will be discussed in <xref ref="ss-syllabi" text="title" />.  I found that students will accept being called on individually if I agree to give them an <q>out</q> when they are having a bad day.  Every student gets one (sometimes two) <q>pass</q> per class period for which they do not have to answer a specific question with no consequence.  The consequence if they continue to pass multiple times, is my dispirited disappointment.  Usually that is sufficient to enable me to convince them to think through the problem out loud with me and the rest of the class.</p>
+        <p>The <q>voice version</q> of classroom communication is when the lecture is interactive and the student is being called on and answering the questions that the faculty member asks.  That is to say, students are able to recognize and respond to relevant questions according to what the instructor has (usually recently) introduced.  This is much better than the communication through homework because it is immediate feedback.  Both parties are currently engaged in processing the material and can modify the communication on the fly during the dialog.  I engage in this level of communication with my students by actively calling on individual students during every class.<fn>Comments about this show up throughout my evaluations and can most easily be found by reviewing almost any PHY 121-122 course evaluation.</fn>  I learned very quickly that students are uncomfortable with this approach, but I have not been able to find a better one.  Some of my attempts will be discussed in <xref ref="ss-syllabi" text="title" />.  I found that students will accept being called on individually if I agree to give them an <q>out</q> when they are having a bad day.  Every student gets one (sometimes two) <q>pass</q> per class period for which they do not have to answer a specific question with no consequence.  The consequence if they continue to pass multiple times, is my dispirited disappointment.  Usually that is sufficient to enable me to convince them to think through the problem out loud with me and the rest of the class.</p>
 
-        <p>The <q>face-to-face version</q> of classroom communication is when students and faculty collaborate to aim the direction of the dialog.  Obviously the faculty member has to maintain an awareness of the big-picture overview of the course and especially how the content of the single class period fits into that context.  What I mean is that the student has to feel comfortable enough with the classroom environment that they are willing to say, <q>Wait! I don't know how to fit that in my head yet.</q>  I try to plan my curriculum to make room for at least two of these per class period.  I engage in this level of communication with my students by first telling them that I have a hearing impairment (which has the benefit of being true) and that, as a result, I need to be looking at them when they ask a question so that I can see their lips moving.  Once I started doing this, the door it opened is that, if they are too uncomfortable to speak up about their confusion (usually for fear of being the only one) I can ask them to make a face or shake their head or somehow convey their confusion with a clear body language.  The advantage of this is that it communicates to me that they are not understanding.  If I see a couple of people doing this, then I <em>explicitly</em> indicate to them that I can see some faces and that they are not alone.  I tell them that I would like to try explaining it in a different way and ask if anybody can help direct my explanation by asking a question.  If they ask, then we can work together to come to an understanding.  If nobody asks a question, then I explicitly change my description of the topic (so that they come to understand that I am willing to explain topics in multiple ways) and ask for faces again.  We then repeat the process.</p>
+        <p>The <q>face-to-face version</q> of classroom communication is when students and faculty collaborate to aim the direction of the dialog.  Obviously the faculty member has to maintain an awareness of the big-picture overview of the course and especially how the content of the single class period fits into that context.  What I mean is that the student has to feel comfortable enough with the classroom environment that they are willing to say, <q>Wait! I don't know how to fit that in my head yet.</q>  I try to plan my curriculum to make room for at least two of these per class period.  I engage in this level of communication with my students by first telling them that I have a hearing impairment (which has the benefit of being true) and that, as a result, I need to be looking at them when they ask a question so that I can see their lips moving.  Once I started doing this, the door it opened is that, if they are too uncomfortable to speak up about their confusion (usually for fear of being the only one) I can ask them to make a face or shake their head or somehow convey their confusion with some body language that can be seen by, although it might not be seen by others in the class.  The advantage of this is that it communicates to me that they are not understanding.  If I see a couple of people doing this, then I <em>explicitly</em> indicate to them that I can see some faces and that they are not alone.  I tell them that I would like to try explaining it in a different way and ask if anybody can help direct my explanation by asking a question.  If they ask, then we can work together to come to an understanding.  If nobody asks a question, then I explicitly change my description of the topic (so that they come to understand that I am willing to explain topics in multiple ways) and ask for faces again.  We then repeat the process.</p>
 
         <p>Ultimately, the message I am trying to convey to them is that the class is less about what I say and more about what they hear.  If they aren't hearing me, then it doesn't do me any good to keep talking.  The dialog that I try to achieve in the classroom is about how we can work together to get the information to fit in their ear.</p>
 
@@ -910,6 +1021,12 @@
         <p>During this tumultuous time, I was elected by the faculty to Faculty Council and then, by the Council, to Chair the Faculty Council. Unlike TMU, at McMurry Chair of the Faculty and Chair of Faculty Council are two distinct positions.  The subsequent fall, to further improve the budget, a campus-wide Program Review was instituted to determine which departments might need to be eliminated; a result of the recognition that salaries formed the largest portion of the budget.  During all of this, a Speaking and Writing Across the Curriculum Task Force was created to consider the possibility of replacing the English-composition general-education-requirement. Both of these also had significant political implications. </p>
         <p>As this all came to a head, the faculty elected me the Chair of the Faculty, possibly because of my somewhat vocal advocacy on behalf of the faculty during faculty meetings, during committee meetings, and behind the scenes. This role put me back on the Faculty Council, required me to participate in the Campus Budget meetings, represent the faculty to the President, and represent the faculty to the various Vice Presidents.  These experiences colored the way I saw the subsequent events at Thomas More. </p>
         </section>
+
+        <section xml:id="app-charity"><title>Community, Church, and Charity</title>
+        <p>You may note some items at the end of <xref ref="prof-vitae" text="title">my CV</xref> that labelled <q>Community</q> and <q>Interests</q>.  The equine-rehabilitation activities are volunteer opportunities that I participated in Texas and for the first few years in Kentucky.  The program I was volunteering at in Kentucky close for a short time and, once I stopped, I found that I had otherwise filled my time when it finally restarted about five years later.  The vintage base ball was also a volunteer activity with the History Department in Texas.  This was not for charity, but rather about community bonding and enrichment.</p>
+        <p>When I was in college, I fell away from the church. In later years, my mother tried to convince me to return.  She urged and cajoled and described all the aspects that were meaningful to her, including a sense of community, being part of something larger than yourself, confidence that you are contributing to a mission that is good and right, being remind of how to live well, supporting your fellow citizen, giving selflessly, etc.  She had a longer list, but while we discussed it, it became clearer and clearer to me that academia is to me what the Catholic church is to my mother.  I had not thought about that in a long time, until I read <xref ref="rec-ryle" text="title">Dr. Ryle's recommendation</xref>.  In hindsight, I think that much of the attitude that he describes is due to my relationship to academia and the participants of our community of scholars.  I am devoted to the mission of academia.</p>
+        </section>
+
 </appendix>
 
     <colophon>
