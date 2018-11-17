@@ -270,14 +270,14 @@
 <!-- ********************************************************************************************** -->
 
 <introduction xml:id="application">
-<p><em>Application for Promotion or Tenure:</em> <underscore /><insert>Promotion</insert><underscore /></p>
-<p><em>Name of Applicant:</em> <underscore /><insert>Joseph Christensen</insert><underscore /></p>
-<p><em>Department:</em> <underscore /><insert>Department of Math and Physics</insert><underscore /></p>
-<p><em>Present Rank:</em> <underscore /><insert>Associate Professor</insert><underscore /></p>
-<p><em>Date of Appointment: </em> <underscore /><insert>2007 (when hired)</insert><underscore /></p>
-<p><em>Rank Applying For:</em> <underscore /><insert>Professor</insert><underscore /></p>
-<p><em>To Become Effective: </em> <underscore /><insert>2019</insert><underscore /></p>
-<p><em>If Applicant Holds Tenure, Date of Appointment:</em> <underscore /><insert>2011</insert><underscore /></p>
+<p><em>Application for Promotion or Tenure:</em> Promotion</p>
+<p><em>Name of Applicant:</em> Joseph Christensen</p>
+<p><em>Department:</em> Department of Math and Physics</p>
+<p><em>Present Rank:</em> Associate Professor</p>
+<p><em>Date of Appointment: </em> 2007 (when hired)</p>
+<p><em>Rank Applying For:</em> Professor</p>
+<p><em>To Become Effective: </em> 2019</p>
+<p><em>If Applicant Holds Tenure, Date of Appointment:</em> 2011</p>
 </introduction>
 
 <!-- ********************************************************************************************** -->
@@ -349,9 +349,8 @@
 </tabular></sidebyside>
 
 
-<p><dl>
-<li><title>Education</title>
-<sidebyside>
+<paragraphs xml:id="cv-education"><title>Education</title>
+<p><sidebyside>
 <tabular>
 <col width="10%" /><col width="20%" /><col width="20%" /><col width="15%" />
 <row><cell>Ph.D.</cell><cell>University of Kentucky</cell><cell>(Lexington, KY)</cell><cell>1990<ndash />1998</cell></row>
@@ -361,8 +360,8 @@
 <row><cell /><cell colspan="2"><em>Physics and Mathematics</em></cell><cell /></row>
 </tabular>
 </sidebyside>
-</li>
-<li><title>Teaching Experience</title>
+</p></paragraphs>
+<paragraphs xml:id="cv-teach-exper"><title>Teaching Experience</title>
 <sidebyside>
 <tabular>
 <col width="10%" /><col width="20%" /><col width="20%" /><col width="15%" />
@@ -378,9 +377,7 @@
         <cell>1998<ndash />1999</cell></row>
 </tabular>
 </sidebyside>
-</li>
-</dl>
-</p>
+</paragraphs>
 
 </section>
 
@@ -435,7 +432,7 @@ You may notice that in <xref ref="syl-416" text="title" />, I also chose a bad s
 
 <paragraphs xml:id="p-115"><title>MAT 115: Pre-Calculus</title>
 <p>This course is taken by anybody who is not prepared for calculus, both MAT 143 and MAT 151.  The majority of these students are business majors or biology majors.  Some of these are academically mature but interested elsewhere, but many approach this class with trepidation. These students are not as extreme as the developmental math course, but are still somewhat uncomfortable with the material, self-conscious about their math skills, and expecting to have difficulty.  I had tried a similar approach in the GEC course I taught in 2007 to mixed results<fn>This was discussed in my tenure application.</fn>.  Some loved it and visited me through the next semester to let me know how they were doing in their next class.  Others were not so enthusiastic.</p>
-<p>It is my understanding, based on discussions with a friend in Texas who is trained in the field of Cognitive Learning, that students do best when given only enough homework to gain proficiency. Unfortunately, this varies from student to student, especially in a beginning math course. Often the online homework can test for proficiency, vary the assignment length by student, and save me the trouble of grading, but in that case, it is difficult for me to see the details of the student thinking.  What I am trying this semester (See <xref ref="syl-115" text="type-global" />) is: 
+<p>It is my understanding, based on discussions with a friend in Texas who is trained in the field of Cognitive Learning, that students do best when given only enough homework to gain proficiency. Unfortunately, this varies from student to student, especially in a beginning math course. Often the online homework can test for proficiency, vary the assignment length by student, and save me the trouble of grading, but in that case, it is difficult for me to see the details of the student thinking.  What I am trying this semester (See <xref ref="syl-115" text="type-global" />) is:
 <ol>
 <li>tell the students ahead of time which section we will be covering, </li>
 <li>ask them to look it over and try as many problems as they can do, and </li>
@@ -497,7 +494,7 @@ various household appliances, and weather and climate models. These are all stud
 topics. It usually takes the students a week or two to realize that they have this measure of control over the course and in one instance the course turned into “stump the professor” in a good-natured competition that included the reciprocal game of “bluff the student”, requiring research on their part as well.</p>
 </paragraphs>
 
-<paragraphs><title>PHY 490: Research Proposal</title>
+<paragraphs xml:id="p-490"><title>PHY 490: Research Proposal</title>
 <p>My second example for the non-science majors is a course I successfully taught at my previous
 institution and which has not yet taken hold here because, the one time I had room in my
 schedule to offer it, I did a poor job of promoting it among both faculty and students. (See
@@ -529,21 +526,53 @@ topics. It usually takes the students a week or two to realize that they have th
 
 <section xml:id="prof-scholarship"><title>Scholarship</title>
 
-<subsection xml:id="scholar-narrative"><title>Narrative</title>
+<introduction>
+<p>My <xref ref="scholar-publist" text="title" />, below, lists articles that I have published and my <xref ref="prof-vitae" text="title" /> lists talks that I have given.  Although there is a significant gap in my publications while I focused my career on administrative service to the institution, you may note that I continue to have many presentations.  Please also note from my CV that my conference activity has been fairly stable at just over one per year since 2010.  The quick take-away is that I have remained active in professional development in new and interesting areas of study, even if those do not happen to be the specific field of my dissertation.  These new areas of investigation have been in critical thinking, assessment, SACSCOC reporting, physics education, and, most recently, pedagogy.
+</p>
+</introduction>
 
-<subsubsection xml:id="ss-CT"><title>Critical Thinking and the Classroom</title>
-<p>.</p>
-</subsubsection>
+<subsection xml:id="ss-CT"><title>Critical Thinking and the Classroom</title>
+<p>In my role as the <xref ref="ss-QEP" text="title" />, I oversaw the implementation of a plan to make explicit the critical thinking that was happening on campus.  This involved researching the various approaches to critical thinking, many of which have been around for several decades.  Through this study, our group settled on the model advocated by Richard Paul and Linda Elder: the Paul-Elder model.  (Details can be found at <url href="https://www.criticalthinking.org/" />.)  Investigation of the details of the model involved attending several conferences and a significant amount of study to develop to the level of presenting faculty development workshops.  Conveniently the University of Louisville holds a conference every May, called <url href="http://louisville.edu/ideastoaction/about">Ideas-to-Action (I2A)</url>, which we were able to attend.  </p>
+<p>Dr. Gerald Nosich is involved with the Center for Critical Thinking and presented at I2A.  He advocated for some techniques that can improve the critical thinking of students in the classroom.  Our initial cohort, including Dr. John Ernst, and I attended some conferences and made plans to implement the techniques in our classrooms.  We spent a year learning and planning, while collecting baseline data.  We then spent a year implementing the ideas in our classrooms, while meeting weekly to discuss how it was going and evaluating if changes needed to be made.  Some of that cross-pollination developed into interesting modifications to other classrooms.  Several of us, and I in particular, developed workshops for the broader faculty.  I have lost count of how many workshops and presentations I have made, but the topics I have given workshop on are listed below.  Several of the workshops have been given multiple times and in multiple forms.  In general, the workshops were to our TMU faculty, although the Paul-Elder Intellectual Virtues talk was presented at I2A. (Many people struggle to see how to use these and I would like to refer you to the comments from <xref ref="rec-ernst" text="title" />.) We had a new cohort every year and the new 7-10 faculty and staff needed to be trained in the model.  At first Dr. Ernst and I took on the primary responsibility of those workshops, but then we asked the veterans to spread the word as well.  Every summer we had training sessions for the new cohort and every May we had a one- to two-day long series of workshops open to all faculty.
+<ul>
+        <li>Paul-Elder Elements of Reason (many iterations)</li>
+        <li>Paul-Elder Intellectual Standards (many iterations)</li>
+        <li>Paul-Elder Intellectual Virtues (a few times, and off-campus)</li>
+        <li>Variety of workshops on using the Paul-Elder model: Grading techniques with Standards (CALD), Rubrics, Using Elements to ask better questions, Close Reading</li>
+        <li>Intentionality (<q>backwards design</q>)</li>
+        <li>Techniques: F<ampersand />PC (maintaining clarity), CQ (narrative arc), SEE-I (developing understanding)</li>
+        <li>Collaborative Learning Topics: Think-Pair-Share, Pair-and-Compare, Talk-Aloud-Solutions, Group Worksheet with Individual Quiz (and other uses of IF-AT forms), Jigsaw groups, Gallery Walks</li>
+        <li>Faculty Peer Mentor Applications: Brainstorm, Explain your class (possibly use of the Elements), SLO, Visit each other's classes.</li>
+        <li>5E's: Engage, Explore, Explain, Elaborate, Evaluate.</li>
+        <li>Annual training on using the CAT assessment</li>
+        <li>CAT<ndash />analog questions for your classroom.</li>
+</ul> 
+</p>
+</subsection>
 
-<subsubsection xml:id="ss-sabbatical"><title>Sabbatical</title>
-<p>.</p>
-</subsubsection>
+<subsection xml:id="ss-sabbatical"><title>Sabbatical</title>
 
-<subsubsection xml:id="ss-physics"><title>Physics Scholarship</title>
-<p>.</p>
-</subsubsection>
+<p>My goal with the sabbatical was to create a new style of textbook.  The topic of the book is the introductory algebra-based physics course, which I have been teaching nearly every term since Spring, 1998.  For about a decade now, faculty have heard that books are moving to an electronic format.  There have been vocal marketing initiatives to encourage ebook formats and we are hearing, with increasing frequency, that high school students are coming to us from schools that are exclusively electronic book markets, with the equivalent of <q>You will soon meet students who have never held a physical book in their hands.</q> Furthermore, with the push for online courses, a good ebook would complement this trend.</p>
+
+<p>For the past five years, I have considered an eformat for my textbook, but have found them mostly to be the equivalent of a pdf version of a print book. These are awkward to use (even if students are <q>used to it</q> because it is all they know), frustratingly slow on older computers, and can be worse to use than a webpage because the full page is an image rather than having quick-loading text supplemented by slow-loading images.  I would like to make a physics text that actually makes use of the electronic format.  My current thought is to style it after the wiki pages with hyperlinks and cross-referencing.  This would not only solve the issues mentioned above (because it could be read in a browser), but I think could allow faculty to teach the material in an order of their choosing, rather than the order set by the author, although that adds a level of complexity in the selection of homework problems.</p>
+
+<p>By fortunate coincidence, Dr. Riehemann attended a math conference and learned about a new software (<url href="http://mathbook.pugetsound.edu/"><pretext />: write once, read anywhere</url>) that enables mathematicians to do just that!  It was a very exciting find.  Over the summer of 2017, I researched the software.  I joined the <url href="https://groups.google.com/forum/?utm_source=digest&amp;utm_medium=email#!forum/pretext-support">Google-group discussion forum for author support</url> and learned about the details.  As I moved forward, I realized that it is written by and for mathematicians.  As a physicist, I realized it needed some changes and I joined the <url href="https://groups.google.com/forum/?utm_source=digest&amp;utm_medium=email#!forum/pretext-dev">Google-group discussion forum for developers</url> and began detailed conversation about features that might be incorporated.  As the summer drew to a close I realized that I needed a test-bed to discover if this format was actually feasible.</p>
+
+<p>Since the department lab exercises were designed to lean towards being inquiry-based, with prompting questions and analysis questions that helped students try to figure out what they should measure and what might make a useful graph, etc., this seemed like the perfect place to try to incorporate a ready-made and familiar product into a new format.  So at the beginning of August I asked <xref ref="rec-huber" text="title" />, our sabbatical replacement, if he would be willing to be my guinea pig and he was amenable. I have now created an online lab manual for three courses: The two introductory algebra-based physics labs (<url href="http://physics.thomasmore.edu/Labs/121/" /> and <url href="http://physics.thomasmore.edu/Labs/122/" />), which are taught in service to the Department of Biological Sciences, and my NSC lab for the <q>Anything Physics</q> course (<url href="http://physics.thomasmore.edu/Labs/220/" />).  Once we started down this road, it became clear that we also needed a page for the lab assistant (a physics student worker) to understand how to set up each lab.  We had some excel and word files that listed equipment, but they were not reliably clear.  This turned into a fairly substantial project, but the result is quite useful (<url href="http://physics.thomasmore.edu/Labs/TMC-lab-setup.html" />).  Since I worked closely with <xref ref="rec-huber" text="title" /> on this project, I asked him to write one of my letters of recommendation. </p>
+
+<p>Throughout the efforts with the lab manual, I began converting my early draft textbook into the new format.  That had the beginnings of one chapter.  Once it was translated, I began writing the book in earnest.  I have now essentially completed <url href="http://physics.thomasmore.edu/ConnectedPhysics/c-force.html" text="title">Part II, Chapter 3</url> and several sections of <url href="http://physics.thomasmore.edu/ConnectedPhysics/c-forcetype.html" text="title">Part II, Chapter 4</url>.  I am naming the book <q>Connected Physics</q> (<url href="http://physics.thomasmore.edu/ConnectedPhysics/frontmatter-1.html" />) because the point of writing the book is to enable all of the material to be connected.  I would like to draw attention to the way one topic builds on previous material and leads into the next material.  The book has links forwards and backwards.  As I create the text that requires a forwards or backwards link, I add the link and the placeholder in the <q>other</q> chapter.  If you read the book, you will find links that go to notes for what will eventually be in that spot.
+</p>
+
+<p>While this is still a work in progress, I was accepted to present at the national American Physical Society (APS) meeting in the Physics Education category in the textbook subcategory.  During the conference, I had some interesting conversations, learned about some resources that had been developed since my last excursion in to the Physics Education division of APS.</p>
 
 </subsection>
+
+<subsection xml:id="ss-physics"><title>Physics Scholarship</title>
+<p>As noted in the previous section, I attended the national APS meeting in April, 2018. Many of the talks I attended were in the Physics Education field.  I learned about some resources and just this week attended, with Dr. Haverkos in our Education Department, a <url href="https://www.phystec.org/thriving/?">webinar about a study</url> on characteristics that make for a thriving Physics Teacher Education program.  As I work on the textbook mentioned in the previous section, I hope to also develop some pedagogy for the classroom using some of the QEP techniques and present those at future physics programs.</p>
+
+<p>I otherwise stay active in the field by being an active reviewer for the American Journal of Physics (AJP), which I currently do about once a year.  I also subscribe to AJP and The Physics Teacher (TPT) and I hope to incorporate some of the information in those journals into a student research project soon.  You might note the connection to the <xref ref="p-490" text="title" /> course that I describe above in <xref ref="ss-design" text="type-global" /> on Course Design.</p>
+</subsection>
+
 
 <subsection xml:id="scholar-publist"><title>Publication List</title>
 <p>My <url href="https://www.scopus.com/authid/detail.uri?authorId=55425907700">SCOPUS list</url> includes the following refereed journals and conference proceedings.  I have linked to the DOI for all published works, but most of these require a subscription to access them.  Where relevant, I have also included a link to <url href="https://arxiv.org/">ar<m>\chi</m>ive</url>, which is a preprint archive that has the full pdf article.
@@ -638,6 +667,23 @@ topics. It usually takes the students a week or two to realize that they have th
 </p>
 </introduction>
 
+<subsubsection xml:id="ss-advising"><title>Counseling and Advising</title>
+<p>Over the past decade I have retained some advisees, but, since I have been half-time faculty, I have only covered about half to two-thirds as many advisees as the others in the department.  This year, I have taken on a few more and most of them first-year students because my current advisees are set to graduate soon.</p>
+<p>On the other hand, in my capacity as Assistant Dean and now as Provost, one of my jobs has been to handle student problems that impact the classroom.  Some of these have been medical issues.  Some have been student complaints about faculty.  Some of these have been faculty submitting academic violations.  Throughout the years, my goal has been to hear both sides, mediate the conversation so that both sides not only feel heard, but come together to a solution that is acceptable and reasonable.  I think I have contributed significantly in this regard, but I do not have an accurate count of the number of students and faculty that I have interacted in this regard.  I would estimate that the numbers were around five each year while I was Assistant Dean and around ten as Associate Provost.  The difference in the latter seems to be an increasing number of students with clinically treated anxiety.  While these numbers are small, they don't get to the Dean's office unless they are pretty severe or sensitive.  Often a parent is involved.  Sometimes the President is involved.  Many times there are issues that affect the student's financial aid or possibly impact whether or not the student will be lost to higher education for the foreseeable future.</p>
+<p>One last thought that I will include here, although I don't think it falls under the original intent of the category.  At least half of my job as the Director of the QEP was about serving and supporting faculty as they evaluated their classrooms.  I did not think to ask for a letter of recommendation about this specific topic, but I think most of the faculty who participated in the QEP will attest, a significant fraction of <q>supporting the faculty</q> was counseling and advising the faculty, expressed through hashing out ideas and offering advice and feedback to them as individuals.  This was, I think, my most significant contribution to the community from my time in the QEP.</p>
+
+</subsubsection>
+
+
+<subsubsection xml:id="ss-committee"><title>Committee Work</title>
+<p>I have served on many committees and these are detailed on my <xref ref="prof-vitae" text="title" />.  Some of these are in my capacity as a faculty member.  In other cases I was either <foreign>ex officio</foreign> or guest.  An extreme example of the complications not captured in the CV is the CAC. During my first year, I was there as a faculty member, then my role became the QEP representative.  Once I became Assistant Dean, I was replaced with Dr. Ernst as the QEP representative.  Shortly thereafter, I was put back on that committee as the representative of the Dean's office.  Independent of the representation issue, I am proud of the efforts of the committee to tackle the complex issue of reconsidering the core curriculum.  Because developing a curriculum is about more than selecting the appropriate courses, we began by developing the student outcomes and then set to the task of using those outcomes as a guide for selecting courses that would enable our students to reach the goals of our curriculum.  While I was by no means the sole contributor to this committee, I think any of those members would agree that I carried at least my fair share of the effort in bringing these ideas forward to the faculty.</p>
+<p>For a second example of my contributions, in my role as first Assistant Dean and now the Associate Provost, I have served as a guest in FCC and Academic Affairs where my role is to be a resource for the committee whenever they are deliberating an issue.</p>
+<p>A third example that I would like to highlight is my effort with the book-rental programs.  Working through the various issues that arose took diplomacy, a sense of calm, an ability to collaborate and problem solve, and an awareness of serving multiple, competing goals for the program.  I think I contributed significantly to enabling this program to the benefit of many students and the repair of difficulties some faculty faced.  This effort was significant enough that I thought it would be appropriate to ask <xref ref="rec-garnick" text="title" /> for a letter of recommendation, which she graciously agreed to do.</p>
+<p>While there are other committees I could discuss, the committee work I am most proud of is that of the revisions to the Faculty Policy Manual.  The committee is in charge of reviewing the changes made by Stephen Lazarus and comparing it to our culture at Thomas More.  This committee has met during the spring and throughout the summer as well as into the fall.  I have been the recorder during this time.  My role has been in tracking the conversation during the meetings and then translating that into recommendations for Stephen Lazarus to consider when he edits the document.</p>
+<p>In general, my CV also indicates the positions I held on those committees.  Throughout this there have also been meetings between staff departments, such as the START committee, which bring together representatives from Student Life, the Academic Dean, Security, Financial Aid, Admissions, Athletics, Religious Life, HR, Counseling, etc. to coordinate efforts and figure out how to best support the students and the broader Thomas More Community.  My strongest take away from this experience has also been the strongest driving factor in my desire to contribute in service to the institution: that we belong to an academic community that is driven to support not only each other, but the students who pass through, contribute, and are changed by their experience here.  I say this to highlight the comments that <xref ref="rec-ryle" text="title" /> ended his recommendation with. I am able to support individuals specifically because I feel the support of the broader community through this committee structure.</p>
+
+</subsubsection>
+
 <subsubsection xml:id="ss-other"><title>Other Service Activities</title>
 
 <introduction><p>You may note from my <xref ref="prof-vitae" text="title" /> that I started accepting half-time administrative roles in 2010, when I threw my name in the ring for the position of Director of the QEP.  When the position was offered to me, I made the commitment to serve through the fifth-year SACS-COC report, which I did.  In the middle of this commitment, we hired a new president, which led to my accepting a position as Assistant Dean.  While these situations will become more clear below, I should indicate that I believe that accepting each of these roles was mostly for the good of the institution and to the detriment to the department.  The other faculty have had to shoulder a significant portion of the load that I neglected in taking these positions and for that I am grateful to them.</p>
@@ -662,22 +708,6 @@ topics. It usually takes the students a week or two to realize that they have th
 <paragraphs xml:id="ss-AssP"><title>Associate Provost</title>
 <p>.</p>
 </paragraphs>
-
-</subsubsection>
-
-<subsubsection xml:id="ss-committee"><title>Committee Work</title>
-<p>I have served on many committees and these are detailed on my <xref ref="prof-vitae" text="title" />.  Some of these are in my capacity as a faculty member.  In other cases I was either <foreign>ex officio</foreign> or guest.  An extreme example of the complications not captured in the CV is the CAC. During my first year, I was there as a faculty member, then my role became the QEP representative.  Once I became Assistant Dean, I was replaced with Dr. Ernst as the QEP representative.  Shortly thereafter, I was put back on that committee as the representative of the Dean's office.  Independent of the representation issue, I am proud of the efforts of the committee to tackle the complex issue of reconsidering the core curriculum.  Because developing a curriculum is about more than selecting the appropriate courses, we began by developing the student outcomes and then set to the task of using those outcomes as a guide for selecting courses that would enable our students to reach the goals of our curriculum.  While I was by no means the sole contributor to this committee, I think any of those members would agree that I carried at least my fair share of the effort in bringing these ideas forward to the faculty.</p>
-<p>For a second example of my contributions, in my role as first Assistant Dean and now the Associate Provost, I have served as a guest in FCC and Academic Affairs where my role is to be a resource for the committee whenever they are deliberating an issue.</p>
-<p>A third example that I would like to highlight is my effort with the book-rental programs.  Working through the various issues that arose took diplomacy, a sense of calm, an ability to collaborate and problem solve, and an awareness of serving multiple, competing goals for the program.  I think I contributed significantly to enabling this program to the benefit of many students and the repair of difficulties some faculty faced.  This effort was significant enough that I thought it would be appropriate to ask <xref ref="rec-garnick" text="title" /> for a letter of recommendation, which she graciously agreed to do.</p>
-<p>While there are other committees I could discuss, the committee work I am most proud of is that of the revisions to the Faculty Policy Manual.  The committee is in charge of reviewing the changes made by Stephen Lazarus and comparing it to our culture at Thomas More.  This committee has met during the spring and throughout the summer as well as into the fall.  I have been the recorder during this time.  My role has been in tracking the conversation during the meetings and then translating that into recommendations for Stephen Lazarus to consider when he edits the document.</p>
-<p>In general, my CV also indicates the positions I held on those committees.  Throughout this there have also been meetings between staff departments, such as the START committee, which bring together representatives from Student Life, the Academic Dean, Security, Financial Aid, Admissions, Athletics, Religious Life, HR, Counseling, etc. to coordinate efforts and figure out how to best support the students and the broader Thomas More Community.  My strongest take away from this experience has also been the strongest driving factor in my desire to contribute in service to the institution: that we belong to an academic community that is driven to support not only each other, but the students who pass through, contribute, and are changed by their experience here.  I say this to highlight the comments that <xref ref="rec-ryle" text="title" /> ended his recommendation with. I am able to support individuals specifically because I feel the support of the broader community through this committee structure.</p>
-
-</subsubsection>
-
-<subsubsection xml:id="ss-advising"><title>Counseling and Advising</title>
-<p>Over the past decade I have retained some advisees, but, since I have been half-time faculty, I have only covered about half to two-thirds as many advisees as the others in the department.  This year, I have taken on a few more and most of them first-year students because my current advisees are set to graduate soon.</p>
-<p>On the other hand, in my capacity as Assistant Dean and now as Provost, one of my jobs has been to handle student problems that impact the classroom.  Some of these have been medical issues.  Some have been student complaints about faculty.  Some of these have been faculty submitting academic violations.  Throughout the years, my goal has been to hear both sides, mediate the conversation so that both sides not only feel heard, but come together to a solution that is acceptable and reasonable.  I think I have contributed significantly in this regard, but I do not have an accurate count of the number of students and faculty that I have interacted in this regard.  I would estimate that the numbers were around five each year while I was Assistant Dean and around ten as Associate Provost.  The difference in the latter seems to be an increasing number of students with clinically treated anxiety.  While these numbers are small, they don't get to the Dean's office unless they are pretty severe or sensitive.  Often a parent is involved.  Sometimes the President is involved.  Many times there are issues that affect the student's financial aid or possibly impact whether or not the student will be lost to higher education for the foreseeable future.</p>
-<p>One last thought that I will include here, although I don't think it falls under the original intent of the category.  At least half of my job as the Director of the QEP was about serving and supporting faculty as they evaluated their classrooms.  I did not think to ask for a letter of recommendation about this specific topic, but I think most of the faculty who participated in the QEP will attest, a significant fraction of <q>supporting the faculty</q> was expressed through hashing out ideas and offering advice and feedback to them as individuals.  This was, I think, my most significant contribution to the community from my time in the QEP.</p>
 
 </subsubsection>
 
